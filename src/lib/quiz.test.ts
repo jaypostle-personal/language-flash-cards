@@ -20,10 +20,8 @@ describe("normalizeAnswer", () => {
 
 describe("isAnswerCorrect", () => {
   it("accepts exact answers regardless of case and accent differences", () => {
-    expect(isAnswerCorrect("caffe", ["caffè", "coffee"]))
-      .toBe(true);
-    expect(isAnswerCorrect("Buongiorno", ["buongiorno"]))
-      .toBe(true);
+    expect(isAnswerCorrect("caffe", ["caffè", "coffee"])).toBe(true);
+    expect(isAnswerCorrect("Buongiorno", ["buongiorno"])).toBe(true);
   });
 
   it("rejects incorrect answers", () => {
@@ -31,6 +29,8 @@ describe("isAnswerCorrect", () => {
   });
 
   it("accepts alternate valid answers listed for the same prompt", () => {
-    expect(isAnswerCorrect("l'acqua", ["acqua", "l acqua", "l'acqua"])).toBe(true);
+    expect(isAnswerCorrect("l'acqua", ["acqua", "l acqua", "l'acqua"])).toBe(
+      true,
+    );
   });
 });
