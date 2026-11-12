@@ -15,25 +15,25 @@ A small-commit roadmap for the Italian vocabulary learning app. The workspace is
 
 ## Commit sequence
 
-### 1. `chore: remove Vite starter screen`
+### 1. `chore: remove Vite starter screen` ✅
 
 Remove demo content and starter styles, leaving a minimal app shell.
 
 **Verify:** `npm run build` and `npm run lint` pass.
 
-### 2. `build: add Tailwind CSS`
+### 2. `build: add Tailwind CSS` ✅
 
 Add Tailwind and its Vite-compatible configuration. Establish basic color, font, and layout tokens for the warm, playful visual direction.
 
 **Verify:** Tailwind styles render in the app; build and lint pass.
 
-### 3. `ui: initialize shadcn components`
+### 3. `ui: initialize shadcn components` ✅
 
 Set up shadcn/ui and add only the components needed initially: Button, Card, Input, Select, and Progress.
 
 **Verify:** Render a small component preview and check keyboard focus styles.
 
-### 4. `data: add sourced Italian vocabulary`
+### 4. `data: add sourced Italian vocabulary` ⏳
 
 Use the supplied `data/italian.json` as a source candidate, not as the app's runtime format. It currently contains 16,887 entries (rather than 40,000), English glosses, CEFR labels, part of speech, frequency rank, and example sentences. Keep the downloaded source unchanged and create a separate curated app dataset of 1,000 beginner-focused entries, prioritizing A1/A2 and lower frequency rank. Convert each entry to a stable app schema with an ID, Italian lemma, English prompt/glosses, accepted Italian answer(s), CEFR level, part of speech, and optional example sentence.
 
@@ -43,19 +43,19 @@ Record the dataset URL, authors/contributors, retrieval date, transformation ste
 
 **Verify:** Validate exactly 1,000 unique curated entries, required fields and allowed CEFR/POS values, non-empty prompts and answers, and noun article coverage. Confirm source attribution and redistribution terms before shipping the dataset.
 
-### 5. `test: add quiz logic tests`
+### 5. `test: add quiz logic tests` ✅
 
 Add a test runner and tests for answer normalization: case-insensitivity, accent handling, and accepted alternatives.
 
 **Verify:** Tests pass for correct, incorrect, and alternate answers.
 
-### 6. `feat: implement quiz session rules`
+### 6. `feat: implement quiz session rules` ✅
 
 Build the framework-independent session logic: select 10, 20, or 50 unique words; requeue missed words; finish once every selected word has been answered correctly. Keep session state in memory only.
 
 **Verify:** Tests cover selection size, requeueing, completion, and progress counts.
 
-### 7. `feat: add client-side routing`
+### 7. `feat: add client-side routing` ⏳
 
 Add React Router for the distinct deck-selection, quiz, and completion screens. Keep session state in an in-memory provider above the routes, and provide a not-found route. Do not persist session data or encode it in URLs.
 
