@@ -2,7 +2,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="app-shell">
+    <div className="app-shell bg-paper text-ink">
       <header className="topbar">
         <a className="brand" href="/" aria-label="Parola home">
           <span className="brand-mark" aria-hidden="true">
