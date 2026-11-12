@@ -35,9 +35,13 @@ Set up shadcn/ui and add only the components needed initially: Button, Card, Inp
 
 ### 4. `data: add sourced Italian vocabulary`
 
-Add a learner-focused list of 1,000 words, with English prompts, accepted Italian answers, noun articles where relevant, and source/license attribution.
+Use the supplied `data/italian.json` as a source candidate, not as the app's runtime format. It currently contains 16,887 entries (rather than 40,000), English glosses, CEFR labels, part of speech, frequency rank, and example sentences. Keep the downloaded source unchanged and create a separate curated app dataset of 1,000 beginner-focused entries, prioritizing A1/A2 and lower frequency rank. Convert each entry to a stable app schema with an ID, Italian lemma, English prompt/glosses, accepted Italian answer(s), CEFR level, part of speech, and optional example sentence.
 
-**Verify:** Validate that there are 1,000 usable entries and every entry has the required fields.
+Do not treat every semicolon-separated English gloss as a distinct answer, or `romanization` as pronunciation data; review ambiguous translations and examples. Add the correct Italian article/gender for curated nouns so the quiz can teach and check articles. Exclude or repair malformed entries and manually review the selected vocabulary for learner suitability.
+
+Record the dataset URL, authors/contributors, retrieval date, transformation steps, and license in a data attribution file. The linked repository advertises an MIT license and an attribution file, but also describes frequency lists compiled from varied sources and LLM-assisted editing; verify that the license and upstream source terms cover the actual downloaded data before redistributing it.
+
+**Verify:** Validate exactly 1,000 unique curated entries, required fields and allowed CEFR/POS values, non-empty prompts and answers, and noun article coverage. Confirm source attribution and redistribution terms before shipping the dataset.
 
 ### 5. `test: add quiz logic tests`
 
