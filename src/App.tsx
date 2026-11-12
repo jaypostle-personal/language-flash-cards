@@ -1,6 +1,14 @@
 import "./App.css";
+import UiPreview from "@/dev/UiPreview";
 
 function App() {
+  if (
+    import.meta.env.DEV &&
+    new URLSearchParams(window.location.search).has("ui-preview")
+  ) {
+    return <UiPreview />;
+  }
+
   return (
     <div className="app-shell bg-paper text-ink">
       <header className="topbar">
