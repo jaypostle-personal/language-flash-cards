@@ -1,6 +1,7 @@
 import { useState, type FormEvent } from "react";
 import { Navigate, useNavigate } from "react-router-dom";
 
+import { FormattedPrompt } from "@/components/FormattedPrompt";
 import { Button } from "@/components/ui/button";
 import {
   Card,
@@ -77,7 +78,7 @@ export function QuizScreen() {
               tabIndex={-1}
               className="pt-3 text-3xl font-semibold"
             >
-              {session.currentCard.prompt}
+              <FormattedPrompt prompt={session.currentCard.prompt} />
             </CardTitle>
             <CardDescription>
               {session.remainingCount} left in this round.

@@ -89,6 +89,12 @@ Keep English → Italian as the default. Add a visually secondary direction cont
 
 **Verify:** Default direction remains English → Italian; the optional reverse direction presents Italian prompts and validates against reviewed English answers; feedback and completion results show the expected answer for the chosen direction. Tests cover each direction and ambiguous source glosses are not accepted without review.
 
+### 14. `feat: show the CEFR level while testing a card`
+
+E.g. for a word like "play" it should say A1 or A2 in the top right of the Card description
+
+### 15. `feat: show what type of word it is e.g. adjective, noun, etc`
+
 ## Out of scope for the first release
 
 Audio, accounts, and saved history are deferred to keep the initial app focused.
