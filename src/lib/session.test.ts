@@ -20,6 +20,22 @@ describe("createSession", () => {
     expect(session.currentCard?.id).toBe("card-1");
     expect(session.isComplete).toBe(false);
   });
+
+  it("starts a fresh session without carrying over previous answers", () => {
+    const previousSession = createSession(sampleDeck, 2);
+    const progressedSession = answerCurrentCard(
+      previousSession,
+      "ciao",
+    ).session;
+    const restartedSession = createSession(sampleDeck, 2);
+
+    expect(progressedSession.correctCount).toBe(1);
+    expect(restartedSession.correctCount).toBe(0);
+    expect(restartedSession.completedCount).toBe(0);
+    expect(restartedSession.remainingCount).toBe(2);
+    expect(restartedSession.correctAnswers).toEqual([]);
+    expect(restartedSession.currentCard?.id).toBe("card-1");
+  });
 });
 
 describe("answerCurrentCard", () => {

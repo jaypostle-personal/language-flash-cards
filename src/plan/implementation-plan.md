@@ -61,23 +61,11 @@ Add React Router for the distinct deck-selection, quiz, and completion screens. 
 
 **Verify:** Navigation between screens works with links and browser back/forward; unknown paths show a not-found view; build, lint, and tests pass.
 
-### 8. `feat: build deck selection screen`
-
-Create the start screen with Italian as the challenge language and the 10/20/50 deck-size choices.
-
-**Verify:** Each choice starts a session with the selected number of unique words.
-
-### 9. `feat: add typed flashcard flow`
-
-Show one English prompt at a time, accept a typed Italian answer, and show correctness plus the expected answer before the learner continues.
-
-**Verify:** Enter submits; the Next action advances only after feedback.
-
-### 10. `feat: add session completion and restart`
+### 10. `feat: add session completion and restart` ✅
 
 Show a completion screen with session results and an option to start another deck.
 
-**Verify:** Restart begins a fresh session without carrying over old answers.
+**Verify:** Restart begins a fresh session without carrying over old answers; tests, lint, and build pass.
 
 ### 11. `polish: improve responsive and accessible UX`
 
