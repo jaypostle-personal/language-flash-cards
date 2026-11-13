@@ -1,5 +1,26 @@
-import "./App.css";
+import { useState } from "react";
+import {
+  BrowserRouter,
+  Navigate,
+  Route,
+  Routes,
+  useNavigate,
+} from "react-router-dom";
+
 import UiPreview from "@/dev/UiPreview";
+import { Button } from "@/components/ui/button";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import { Input } from "@/components/ui/input";
+import { SessionProvider } from "@/lib/session-provider";
+import { useSession } from "@/lib/use-session";
+
+import "./App.css";
 
 function App() {
   if (
@@ -10,56 +31,238 @@ function App() {
   }
 
   return (
-    <div className="app-shell bg-paper text-ink">
-      <header className="topbar">
-        <a className="brand" href="/" aria-label="Parola home">
-          <span className="brand-mark" aria-hidden="true">
-            p
-          </span>
-          <span>parola</span>
-        </a>
-        <span className="language-badge">
-          <span aria-hidden="true">🇮🇹</span>
-          Italian
-        </span>
-      </header>
+    <SessionProvider>
+      <BrowserRouter>
+        <AppRoutes />
+      </BrowserRouter>
+    </SessionProvider>
+  );
+}
 
-      <main className="welcome" id="main-content">
-        <div className="welcome-copy">
-          <p className="eyebrow">A LITTLE PRACTICE GOES A LONG WAY</p>
-          <h1>
-            Italian, one word <span>at a time.</span>
-          </h1>
-          <p className="welcome-description">
-            Grow your vocabulary with quick, focused flashcard sessions. No
-            pressure—just a few words and a little progress every day.
-          </p>
-        </div>
+function AppRoutes() {
+  return (
+    <Routes>
+      <Route path="/" element={<DeckSelectionScreen />} />
+      <Route path="/quiz" element={<QuizScreen />} />
+      <Route path="/complete" element={<CompletionScreen />} />
+      <Route path="*" element={<NotFoundScreen />} />
+    </Routes>
+  );
+}
 
-        <div className="lesson-note" aria-label="How it works">
-          <span className="lesson-note-icon" aria-hidden="true">
-            ✳
-          </span>
-          <div>
-            <p className="lesson-note-title">Your daily dose of Italian</p>
-            <p className="lesson-note-description">
-              Read an English prompt, type the Italian, and learn as you go.
+function DeckSelectionScreen() {
+  const navigate = useNavigate();
+  const { startSession } = useSession();
+
+  const handleStart = (deckSize: number) => {
+    startSession(deckSize);
+    navigate("/quiz");
+  };
+
+  return (
+    <main className="min-h-screen bg-[#f6f1ea] px-4 py-12 text-[#1a1a1a]">
+      <div className="mx-auto max-w-3xl">
+        <Card className="border-0 bg-[#fffaf3] shadow-[0_20px_60px_rgba(68,35,10,0.12)]">
+          <CardHeader className="gap-3 pb-3">
+            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8a5a2a]">
+              Parola
             </p>
-          </div>
-          <span className="lesson-note-arrow" aria-hidden="true">
-            ↗
-          </span>
-        </div>
-      </main>
+            <CardTitle className="text-4xl font-semibold tracking-tight md:text-5xl">
+              Italian, one word at a time.
+            </CardTitle>
+            <CardDescription className="text-base text-[#54433d]">
+              Pick a deck size and practice in a focused, in-memory session.
+            </CardDescription>
+          </CardHeader>
 
-      <footer className="footer">
-        <span>Made for curious minds</span>
-        <span className="footer-dot" aria-hidden="true">
-          ·
-        </span>
-        <span>Andiamo!</span>
-      </footer>
-    </div>
+          <CardContent className="space-y-6 pt-0">
+            <div className="grid gap-4 sm:grid-cols-3">
+              {[10, 20, 50].map((size) => (
+                <Button
+                  key={size}
+                  type="button"
+                  variant="default"
+                  className="h-16 text-base font-medium"
+                  onClick={() => handleStart(size)}
+                >
+                  {size} words
+                </Button>
+              ))}
+            </div>
+          </CardContent>
+        </Card>
+      </div>
+    </main>
+  );
+}
+
+function QuizScreen() {
+  const navigate = useNavigate();
+  const { session, submitAnswer } = useSession();
+  const [input, setInput] = useState("");
+  const [feedback, setFeedback] = useState<null | {
+    correct: boolean;
+    message: string;
+  }>(null);
+
+  if (!session || !session.currentCard) {
+    return <Navigate to="/" replace />;
+  }
+
+  const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+
+    const result = submitAnswer(input);
+
+    const message = result.correct
+      ? `Correct — ${session.currentCard?.answers[0] ?? "Great job!"} was right.`
+      : `Not quite. The expected answer was: ${session.currentCard?.answers[0] ?? "Try again"}.`;
+
+    setFeedback({ correct: result.correct, message });
+    setInput("");
+
+    if (result.session.isComplete) {
+      navigate("/complete");
+    }
+  };
+
+  const progress =
+    session.total === 0
+      ? 0
+      : ((session.total - session.remainingCount) / session.total) * 100;
+
+  return (
+    <main className="min-h-screen bg-[#f7f4ef] px-4 py-12 text-[#1a1a1a]">
+      <div className="mx-auto max-w-xl">
+        <Card className="border-0 bg-white shadow-[0_20px_60px_rgba(68,35,10,0.12)]">
+          <CardHeader>
+            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8a5a2a]">
+              Session progress
+            </p>
+            <div className="mt-3 h-2 w-full overflow-hidden rounded-full bg-[#f0e6d8]">
+              <div
+                className="h-full rounded-full bg-[#7a9b72] transition-all duration-200"
+                style={{ width: `${progress}%` }}
+              />
+            </div>
+            <CardTitle className="pt-3 text-3xl font-semibold">
+              {session.currentCard.prompt}
+            </CardTitle>
+            <CardDescription>
+              {session.remainingCount} left in this round.
+            </CardDescription>
+          </CardHeader>
+
+          <CardContent>
+            <form className="space-y-4" onSubmit={handleSubmit}>
+              <label
+                className="block text-sm font-medium text-[#41382f]"
+                htmlFor="answer"
+              >
+                Type the Italian answer
+              </label>
+              <Input
+                id="answer"
+                value={input}
+                onChange={(event) => setInput(event.target.value)}
+                placeholder="Type your answer..."
+                autoFocus
+              />
+
+              <div className="flex items-center gap-3">
+                <Button type="submit" className="flex-1">
+                  Check answer
+                </Button>
+                <Button
+                  type="button"
+                  variant="secondary"
+                  onClick={() => navigate("/")}
+                >
+                  Exit
+                </Button>
+              </div>
+            </form>
+
+            {feedback ? (
+              <div
+                className={
+                  "mt-5 rounded-xl border px-3 py-2 text-sm " +
+                  (feedback.correct
+                    ? "border-emerald-200 bg-emerald-50 text-emerald-900"
+                    : "border-amber-200 bg-amber-50 text-amber-900")
+                }
+              >
+                {feedback.message}
+              </div>
+            ) : null}
+          </CardContent>
+        </Card>
+      </div>
+    </main>
+  );
+}
+
+function CompletionScreen() {
+  const navigate = useNavigate();
+  const { session, resetSession } = useSession();
+
+  if (!session) {
+    return <Navigate to="/" replace />;
+  }
+
+  return (
+    <main className="min-h-screen bg-[#f6f1ea] px-4 py-12 text-[#1a1a1a]">
+      <div className="mx-auto max-w-lg">
+        <Card className="border-0 bg-[#fffaf3] shadow-[0_20px_60px_rgba(68,35,10,0.12)]">
+          <CardHeader>
+            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8a5a2a]">
+              Session complete
+            </p>
+            <CardTitle className="text-4xl font-semibold">Nice work!</CardTitle>
+            <CardDescription>
+              You answered {session.correctCount} of {session.total} words
+              correctly.
+            </CardDescription>
+          </CardHeader>
+
+          <CardContent className="space-y-4">
+            <Button
+              type="button"
+              className="w-full"
+              onClick={() => {
+                resetSession();
+                navigate("/");
+              }}
+            >
+              Start another deck
+            </Button>
+          </CardContent>
+        </Card>
+      </div>
+    </main>
+  );
+}
+
+function NotFoundScreen() {
+  return (
+    <main className="flex min-h-screen items-center justify-center bg-[#f6f1ea] px-4">
+      <Card className="max-w-md border-0 bg-[#fffaf3] text-center shadow-[0_20px_60px_rgba(68,35,10,0.12)]">
+        <CardHeader>
+          <CardTitle className="text-3xl font-semibold">
+            Page not found
+          </CardTitle>
+          <CardDescription>
+            That route doesn’t exist yet. Head back to the home deck screen.
+          </CardDescription>
+        </CardHeader>
+
+        <CardContent>
+          <Button type="button" onClick={() => window.location.assign("/")}>
+            Back home
+          </Button>
+        </CardContent>
+      </Card>
+    </main>
   );
 }
 

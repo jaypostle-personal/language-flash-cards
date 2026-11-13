@@ -55,7 +55,7 @@ Build the framework-independent session logic: select 10, 20, or 50 unique words
 
 **Verify:** Tests cover selection size, requeueing, completion, and progress counts.
 
-### 7. `feat: add client-side routing` ⏳
+### 7. `feat: add client-side routing` ✅
 
 Add React Router for the distinct deck-selection, quiz, and completion screens. Keep session state in an in-memory provider above the routes, and provide a not-found route. Do not persist session data or encode it in URLs.
 
