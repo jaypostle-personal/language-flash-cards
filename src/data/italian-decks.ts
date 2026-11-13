@@ -80,6 +80,7 @@ export function buildItalianDecks(entries: readonly unknown[]): ItalianDecks {
       id,
       prompt,
       answers: [word],
+      cefrLevel: deckLevel,
       ...(exampleSentenceEnglish ? { exampleSentenceEnglish } : {}),
     });
   }

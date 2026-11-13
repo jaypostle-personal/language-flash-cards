@@ -55,12 +55,12 @@ export function QuizScreen() {
     <main className="min-h-screen bg-[#f7f4ef] px-4 py-12 text-[#1a1a1a]">
       <div className="mx-auto max-w-xl">
         <Card className="border-0 bg-white shadow-[0_20px_60px_rgba(68,35,10,0.12)]">
-          <CardHeader>
+          <CardHeader className="gap-3">
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8a5a2a]">
               Session progress
             </p>
             <div
-              className="mt-3 h-2 w-full overflow-hidden rounded-full bg-[#f0e6d8]"
+              className="h-2 w-full overflow-hidden rounded-full bg-[#f0e6d8]"
               role="progressbar"
               aria-label="Session progress"
               aria-valuemin={0}
@@ -73,13 +73,26 @@ export function QuizScreen() {
                 style={{ width: `${progress}%` }}
               />
             </div>
-            <CardTitle
-              as="h1"
-              tabIndex={-1}
-              className="pt-3 text-3xl font-semibold"
-            >
-              <FormattedPrompt prompt={session.currentCard.prompt} />
-            </CardTitle>
+          </CardHeader>
+
+          <CardContent className="space-y-2 bg-[#fcf8f2] py-5">
+            <div className="flex items-start justify-between gap-4">
+              <CardTitle
+                as="h1"
+                tabIndex={-1}
+                className="text-3xl font-semibold"
+              >
+                <FormattedPrompt prompt={session.currentCard.prompt} />
+              </CardTitle>
+              {session.currentCard.cefrLevel ? (
+                <span
+                  aria-label={`CEFR level ${session.currentCard.cefrLevel}`}
+                  className="shrink-0 rounded-full border border-[#e9e1d8] bg-white px-3 py-1 text-xs font-semibold tracking-wide text-[#6f665e]"
+                >
+                  {session.currentCard.cefrLevel}
+                </span>
+              ) : null}
+            </div>
             {session.currentCard.exampleSentenceEnglish ? (
               <CardDescription className="text-base italic text-[#6f665e]">
                 “{session.currentCard.exampleSentenceEnglish}”
@@ -88,9 +101,9 @@ export function QuizScreen() {
             <CardDescription>
               {session.remainingCount} left in this round.
             </CardDescription>
-          </CardHeader>
+          </CardContent>
 
-          <CardContent>
+          <CardContent className="pt-0 ">
             <form className="space-y-4" onSubmit={handleSubmit}>
               <label
                 className="block text-sm font-medium text-[#41382f]"

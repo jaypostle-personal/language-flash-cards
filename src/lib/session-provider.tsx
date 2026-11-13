@@ -12,12 +12,12 @@ import {
 import { SessionContext, type SessionContextValue } from "./session-context";
 
 const deckLoaders: Record<ItalianDeckLevel, () => Promise<Flashcard[]>> = {
-  A1: async () => (await import("@/data/decks/a1.json")).default,
-  A2: async () => (await import("@/data/decks/a2.json")).default,
-  B1: async () => (await import("@/data/decks/b1.json")).default,
-  B2: async () => (await import("@/data/decks/b2.json")).default,
-  C1: async () => (await import("@/data/decks/c1.json")).default,
-  C2: async () => (await import("@/data/decks/c2.json")).default,
+  A1: async () => (await import("@/data/decks/a1.json")).default as Flashcard[],
+  A2: async () => (await import("@/data/decks/a2.json")).default as Flashcard[],
+  B1: async () => (await import("@/data/decks/b1.json")).default as Flashcard[],
+  B2: async () => (await import("@/data/decks/b2.json")).default as Flashcard[],
+  C1: async () => (await import("@/data/decks/c1.json")).default as Flashcard[],
+  C2: async () => (await import("@/data/decks/c2.json")).default as Flashcard[],
 };
 
 export function SessionProvider({ children }: { children: ReactNode }) {

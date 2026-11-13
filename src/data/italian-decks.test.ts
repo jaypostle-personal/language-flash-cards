@@ -33,14 +33,25 @@ describe("buildItalianDecks", () => {
         id: "a1-non",
         prompt: "not",
         answers: ["non"],
+        cefrLevel: "A1",
         exampleSentenceEnglish: "I do not speak Italian.",
       },
     ]);
     expect(decks.A2).toEqual([
-      { id: "a2-sono", prompt: "am;are", answers: ["sono"] },
+      {
+        id: "a2-sono",
+        prompt: "am;are",
+        answers: ["sono"],
+        cefrLevel: "A2",
+      },
     ]);
     expect(decks.C2).toEqual([
-      { id: "c2-sebbene", prompt: "although", answers: ["sebbene"] },
+      {
+        id: "c2-sebbene",
+        prompt: "although",
+        answers: ["sebbene"],
+        cefrLevel: "C2",
+      },
     ]);
   });
 

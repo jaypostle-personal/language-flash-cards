@@ -4,6 +4,7 @@ export type Flashcard = {
   id: string;
   prompt: string;
   answers: string[];
+  cefrLevel?: "A1" | "A2" | "B1" | "B2" | "C1" | "C2";
   exampleSentenceEnglish?: string;
 };
 
