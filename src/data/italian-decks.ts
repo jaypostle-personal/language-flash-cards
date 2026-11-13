@@ -10,6 +10,7 @@ type ItalianSourceEntry = {
   useful_for_flashcard?: unknown;
   cefr_level?: unknown;
   english_translation?: unknown;
+  example_sentence_english?: unknown;
   word_frequency?: unknown;
 };
 
@@ -51,6 +52,10 @@ export function buildItalianDecks(entries: readonly unknown[]): ItalianDecks {
       typeof value.english_translation === "string"
         ? value.english_translation.trim()
         : "";
+    const exampleSentenceEnglish =
+      typeof value.example_sentence_english === "string"
+        ? value.example_sentence_english.trim()
+        : "";
 
     if (
       !italianDeckLevels.includes(level as ItalianDeckLevel) ||
@@ -71,7 +76,12 @@ export function buildItalianDecks(entries: readonly unknown[]): ItalianDecks {
     }
 
     usedIds.add(id);
-    decks[deckLevel].push({ id, prompt, answers: [word] });
+    decks[deckLevel].push({
+      id,
+      prompt,
+      answers: [word],
+      ...(exampleSentenceEnglish ? { exampleSentenceEnglish } : {}),
+    });
   }
 
   return decks;

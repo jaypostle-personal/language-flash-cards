@@ -4,6 +4,7 @@ export type Flashcard = {
   id: string;
   prompt: string;
   answers: string[];
+  exampleSentenceEnglish?: string;
 };
 
 export type FlashcardResult = {

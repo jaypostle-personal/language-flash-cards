@@ -70,7 +70,10 @@ export function CompletionScreen() {
                         className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1 border-t border-emerald-200/80 pt-3 text-sm"
                       >
                         <span className="font-medium text-emerald-950">
-                          <FormattedPrompt prompt={card.prompt} />
+                          <FormattedPrompt
+                            prompt={card.prompt}
+                            showAlternatives={false}
+                          />
                         </span>
                         <span lang="it" className="text-emerald-900">
                           {card.answers[0]}
@@ -109,7 +112,10 @@ export function CompletionScreen() {
                       >
                         <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
                           <span className="font-medium text-amber-950">
-                            <FormattedPrompt prompt={card.prompt} />
+                            <FormattedPrompt
+                              prompt={card.prompt}
+                              showAlternatives={false}
+                            />
                           </span>
                           <span lang="it" className="text-amber-900">
                             {card.answers[0]}

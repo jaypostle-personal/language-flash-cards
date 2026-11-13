@@ -10,6 +10,7 @@ describe("buildItalianDecks", () => {
         useful_for_flashcard: true,
         cefr_level: "A1",
         english_translation: "not",
+        example_sentence_english: "I do not speak Italian.",
         romanization: "ignored",
         word_frequency: 7,
       },
@@ -28,7 +29,12 @@ describe("buildItalianDecks", () => {
     ]);
 
     expect(decks.A1).toEqual([
-      { id: "a1-non", prompt: "not", answers: ["non"] },
+      {
+        id: "a1-non",
+        prompt: "not",
+        answers: ["non"],
+        exampleSentenceEnglish: "I do not speak Italian.",
+      },
     ]);
     expect(decks.A2).toEqual([
       { id: "a2-sono", prompt: "am;are", answers: ["sono"] },

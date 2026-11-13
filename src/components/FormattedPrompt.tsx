@@ -5,12 +5,14 @@ type FormattedPromptProps = {
   prompt: string;
   className?: string;
   alternativeClassName?: string;
+  showAlternatives?: boolean;
 };
 
 export function FormattedPrompt({
   prompt,
   className,
   alternativeClassName,
+  showAlternatives = true,
 }: FormattedPromptProps) {
   const { primary, alternatives } = formatPrompt(prompt);
 
@@ -19,7 +21,7 @@ export function FormattedPrompt({
       className={cn("inline-flex flex-wrap items-baseline gap-x-1", className)}
     >
       <span>{primary}</span>
-      {alternatives.length > 0 ? (
+      {showAlternatives && alternatives.length > 0 ? (
         <span className={cn("text-xl text-current/60", alternativeClassName)}>
           also: {alternatives.join(", ")}
         </span>

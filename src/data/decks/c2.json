@@ -4,258 +4,295 @@
     "prompt": "synod",
     "answers": [
       "sinodo"
-    ]
+    ],
+    "exampleSentenceEnglish": "The synod of bishops will meet next month."
   },
   {
     "id": "c2-quantistico",
     "prompt": "quantum",
     "answers": [
       "quantistico"
-    ]
+    ],
+    "exampleSentenceEnglish": "Quantum physics is a complex field of study."
   },
   {
     "id": "c2-dettame",
     "prompt": "dictate",
     "answers": [
       "dettame"
-    ]
+    ],
+    "exampleSentenceEnglish": "He acted according to the dictate of his conscience."
   },
   {
     "id": "c2-ponga",
     "prompt": "ponga (tree)",
     "answers": [
       "ponga"
-    ]
+    ],
+    "exampleSentenceEnglish": "Ponga wood is used for furniture."
   },
   {
     "id": "c2-albore",
     "prompt": "dawn;daybreak;beginning",
     "answers": [
       "albore"
-    ]
+    ],
+    "exampleSentenceEnglish": "At daybreak, the birds begin to sing."
   },
   {
     "id": "c2-egida",
     "prompt": "aegis",
     "answers": [
       "egida"
-    ]
+    ],
+    "exampleSentenceEnglish": "The project was carried out under the aegis of the university."
   },
   {
     "id": "c2-enciclica",
     "prompt": "encyclical",
     "answers": [
       "enciclica"
-    ]
+    ],
+    "exampleSentenceEnglish": "The Pope published a new encyclical on social justice."
   },
   {
     "id": "c2-fenomenologia",
     "prompt": "phenomenology",
     "answers": [
       "fenomenologia"
-    ]
+    ],
+    "exampleSentenceEnglish": "Phenomenology is a branch of philosophy."
   },
   {
     "id": "c2-idrogeologico",
     "prompt": "hydrogeological",
     "answers": [
       "idrogeologico"
-    ]
+    ],
+    "exampleSentenceEnglish": "The hydrogeological risk is high in that area."
   },
   {
     "id": "c2-semiotica",
     "prompt": "semiotics",
     "answers": [
       "semiotica"
-    ]
+    ],
+    "exampleSentenceEnglish": "Semiotics is the study of signs and symbols."
   },
   {
     "id": "c2-sifilide",
     "prompt": "syphilis",
     "answers": [
       "sifilide"
-    ]
+    ],
+    "exampleSentenceEnglish": "Syphilis is a sexually transmitted disease."
   },
   {
     "id": "c2-antonomasia",
     "prompt": "antonomasia (figure of speech)",
     "answers": [
       "antonomasia"
-    ]
+    ],
+    "exampleSentenceEnglish": "He is the champion par excellence."
   },
   {
     "id": "c2-trascendentale",
     "prompt": "transcendental",
     "answers": [
       "trascendentale"
-    ]
+    ],
+    "exampleSentenceEnglish": "Kantian philosophy explores the concept of transcendental aesthetics."
   },
   {
     "id": "c2-gaudio",
     "prompt": "joy;delight",
     "answers": [
       "gaudio"
-    ]
+    ],
+    "exampleSentenceEnglish": "The news was received with great joy."
   },
   {
     "id": "c2-lemma",
     "prompt": "lemma",
     "answers": [
       "lemma"
-    ]
+    ],
+    "exampleSentenceEnglish": "Every lemma in the dictionary has a definition."
   },
   {
     "id": "c2-lauda",
     "prompt": "lauda (medieval Italian religious song)",
     "answers": [
       "lauda"
-    ]
+    ],
+    "exampleSentenceEnglish": "Laude were forms of medieval religious poetry."
   },
   {
     "id": "c2-anticostituzionale",
     "prompt": "unconstitutional",
     "answers": [
       "anticostituzionale"
-    ]
+    ],
+    "exampleSentenceEnglish": "The law was declared unconstitutional."
   },
   {
     "id": "c2-neoplasia",
     "prompt": "neoplasm;tumor",
     "answers": [
       "neoplasia"
-    ]
+    ],
+    "exampleSentenceEnglish": "The diagnosis revealed a neoplasm."
   },
   {
     "id": "c2-locus",
     "prompt": "locus;place",
     "answers": [
       "locus"
-    ]
+    ],
+    "exampleSentenceEnglish": "The 'locus amoenus' is a literary topos."
   },
   {
     "id": "c2-vilipendio",
     "prompt": "contempt;vilification;desecration",
     "answers": [
       "vilipendio"
-    ]
+    ],
+    "exampleSentenceEnglish": "He was accused of desecration of the flag."
   },
   {
     "id": "c2-anamnesi",
     "prompt": "anamnesis;medical history",
     "answers": [
       "anamnesi"
-    ]
+    ],
+    "exampleSentenceEnglish": "The doctor started with the patient's anamnesis (medical history)."
   },
   {
     "id": "c2-aneurisma",
     "prompt": "aneurysm",
     "answers": [
       "aneurisma"
-    ]
+    ],
+    "exampleSentenceEnglish": "He was diagnosed with a cerebral aneurysm."
   },
   {
     "id": "c2-sodomia",
     "prompt": "sodomy",
     "answers": [
       "sodomia"
-    ]
+    ],
+    "exampleSentenceEnglish": "The term 'sodomy' has a long history in law and theology."
   },
   {
     "id": "c2-bondage",
     "prompt": "bondage",
     "answers": [
       "bondage"
-    ]
+    ],
+    "exampleSentenceEnglish": "The term \"bondage\" is often associated with specific practices."
   },
   {
     "id": "c2-nadir",
     "prompt": "nadir",
     "answers": [
       "nadir"
-    ]
+    ],
+    "exampleSentenceEnglish": "He reached the nadir of his career before rising again."
   },
   {
     "id": "c2-ecclesia",
     "prompt": "church (as in assembly of believers);ecclesia",
     "answers": [
       "ecclesia"
-    ]
+    ],
+    "exampleSentenceEnglish": "The term \"ecclesia\" derives from ancient Greek."
   },
   {
     "id": "c2-concussione",
     "prompt": "extortion",
     "answers": [
       "concussione"
-    ]
+    ],
+    "exampleSentenceEnglish": "He was accused of extortion for abusing his power."
   },
   {
     "id": "c2-condicio",
     "prompt": "condition (often in 'condicio sine qua non')",
     "answers": [
       "condicio"
-    ]
+    ],
+    "exampleSentenceEnglish": "His presence was the indispensable condition for the agreement."
   },
   {
     "id": "c2-nardo",
     "prompt": "spikenard",
     "answers": [
       "nardo"
-    ]
+    ],
+    "exampleSentenceEnglish": "Spikenard oil has an intense fragrance."
   },
   {
     "id": "c2-entropia",
     "prompt": "entropy",
     "answers": [
       "entropia"
-    ]
+    ],
+    "exampleSentenceEnglish": "The concept of entropy is fundamental in thermodynamics."
   },
   {
     "id": "c2-esegesi",
     "prompt": "exegesis",
     "answers": [
       "esegesi"
-    ]
+    ],
+    "exampleSentenceEnglish": "The exegesis of the biblical text requires deep knowledge."
   },
   {
     "id": "c2-lisi",
     "prompt": "lysis",
     "answers": [
       "lisi"
-    ]
+    ],
+    "exampleSentenceEnglish": "Cell lysis is a biological process."
   },
   {
     "id": "c2-plc",
     "prompt": "PLC (Programmable Logic Controller)",
     "answers": [
       "plc"
-    ]
+    ],
+    "exampleSentenceEnglish": "The PLC controls the automation process."
   },
   {
     "id": "c2-rogito",
     "prompt": "deed;notarial act",
     "answers": [
       "rogito"
-    ]
+    ],
+    "exampleSentenceEnglish": "The signing of the deed is the last step for buying the house."
   },
   {
     "id": "c2-secolarizzazione",
     "prompt": "secularization",
     "answers": [
       "secolarizzazione"
-    ]
+    ],
+    "exampleSentenceEnglish": "The secularization of society is a complex phenomenon."
   },
   {
     "id": "c2-soggiogare",
     "prompt": "to subjugate;to subdue",
     "answers": [
       "soggiogare"
-    ]
+    ],
+    "exampleSentenceEnglish": "The tyrant sought to subjugate the will of the people."
   },
   {
     "id": "c2-usufrutto",
     "prompt": "usufruct",
     "answers": [
       "usufrutto"
-    ]
+    ],
+    "exampleSentenceEnglish": "He has the right of usufruct over the property."
   }
 ]

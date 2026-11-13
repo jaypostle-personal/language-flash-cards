@@ -4,4381 +4,5007 @@
     "prompt": "not",
     "answers": [
       "non"
-    ]
+    ],
+    "exampleSentenceEnglish": "I do not speak Italian."
   },
   {
     "id": "a1-e",
     "prompt": "is",
     "answers": [
       "è"
-    ]
+    ],
+    "exampleSentenceEnglish": "He is tall."
   },
   {
     "id": "a1-sono",
     "prompt": "am;are",
     "answers": [
       "sono"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am Italian."
   },
   {
     "id": "a1-ha",
     "prompt": "has",
     "answers": [
       "ha"
-    ]
+    ],
+    "exampleSentenceEnglish": "He has a dog."
   },
   {
     "id": "a1-come",
     "prompt": "how;as;like",
     "answers": [
       "come"
-    ]
+    ],
+    "exampleSentenceEnglish": "How are you?"
   },
   {
     "id": "a1-piu",
     "prompt": "more",
     "answers": [
       "più"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want more time."
   },
   {
     "id": "a1-anche",
     "prompt": "also;too;even",
     "answers": [
       "anche"
-    ]
+    ],
+    "exampleSentenceEnglish": "I'm coming too."
   },
   {
     "id": "a1-ho",
     "prompt": "have",
     "answers": [
       "ho"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am hungry."
   },
   {
     "id": "a1-solo",
     "prompt": "alone;only",
     "answers": [
       "solo"
-    ]
+    ],
+    "exampleSentenceEnglish": "I feel alone."
   },
   {
     "id": "a1-quando",
     "prompt": "when",
     "answers": [
       "quando"
-    ]
+    ],
+    "exampleSentenceEnglish": "I don't know when he will arrive."
   },
   {
     "id": "a1-tutto",
     "prompt": "all;whole",
     "answers": [
       "tutto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I ate all the bread."
   },
   {
     "id": "a1-cosa",
     "prompt": "thing;what",
     "answers": [
       "cosa"
-    ]
+    ],
+    "exampleSentenceEnglish": "What do you want?"
   },
   {
     "id": "a1-prima",
     "prompt": "before;first",
     "answers": [
       "prima"
-    ]
+    ],
+    "exampleSentenceEnglish": "Do your homework before playing."
   },
   {
     "id": "a1-suo",
     "prompt": "his;her;its",
     "answers": [
       "suo"
-    ]
+    ],
+    "exampleSentenceEnglish": "Her bag is red."
   },
   {
     "id": "a1-anno",
     "prompt": "year",
     "answers": [
       "anno"
-    ]
+    ],
+    "exampleSentenceEnglish": "Happy New Year!"
   },
   {
     "id": "a1-due",
     "prompt": "two",
     "answers": [
       "due"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have two brothers."
   },
   {
     "id": "a1-fare",
     "prompt": "to do;to make",
     "answers": [
       "fare"
-    ]
+    ],
+    "exampleSentenceEnglish": "We must do something."
   },
   {
     "id": "a1-cosi",
     "prompt": "so;thus",
     "answers": [
       "così"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's not so easy."
   },
   {
     "id": "a1-dopo",
     "prompt": "after;later",
     "answers": [
       "dopo"
-    ]
+    ],
+    "exampleSentenceEnglish": "I'll call you later."
   },
   {
     "id": "a1-poi",
     "prompt": "then",
     "answers": [
       "poi"
-    ]
+    ],
+    "exampleSentenceEnglish": "First we eat, then we go to the cinema."
   },
   {
     "id": "a1-sempre",
     "prompt": "always",
     "answers": [
       "sempre"
-    ]
+    ],
+    "exampleSentenceEnglish": "She always reads before sleeping."
   },
   {
     "id": "a1-ancora",
     "prompt": "still;yet",
     "answers": [
       "ancora"
-    ]
+    ],
+    "exampleSentenceEnglish": "He hasn't arrived yet."
   },
   {
     "id": "a1-molto",
     "prompt": "very;much",
     "answers": [
       "molto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am very tired."
   },
   {
     "id": "a1-mai",
     "prompt": "never",
     "answers": [
       "mai"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have never seen an elephant."
   },
   {
     "id": "a1-ogni",
     "prompt": "every;each",
     "answers": [
       "ogni"
-    ]
+    ],
+    "exampleSentenceEnglish": "Every day I go to school."
   },
   {
     "id": "a1-altro",
     "prompt": "other;another",
     "answers": [
       "altro"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want another coffee."
   },
   {
     "id": "a1-ora",
     "prompt": "hour;now",
     "answers": [
       "ora"
-    ]
+    ],
+    "exampleSentenceEnglish": "What time is it?"
   },
   {
     "id": "a1-quanto",
     "prompt": "how much;how many",
     "answers": [
       "quanto"
-    ]
+    ],
+    "exampleSentenceEnglish": "How much does it cost?"
   },
   {
     "id": "a1-tempo",
     "prompt": "time;weather",
     "answers": [
       "tempo"
-    ]
+    ],
+    "exampleSentenceEnglish": "I don't have time."
   },
   {
     "id": "a1-dove",
     "prompt": "where",
     "answers": [
       "dove"
-    ]
+    ],
+    "exampleSentenceEnglish": "Where are you?"
   },
   {
     "id": "a1-vita",
     "prompt": "life",
     "answers": [
       "vita"
-    ]
+    ],
+    "exampleSentenceEnglish": "Life is beautiful."
   },
   {
     "id": "a1-gia",
     "prompt": "already",
     "answers": [
       "già"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have already eaten."
   },
   {
     "id": "a1-secondo",
     "prompt": "second",
     "answers": [
       "secondo"
-    ]
+    ],
+    "exampleSentenceEnglish": "This is the second chapter."
   },
   {
     "id": "a1-bene",
     "prompt": "well",
     "answers": [
       "bene"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am well, thank you."
   },
   {
     "id": "a1-lavoro",
     "prompt": "work;job",
     "answers": [
       "lavoro"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have a lot of work to do."
   },
   {
     "id": "a1-casa",
     "prompt": "house;home",
     "answers": [
       "casa"
-    ]
+    ],
+    "exampleSentenceEnglish": "I'm going home."
   },
   {
     "id": "a1-persona",
     "prompt": "person",
     "answers": [
       "persona"
-    ]
+    ],
+    "exampleSentenceEnglish": "He/She is a good person."
   },
   {
     "id": "a1-qui",
     "prompt": "here",
     "answers": [
       "qui"
-    ]
+    ],
+    "exampleSentenceEnglish": "Come here!"
   },
   {
     "id": "a1-dire",
     "prompt": "to say;to tell",
     "answers": [
       "dire"
-    ]
+    ],
+    "exampleSentenceEnglish": "What do you want to say?"
   },
   {
     "id": "a1-giorno",
     "prompt": "day",
     "answers": [
       "giorno"
-    ]
+    ],
+    "exampleSentenceEnglish": "Good day!"
   },
   {
     "id": "a1-grande",
     "prompt": "big;large;great",
     "answers": [
       "grande"
-    ]
+    ],
+    "exampleSentenceEnglish": "The house is big."
   },
   {
     "id": "a1-primo",
     "prompt": "first",
     "answers": [
       "primo"
-    ]
+    ],
+    "exampleSentenceEnglish": "This is my first book."
   },
   {
     "id": "a1-oggi",
     "prompt": "today",
     "answers": [
       "oggi"
-    ]
+    ],
+    "exampleSentenceEnglish": "Today the weather is good."
   },
   {
     "id": "a1-citta",
     "prompt": "city",
     "answers": [
       "città"
-    ]
+    ],
+    "exampleSentenceEnglish": "I live in a big city."
   },
   {
     "id": "a1-nuovo",
     "prompt": "new",
     "answers": [
       "nuovo"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a new car."
   },
   {
     "id": "a1-quale",
     "prompt": "which;what",
     "answers": [
       "quale"
-    ]
+    ],
+    "exampleSentenceEnglish": "Which book do you prefer?"
   },
   {
     "id": "a1-tre",
     "prompt": "three",
     "answers": [
       "tre"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have three books."
   },
   {
     "id": "a1-avere",
     "prompt": "to have",
     "answers": [
       "avere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have a dog."
   },
   {
     "id": "a1-vedere",
     "prompt": "to see",
     "answers": [
       "vedere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to see the movie."
   },
   {
     "id": "a1-sapere",
     "prompt": "to know (facts;how to do something)",
     "answers": [
       "sapere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I don't know the answer."
   },
   {
     "id": "a1-sotto",
     "prompt": "under;below",
     "answers": [
       "sotto"
-    ]
+    ],
+    "exampleSentenceEnglish": "The cat is under the table."
   },
   {
     "id": "a1-momento",
     "prompt": "moment",
     "answers": [
       "momento"
-    ]
+    ],
+    "exampleSentenceEnglish": "Wait a moment, please."
   },
   {
     "id": "a1-dovere",
     "prompt": "to have to;must",
     "answers": [
       "dovere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have to leave now."
   },
   {
     "id": "a1-qualcosa",
     "prompt": "something",
     "answers": [
       "qualcosa"
-    ]
+    ],
+    "exampleSentenceEnglish": "There's something wrong."
   },
   {
     "id": "a1-troppo",
     "prompt": "too much;too",
     "answers": [
       "troppo"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's too hot here."
   },
   {
     "id": "a1-vero",
     "prompt": "true;real",
     "answers": [
       "vero"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's a true story."
   },
   {
     "id": "a1-gente",
     "prompt": "people",
     "answers": [
       "gente"
-    ]
+    ],
+    "exampleSentenceEnglish": "There are many people here."
   },
   {
     "id": "a1-niente",
     "prompt": "nothing",
     "answers": [
       "niente"
-    ]
+    ],
+    "exampleSentenceEnglish": "There's nothing to do."
   },
   {
     "id": "a1-posto",
     "prompt": "place;spot",
     "answers": [
       "posto"
-    ]
+    ],
+    "exampleSentenceEnglish": "Is there a free spot?"
   },
   {
     "id": "a1-fuori",
     "prompt": "outside",
     "answers": [
       "fuori"
-    ]
+    ],
+    "exampleSentenceEnglish": "Wait for me outside."
   },
   {
     "id": "a1-nome",
     "prompt": "name",
     "answers": [
       "nome"
-    ]
+    ],
+    "exampleSentenceEnglish": "What is your name?"
   },
   {
     "id": "a1-poco",
     "prompt": "little;a little",
     "answers": [
       "poco"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have little time."
   },
   {
     "id": "a1-stare",
     "prompt": "to stay;to be (state;location)",
     "answers": [
       "stare"
-    ]
+    ],
+    "exampleSentenceEnglish": "How are you? I am well."
   },
   {
     "id": "a1-andare",
     "prompt": "to go",
     "answers": [
       "andare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to go home."
   },
   {
     "id": "a1-qualcuno",
     "prompt": "someone;somebody",
     "answers": [
       "qualcuno"
-    ]
+    ],
+    "exampleSentenceEnglish": "There's someone at the door."
   },
   {
     "id": "a1-potere",
     "prompt": "to be able to;can",
     "answers": [
       "potere"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can I help you?"
   },
   {
     "id": "a1-volere",
     "prompt": "to want",
     "answers": [
       "volere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want a coffee, please."
   },
   {
     "id": "a1-male",
     "prompt": "badly;poorly",
     "answers": [
       "male"
-    ]
+    ],
+    "exampleSentenceEnglish": "I feel bad today."
   },
   {
     "id": "a1-numero",
     "prompt": "number",
     "answers": [
       "numero"
-    ]
+    ],
+    "exampleSentenceEnglish": "What is your phone number?"
   },
   {
     "id": "a1-si",
     "prompt": "yes",
     "answers": [
       "sì"
-    ]
+    ],
+    "exampleSentenceEnglish": "Yes, of course I'm coming."
   },
   {
     "id": "a1-dare",
     "prompt": "to give",
     "answers": [
       "dare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can you give me a hand?"
   },
   {
     "id": "a1-uomo",
     "prompt": "man",
     "answers": [
       "uomo"
-    ]
+    ],
+    "exampleSentenceEnglish": "The man was walking down the street."
   },
   {
     "id": "a1-famiglia",
     "prompt": "family",
     "answers": [
       "famiglia"
-    ]
+    ],
+    "exampleSentenceEnglish": "My family is very important to me."
   },
   {
     "id": "a1-donna",
     "prompt": "woman",
     "answers": [
       "donna"
-    ]
+    ],
+    "exampleSentenceEnglish": "The woman was reading a book."
   },
   {
     "id": "a1-italiano",
     "prompt": "Italian",
     "answers": [
       "italiano"
-    ]
+    ],
+    "exampleSentenceEnglish": "I speak a little Italian."
   },
   {
     "id": "a1-adesso",
     "prompt": "now",
     "answers": [
       "adesso"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have to go now."
   },
   {
     "id": "a1-bisogno",
     "prompt": "need",
     "answers": [
       "bisogno"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need help."
   },
   {
     "id": "a1-film",
     "prompt": "film;movie",
     "answers": [
       "film"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go see a movie."
   },
   {
     "id": "a1-centro",
     "prompt": "center",
     "answers": [
       "centro"
-    ]
+    ],
+    "exampleSentenceEnglish": "I live in the city center."
   },
   {
     "id": "a1-parlare",
     "prompt": "to speak;to talk",
     "answers": [
       "parlare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to learn to speak Italian."
   },
   {
     "id": "a1-scuola",
     "prompt": "school",
     "answers": [
       "scuola"
-    ]
+    ],
+    "exampleSentenceEnglish": "I go to school every day."
   },
   {
     "id": "a1-buono",
     "prompt": "good",
     "answers": [
       "buono"
-    ]
+    ],
+    "exampleSentenceEnglish": "This food is very good."
   },
   {
     "id": "a1-idea",
     "prompt": "idea",
     "answers": [
       "idea"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have a good idea."
   },
   {
     "id": "a1-mano",
     "prompt": "hand",
     "answers": [
       "mano"
-    ]
+    ],
+    "exampleSentenceEnglish": "Give me your hand."
   },
   {
     "id": "a1-amico",
     "prompt": "friend",
     "answers": [
       "amico"
-    ]
+    ],
+    "exampleSentenceEnglish": "He is my best friend."
   },
   {
     "id": "a1-importante",
     "prompt": "important",
     "answers": [
       "importante"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's an important decision."
   },
   {
     "id": "a1-mese",
     "prompt": "month",
     "answers": [
       "mese"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you next month."
   },
   {
     "id": "a1-parola",
     "prompt": "word",
     "answers": [
       "parola"
-    ]
+    ],
+    "exampleSentenceEnglish": "This is a new word for me."
   },
   {
     "id": "a1-scrivere",
     "prompt": "to write",
     "answers": [
       "scrivere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to write letters."
   },
   {
     "id": "a1-padre",
     "prompt": "father",
     "answers": [
       "padre"
-    ]
+    ],
+    "exampleSentenceEnglish": "My father is a doctor."
   },
   {
     "id": "a1-pensare",
     "prompt": "to think",
     "answers": [
       "pensare"
-    ]
+    ],
+    "exampleSentenceEnglish": "What do you think about it?"
   },
   {
     "id": "a1-piacere",
     "prompt": "to like;to please",
     "answers": [
       "piacere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I really like music."
   },
   {
     "id": "a1-porta",
     "prompt": "door",
     "answers": [
       "porta"
-    ]
+    ],
+    "exampleSentenceEnglish": "Close the door, please."
   },
   {
     "id": "a1-settimana",
     "prompt": "week",
     "answers": [
       "settimana"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you next week."
   },
   {
     "id": "a1-state",
     "prompt": "you are (plural);you stay",
     "answers": [
       "state"
-    ]
+    ],
+    "exampleSentenceEnglish": "How are you today?"
   },
   {
     "id": "a1-trovare",
     "prompt": "to find",
     "answers": [
       "trovare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I can't find my keys."
   },
   {
     "id": "a1-venire",
     "prompt": "to come",
     "answers": [
       "venire"
-    ]
+    ],
+    "exampleSentenceEnglish": "Do you want to come with us?"
   },
   {
     "id": "a1-leggere",
     "prompt": "to read",
     "answers": [
       "leggere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to read books."
   },
   {
     "id": "a1-strada",
     "prompt": "street;road",
     "answers": [
       "strada"
-    ]
+    ],
+    "exampleSentenceEnglish": "Our house is at the end of the street."
   },
   {
     "id": "a1-lungo",
     "prompt": "long",
     "answers": [
       "lungo"
-    ]
+    ],
+    "exampleSentenceEnglish": "The river is very long."
   },
   {
     "id": "a1-ragazzo",
     "prompt": "boy;guy",
     "answers": [
       "ragazzo"
-    ]
+    ],
+    "exampleSentenceEnglish": "The boy is playing in the park."
   },
   {
     "id": "a1-bello",
     "prompt": "beautiful;nice;handsome",
     "answers": [
       "bello"
-    ]
+    ],
+    "exampleSentenceEnglish": "What a beautiful day!"
   },
   {
     "id": "a1-settembre",
     "prompt": "September",
     "answers": [
       "settembre"
-    ]
+    ],
+    "exampleSentenceEnglish": "My birthday is in September."
   },
   {
     "id": "a1-marzo",
     "prompt": "March",
     "answers": [
       "marzo"
-    ]
+    ],
+    "exampleSentenceEnglish": "We're going on vacation in March."
   },
   {
     "id": "a1-notte",
     "prompt": "night",
     "answers": [
       "notte"
-    ]
+    ],
+    "exampleSentenceEnglish": "Good night, everyone!"
   },
   {
     "id": "a1-quattro",
     "prompt": "four",
     "answers": [
       "quattro"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have four books."
   },
   {
     "id": "a1-bambino",
     "prompt": "child;boy",
     "answers": [
       "bambino"
-    ]
+    ],
+    "exampleSentenceEnglish": "The child plays in the park."
   },
   {
     "id": "a1-libro",
     "prompt": "book",
     "answers": [
       "libro"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am reading an interesting book."
   },
   {
     "id": "a1-figlio",
     "prompt": "son;child",
     "answers": [
       "figlio"
-    ]
+    ],
+    "exampleSentenceEnglish": "My son is five years old."
   },
   {
     "id": "a1-prendere",
     "prompt": "to take;to get",
     "answers": [
       "prendere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to get a coffee."
   },
   {
     "id": "a1-testa",
     "prompt": "head",
     "answers": [
       "testa"
-    ]
+    ],
+    "exampleSentenceEnglish": "My head hurts."
   },
   {
     "id": "a1-amore",
     "prompt": "love",
     "answers": [
       "amore"
-    ]
+    ],
+    "exampleSentenceEnglish": "Love is a strong feeling."
   },
   {
     "id": "a1-madre",
     "prompt": "mother",
     "answers": [
       "madre"
-    ]
+    ],
+    "exampleSentenceEnglish": "My mother is a wonderful person."
   },
   {
     "id": "a1-gioco",
     "prompt": "game;play",
     "answers": [
       "gioco"
-    ]
+    ],
+    "exampleSentenceEnglish": "Children love to play."
   },
   {
     "id": "a1-maggio",
     "prompt": "May",
     "answers": [
       "maggio"
-    ]
+    ],
+    "exampleSentenceEnglish": "My birthday is in May."
   },
   {
     "id": "a1-capire",
     "prompt": "to understand",
     "answers": [
       "capire"
-    ]
+    ],
+    "exampleSentenceEnglish": "I can't understand what you're saying."
   },
   {
     "id": "a1-corpo",
     "prompt": "body",
     "answers": [
       "corpo"
-    ]
+    ],
+    "exampleSentenceEnglish": "The human body is complex."
   },
   {
     "id": "a1-passare",
     "prompt": "to pass;to spend (time)",
     "answers": [
       "passare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to spend more time with my family."
   },
   {
     "id": "a1-ragazza",
     "prompt": "girl",
     "answers": [
       "ragazza"
-    ]
+    ],
+    "exampleSentenceEnglish": "The girl is reading a book."
   },
   {
     "id": "a1-tv",
     "prompt": "TV;television",
     "answers": [
       "tv"
-    ]
+    ],
+    "exampleSentenceEnglish": "Tonight we watch TV."
   },
   {
     "id": "a1-avanti",
     "prompt": "forward;come in",
     "answers": [
       "avanti"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go forward!"
   },
   {
     "id": "a1-euro",
     "prompt": "euro",
     "answers": [
       "euro"
-    ]
+    ],
+    "exampleSentenceEnglish": "It costs ten euros."
   },
   {
     "id": "a1-minuto",
     "prompt": "minute",
     "answers": [
       "minuto"
-    ]
+    ],
+    "exampleSentenceEnglish": "Wait a minute, please."
   },
   {
     "id": "a1-acqua",
     "prompt": "water",
     "answers": [
       "acqua"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a glass of water."
   },
   {
     "id": "a1-aprile",
     "prompt": "April",
     "answers": [
       "aprile"
-    ]
+    ],
+    "exampleSentenceEnglish": "My birthday is in April."
   },
   {
     "id": "a1-difficile",
     "prompt": "difficult",
     "answers": [
       "difficile"
-    ]
+    ],
+    "exampleSentenceEnglish": "This exercise is very difficult."
   },
   {
     "id": "a1-domanda",
     "prompt": "question;demand",
     "answers": [
       "domanda"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have a question for you."
   },
   {
     "id": "a1-giugno",
     "prompt": "June",
     "answers": [
       "giugno"
-    ]
+    ],
+    "exampleSentenceEnglish": "We go on vacation in June."
   },
   {
     "id": "a1-occhio",
     "prompt": "eye",
     "answers": [
       "occhio"
-    ]
+    ],
+    "exampleSentenceEnglish": "He has blue eyes."
   },
   {
     "id": "a1-li",
     "prompt": "there",
     "answers": [
       "lì"
-    ]
+    ],
+    "exampleSentenceEnglish": "The book is there on the table."
   },
   {
     "id": "a1-ottobre",
     "prompt": "October",
     "answers": [
       "ottobre"
-    ]
+    ],
+    "exampleSentenceEnglish": "My birthday is in October."
   },
   {
     "id": "a1-sera",
     "prompt": "evening",
     "answers": [
       "sera"
-    ]
+    ],
+    "exampleSentenceEnglish": "Good evening everyone!"
   },
   {
     "id": "a1-cinque",
     "prompt": "five",
     "answers": [
       "cinque"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have five apples."
   },
   {
     "id": "a1-luglio",
     "prompt": "July",
     "answers": [
       "luglio"
-    ]
+    ],
+    "exampleSentenceEnglish": "Summer holidays start in July."
   },
   {
     "id": "a1-musica",
     "prompt": "music",
     "answers": [
       "musica"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like listening to music."
   },
   {
     "id": "a1-inglese",
     "prompt": "English",
     "answers": [
       "inglese"
-    ]
+    ],
+    "exampleSentenceEnglish": "I speak a little English."
   },
   {
     "id": "a1-mettere",
     "prompt": "to put",
     "answers": [
       "mettere"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can you put the book here?"
   },
   {
     "id": "a1-vivere",
     "prompt": "to live",
     "answers": [
       "vivere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to live in Italy."
   },
   {
     "id": "a1-data",
     "prompt": "date",
     "answers": [
       "data"
-    ]
+    ],
+    "exampleSentenceEnglish": "What is today's date?"
   },
   {
     "id": "a1-giornata",
     "prompt": "day",
     "answers": [
       "giornata"
-    ]
+    ],
+    "exampleSentenceEnglish": "Have a good day!"
   },
   {
     "id": "a1-lingua",
     "prompt": "language",
     "answers": [
       "lingua"
-    ]
+    ],
+    "exampleSentenceEnglish": "Italian is a beautiful language."
   },
   {
     "id": "a1-piccolo",
     "prompt": "small",
     "answers": [
       "piccolo"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have a small dog."
   },
   {
     "id": "a1-febbraio",
     "prompt": "February",
     "answers": [
       "febbraio"
-    ]
+    ],
+    "exampleSentenceEnglish": "My birthday is in February."
   },
   {
     "id": "a1-ieri",
     "prompt": "yesterday",
     "answers": [
       "ieri"
-    ]
+    ],
+    "exampleSentenceEnglish": "I saw him yesterday."
   },
   {
     "id": "a1-alto",
     "prompt": "tall",
     "answers": [
       "alto"
-    ]
+    ],
+    "exampleSentenceEnglish": "That tree is very tall."
   },
   {
     "id": "a1-dicembre",
     "prompt": "December",
     "answers": [
       "dicembre"
-    ]
+    ],
+    "exampleSentenceEnglish": "Christmas is in December."
   },
   {
     "id": "a1-novembre",
     "prompt": "November",
     "answers": [
       "novembre"
-    ]
+    ],
+    "exampleSentenceEnglish": "My birthday is in November."
   },
   {
     "id": "a1-semplice",
     "prompt": "simple",
     "answers": [
       "semplice"
-    ]
+    ],
+    "exampleSentenceEnglish": "The solution is very simple."
   },
   {
     "id": "a1-ultimo",
     "prompt": "last;ultimate",
     "answers": [
       "ultimo"
-    ]
+    ],
+    "exampleSentenceEnglish": "This is the last chapter."
   },
   {
     "id": "a1-agosto",
     "prompt": "August",
     "answers": [
       "agosto"
-    ]
+    ],
+    "exampleSentenceEnglish": "We go on vacation in August."
   },
   {
     "id": "a1-mare",
     "prompt": "sea",
     "answers": [
       "mare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to swim in the sea."
   },
   {
     "id": "a1-piu-2",
     "prompt": "more",
     "answers": [
       "piu"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want more time."
   },
   {
     "id": "a1-gennaio",
     "prompt": "January",
     "answers": [
       "gennaio"
-    ]
+    ],
+    "exampleSentenceEnglish": "The new year starts in January."
   },
   {
     "id": "a1-giovane",
     "prompt": "young",
     "answers": [
       "giovane"
-    ]
+    ],
+    "exampleSentenceEnglish": "He is a very young person."
   },
   {
     "id": "a1-guardare",
     "prompt": "to look;to watch",
     "answers": [
       "guardare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Watch television."
   },
   {
     "id": "a1-classe",
     "prompt": "class",
     "answers": [
       "classe"
-    ]
+    ],
+    "exampleSentenceEnglish": "The class is very noisy today."
   },
   {
     "id": "a1-continuare",
     "prompt": "to continue",
     "answers": [
       "continuare"
-    ]
+    ],
+    "exampleSentenceEnglish": "We must continue to work."
   },
   {
     "id": "a1-auto",
     "prompt": "car",
     "answers": [
       "auto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a new car."
   },
   {
     "id": "a1-piazza",
     "prompt": "square;plaza",
     "answers": [
       "piazza"
-    ]
+    ],
+    "exampleSentenceEnglish": "We meet in the square."
   },
   {
     "id": "a1-aiuto",
     "prompt": "help",
     "answers": [
       "aiuto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need your help."
   },
   {
     "id": "a1-domani",
     "prompt": "tomorrow",
     "answers": [
       "domani"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you tomorrow."
   },
   {
     "id": "a1-facile",
     "prompt": "easy",
     "answers": [
       "facile"
-    ]
+    ],
+    "exampleSentenceEnglish": "This exercise is very easy."
   },
   {
     "id": "a1-presto",
     "prompt": "soon;early",
     "answers": [
       "presto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I will arrive soon."
   },
   {
     "id": "a1-cercare",
     "prompt": "to look for;to search",
     "answers": [
       "cercare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am looking for my keys."
   },
   {
     "id": "a1-mamma",
     "prompt": "mom;mother",
     "answers": [
       "mamma"
-    ]
+    ],
+    "exampleSentenceEnglish": "My mom always cooks well."
   },
   {
     "id": "a1-papa",
     "prompt": "dad",
     "answers": [
       "papa"
-    ]
+    ],
+    "exampleSentenceEnglish": "My dad taught me how to swim."
   },
   {
     "id": "a1-lavorare",
     "prompt": "to work",
     "answers": [
       "lavorare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have to work tomorrow."
   },
   {
     "id": "a1-piede",
     "prompt": "foot",
     "answers": [
       "piede"
-    ]
+    ],
+    "exampleSentenceEnglish": "My foot hurts."
   },
   {
     "id": "a1-felice",
     "prompt": "happy",
     "answers": [
       "felice"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am very happy to see you."
   },
   {
     "id": "a1-sentire",
     "prompt": "to hear;to feel",
     "answers": [
       "sentire"
-    ]
+    ],
+    "exampleSentenceEnglish": "I hear the music."
   },
   {
     "id": "a1-sole",
     "prompt": "sun",
     "answers": [
       "sole"
-    ]
+    ],
+    "exampleSentenceEnglish": "The sun is shining today."
   },
   {
     "id": "a1-cosi-2",
     "prompt": "so;thus;like this",
     "answers": [
       "cosi"
-    ]
+    ],
+    "exampleSentenceEnglish": "Is it so difficult?"
   },
   {
     "id": "a1-macchina",
     "prompt": "car;machine",
     "answers": [
       "macchina"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a new car."
   },
   {
     "id": "a1-perdere",
     "prompt": "to lose",
     "answers": [
       "perdere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I don't want to lose the train."
   },
   {
     "id": "a1-eta",
     "prompt": "age",
     "answers": [
       "età"
-    ]
+    ],
+    "exampleSentenceEnglish": "What is your age?"
   },
   {
     "id": "a1-prezzo",
     "prompt": "price",
     "answers": [
       "prezzo"
-    ]
+    ],
+    "exampleSentenceEnglish": "What is the price of this book?"
   },
   {
     "id": "a1-qua",
     "prompt": "here",
     "answers": [
       "qua"
-    ]
+    ],
+    "exampleSentenceEnglish": "Come here, please."
   },
   {
     "id": "a1-cambiare",
     "prompt": "to change",
     "answers": [
       "cambiare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to change my look."
   },
   {
     "id": "a1-camera",
     "prompt": "room;camera",
     "answers": [
       "camera"
-    ]
+    ],
+    "exampleSentenceEnglish": "My bedroom is big."
   },
   {
     "id": "a1-destra",
     "prompt": "right (direction)",
     "answers": [
       "destra"
-    ]
+    ],
+    "exampleSentenceEnglish": "Turn right at the next intersection."
   },
   {
     "id": "a1-portare",
     "prompt": "to bring;to carry",
     "answers": [
       "portare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can you bring this book?"
   },
   {
     "id": "a1-chiaro",
     "prompt": "clear",
     "answers": [
       "chiaro"
-    ]
+    ],
+    "exampleSentenceEnglish": "The sky is clear today."
   },
   {
     "id": "a1-chiedere",
     "prompt": "to ask",
     "answers": [
       "chiedere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need to ask for some information."
   },
   {
     "id": "a1-dieci",
     "prompt": "ten",
     "answers": [
       "dieci"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have ten euros."
   },
   {
     "id": "a1-diventare",
     "prompt": "to become",
     "answers": [
       "diventare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to become a doctor."
   },
   {
     "id": "a1-fratello",
     "prompt": "brother",
     "answers": [
       "fratello"
-    ]
+    ],
+    "exampleSentenceEnglish": "My brother is older than me."
   },
   {
     "id": "a1-partire",
     "prompt": "to leave",
     "answers": [
       "partire"
-    ]
+    ],
+    "exampleSentenceEnglish": "We leave tomorrow morning."
   },
   {
     "id": "a1-arrivare",
     "prompt": "to arrive",
     "answers": [
       "arrivare"
-    ]
+    ],
+    "exampleSentenceEnglish": "When do you arrive?"
   },
   {
     "id": "a1-carta",
     "prompt": "paper",
     "answers": [
       "carta"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need a sheet of paper."
   },
   {
     "id": "a1-festa",
     "prompt": "party",
     "answers": [
       "festa"
-    ]
+    ],
+    "exampleSentenceEnglish": "We're going to the party tonight."
   },
   {
     "id": "a1-francese",
     "prompt": "French",
     "answers": [
       "francese"
-    ]
+    ],
+    "exampleSentenceEnglish": "I speak a little French."
   },
   {
     "id": "a1-libero",
     "prompt": "free",
     "answers": [
       "libero"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am free this weekend."
   },
   {
     "id": "a1-tornare",
     "prompt": "to return",
     "answers": [
       "tornare"
-    ]
+    ],
+    "exampleSentenceEnglish": "When are you coming back home?"
   },
   {
     "id": "a1-usare",
     "prompt": "to use",
     "answers": [
       "usare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can I use your phone?"
   },
   {
     "id": "a1-prossimo",
     "prompt": "next",
     "answers": [
       "prossimo"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you next week."
   },
   {
     "id": "a1-cibo",
     "prompt": "food",
     "answers": [
       "cibo"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like Italian food."
   },
   {
     "id": "a1-figlia",
     "prompt": "daughter",
     "answers": [
       "figlia"
-    ]
+    ],
+    "exampleSentenceEnglish": "My daughter is six years old."
   },
   {
     "id": "a1-vecchio",
     "prompt": "old",
     "answers": [
       "vecchio"
-    ]
+    ],
+    "exampleSentenceEnglish": "My car is very old."
   },
   {
     "id": "a1-basso",
     "prompt": "low;short (in height)",
     "answers": [
       "basso"
-    ]
+    ],
+    "exampleSentenceEnglish": "The table is too low."
   },
   {
     "id": "a1-costare",
     "prompt": "to cost",
     "answers": [
       "costare"
-    ]
+    ],
+    "exampleSentenceEnglish": "How much does this book cost?"
   },
   {
     "id": "a1-entrare",
     "prompt": "to enter;to go in",
     "answers": [
       "entrare"
-    ]
+    ],
+    "exampleSentenceEnglish": "You can enter, the door is open."
   },
   {
     "id": "a1-iniziare",
     "prompt": "to start;to begin",
     "answers": [
       "iniziare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's start the lesson now."
   },
   {
     "id": "a1-nero",
     "prompt": "black",
     "answers": [
       "nero"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like black coffee."
   },
   {
     "id": "a1-telefono",
     "prompt": "telephone",
     "answers": [
       "telefono"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a new telephone."
   },
   {
     "id": "a1-colore",
     "prompt": "color",
     "answers": [
       "colore"
-    ]
+    ],
+    "exampleSentenceEnglish": "What is your favorite color?"
   },
   {
     "id": "a1-la",
     "prompt": "there",
     "answers": [
       "là"
-    ]
+    ],
+    "exampleSentenceEnglish": "Put the book there, please."
   },
   {
     "id": "a1-mattina",
     "prompt": "morning",
     "answers": [
       "mattina"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you tomorrow morning."
   },
   {
     "id": "a1-uscire",
     "prompt": "to go out",
     "answers": [
       "uscire"
-    ]
+    ],
+    "exampleSentenceEnglish": "We need to go out early."
   },
   {
     "id": "a1-chiamare",
     "prompt": "to call",
     "answers": [
       "chiamare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I'll call you later."
   },
   {
     "id": "a1-lettera",
     "prompt": "letter",
     "answers": [
       "lettera"
-    ]
+    ],
+    "exampleSentenceEnglish": "I received an important letter."
   },
   {
     "id": "a1-mangiare",
     "prompt": "to eat",
     "answers": [
       "mangiare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to eat pasta."
   },
   {
     "id": "a1-pieno",
     "prompt": "full",
     "answers": [
       "pieno"
-    ]
+    ],
+    "exampleSentenceEnglish": "The glass is full of water."
   },
   {
     "id": "a1-restare",
     "prompt": "to stay",
     "answers": [
       "restare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to stay home tonight."
   },
   {
     "id": "a1-signore",
     "prompt": "sir",
     "answers": [
       "signore"
-    ]
+    ],
+    "exampleSentenceEnglish": "The gentleman is waiting."
   },
   {
     "id": "a1-animale",
     "prompt": "animal",
     "answers": [
       "animale"
-    ]
+    ],
+    "exampleSentenceEnglish": "My favorite animal is the dog."
   },
   {
     "id": "a1-cielo",
     "prompt": "sky",
     "answers": [
       "cielo"
-    ]
+    ],
+    "exampleSentenceEnglish": "The sky is blue today."
   },
   {
     "id": "a1-conoscere",
     "prompt": "to know",
     "answers": [
       "conoscere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I don't know that person."
   },
   {
     "id": "a1-finire",
     "prompt": "to finish",
     "answers": [
       "finire"
-    ]
+    ],
+    "exampleSentenceEnglish": "We need to finish the work by tonight."
   },
   {
     "id": "a1-lasciare",
     "prompt": "to leave",
     "answers": [
       "lasciare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I left the keys on the table."
   },
   {
     "id": "a1-bianco",
     "prompt": "white",
     "answers": [
       "bianco"
-    ]
+    ],
+    "exampleSentenceEnglish": "The snow is white."
   },
   {
     "id": "a1-canzone",
     "prompt": "song",
     "answers": [
       "canzone"
-    ]
+    ],
+    "exampleSentenceEnglish": "This is my favorite song."
   },
   {
     "id": "a1-mille",
     "prompt": "thousand",
     "answers": [
       "mille"
-    ]
+    ],
+    "exampleSentenceEnglish": "There are a thousand people at the party."
   },
   {
     "id": "a1-radio",
     "prompt": "radio",
     "answers": [
       "radio"
-    ]
+    ],
+    "exampleSentenceEnglish": "I listen to the radio every morning."
   },
   {
     "id": "a1-aperto",
     "prompt": "open",
     "answers": [
       "aperto"
-    ]
+    ],
+    "exampleSentenceEnglish": "The door is open."
   },
   {
     "id": "a1-sette",
     "prompt": "seven",
     "answers": [
       "sette"
-    ]
+    ],
+    "exampleSentenceEnglish": "There are seven days in a week."
   },
   {
     "id": "a1-studente",
     "prompt": "student",
     "answers": [
       "studente"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am a university student."
   },
   {
     "id": "a1-tardi",
     "prompt": "late",
     "answers": [
       "tardi"
-    ]
+    ],
+    "exampleSentenceEnglish": "I arrived late for the appointment."
   },
   {
     "id": "a1-bocca",
     "prompt": "mouth",
     "answers": [
       "bocca"
-    ]
+    ],
+    "exampleSentenceEnglish": "Open your mouth."
   },
   {
     "id": "a1-giocare",
     "prompt": "to play",
     "answers": [
       "giocare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to play soccer."
   },
   {
     "id": "a1-rosso",
     "prompt": "red",
     "answers": [
       "rosso"
-    ]
+    ],
+    "exampleSentenceEnglish": "The car is red."
   },
   {
     "id": "a1-domenica",
     "prompt": "Sunday",
     "answers": [
       "domenica"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you next Sunday."
   },
   {
     "id": "a1-sport",
     "prompt": "sport",
     "answers": [
       "sport"
-    ]
+    ],
+    "exampleSentenceEnglish": "My favorite sport is soccer."
   },
   {
     "id": "a1-marito",
     "prompt": "husband",
     "answers": [
       "marito"
-    ]
+    ],
+    "exampleSentenceEnglish": "My husband is a good cook."
   },
   {
     "id": "a1-pagare",
     "prompt": "to pay",
     "answers": [
       "pagare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need to pay the bill."
   },
   {
     "id": "a1-capello",
     "prompt": "hair (single strand)",
     "answers": [
       "capello"
-    ]
+    ],
+    "exampleSentenceEnglish": "I found a hair in the dish."
   },
   {
     "id": "a1-metro",
     "prompt": "meter;subway",
     "answers": [
       "metro"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's take the subway to go downtown."
   },
   {
     "id": "a1-aiutare",
     "prompt": "to help",
     "answers": [
       "aiutare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can I help you?"
   },
   {
     "id": "a1-cane",
     "prompt": "dog",
     "answers": [
       "cane"
-    ]
+    ],
+    "exampleSentenceEnglish": "My dog is very loyal."
   },
   {
     "id": "a1-natale",
     "prompt": "Christmas",
     "answers": [
       "natale"
-    ]
+    ],
+    "exampleSentenceEnglish": "At Christmas, we gather with the whole family."
   },
   {
     "id": "a1-cinema",
     "prompt": "cinema;movie theater",
     "answers": [
       "cinema"
-    ]
+    ],
+    "exampleSentenceEnglish": "Shall we go to the cinema tonight?"
   },
   {
     "id": "a1-quest-anno",
     "prompt": "this year",
     "answers": [
       "quest'anno"
-    ]
+    ],
+    "exampleSentenceEnglish": "This year we will go on vacation to Italy."
   },
   {
     "id": "a1-stasera",
     "prompt": "tonight",
     "answers": [
       "stasera"
-    ]
+    ],
+    "exampleSentenceEnglish": "What are we doing tonight?"
   },
   {
     "id": "a1-amare",
     "prompt": "to love",
     "answers": [
       "amare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I love classical music."
   },
   {
     "id": "a1-benissimo",
     "prompt": "very well",
     "answers": [
       "benissimo"
-    ]
+    ],
+    "exampleSentenceEnglish": "I'm very well, thank you."
   },
   {
     "id": "a1-parco",
     "prompt": "park",
     "answers": [
       "parco"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go to the park to play."
   },
   {
     "id": "a1-pronto",
     "prompt": "ready",
     "answers": [
       "pronto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am ready to leave."
   },
   {
     "id": "a1-cucina",
     "prompt": "kitchen",
     "answers": [
       "cucina"
-    ]
+    ],
+    "exampleSentenceEnglish": "The kitchen is the heart of the home."
   },
   {
     "id": "a1-otto",
     "prompt": "eight",
     "answers": [
       "otto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have eight books."
   },
   {
     "id": "a1-rispondere",
     "prompt": "to answer",
     "answers": [
       "rispondere"
-    ]
+    ],
+    "exampleSentenceEnglish": "Please, answer my question."
   },
   {
     "id": "a1-banca",
     "prompt": "bank",
     "answers": [
       "banca"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need to go to the bank."
   },
   {
     "id": "a1-sale",
     "prompt": "salt",
     "answers": [
       "sale"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can you pass me the salt, please?"
   },
   {
     "id": "a1-stazione",
     "prompt": "station",
     "answers": [
       "stazione"
-    ]
+    ],
+    "exampleSentenceEnglish": "The train station is nearby."
   },
   {
     "id": "a1-bagno",
     "prompt": "bathroom",
     "answers": [
       "bagno"
-    ]
+    ],
+    "exampleSentenceEnglish": "Where is the bathroom, please?"
   },
   {
     "id": "a1-computer",
     "prompt": "computer",
     "answers": [
       "computer"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a new computer."
   },
   {
     "id": "a1-sabato",
     "prompt": "Saturday",
     "answers": [
       "sabato"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you next Saturday."
   },
   {
     "id": "a1-fame",
     "prompt": "hunger",
     "answers": [
       "fame"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am very hungry."
   },
   {
     "id": "a1-sorella",
     "prompt": "sister",
     "answers": [
       "sorella"
-    ]
+    ],
+    "exampleSentenceEnglish": "My sister lives in Rome."
   },
   {
     "id": "a1-verde",
     "prompt": "green",
     "answers": [
       "verde"
-    ]
+    ],
+    "exampleSentenceEnglish": "The lawn is very green."
   },
   {
     "id": "a1-amica",
     "prompt": "friend (female)",
     "answers": [
       "amica"
-    ]
+    ],
+    "exampleSentenceEnglish": "She is my best friend."
   },
   {
     "id": "a1-bar",
     "prompt": "bar;cafe",
     "answers": [
       "bar"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go to the bar for a coffee."
   },
   {
     "id": "a1-estate",
     "prompt": "summer",
     "answers": [
       "estate"
-    ]
+    ],
+    "exampleSentenceEnglish": "Summer is my favorite season."
   },
   {
     "id": "a1-caffe",
     "prompt": "coffee",
     "answers": [
       "caffè"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a coffee, please."
   },
   {
     "id": "a1-dolce",
     "prompt": "sweet;gentle",
     "answers": [
       "dolce"
-    ]
+    ],
+    "exampleSentenceEnglish": "This dessert is delicious."
   },
   {
     "id": "a1-cento",
     "prompt": "hundred",
     "answers": [
       "cento"
-    ]
+    ],
+    "exampleSentenceEnglish": "There are a hundred people at the party."
   },
   {
     "id": "a1-giornale",
     "prompt": "newspaper",
     "answers": [
       "giornale"
-    ]
+    ],
+    "exampleSentenceEnglish": "I read the newspaper every morning."
   },
   {
     "id": "a1-rosa",
     "prompt": "pink",
     "answers": [
       "rosa"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like the color pink."
   },
   {
     "id": "a1-bravo",
     "prompt": "good;capable;brave",
     "answers": [
       "bravo"
-    ]
+    ],
+    "exampleSentenceEnglish": "You were very good at solving the problem."
   },
   {
     "id": "a1-comprare",
     "prompt": "to buy",
     "answers": [
       "comprare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to buy a new book."
   },
   {
     "id": "a1-museo",
     "prompt": "museum",
     "answers": [
       "museo"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go visit the museum tomorrow."
   },
   {
     "id": "a1-signora",
     "prompt": "lady;Mrs.",
     "answers": [
       "signora"
-    ]
+    ],
+    "exampleSentenceEnglish": "Mrs. Rossi is very kind."
   },
   {
     "id": "a1-vino",
     "prompt": "wine",
     "answers": [
       "vino"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a glass of red wine."
   },
   {
     "id": "a1-zero",
     "prompt": "zero",
     "answers": [
       "zero"
-    ]
+    ],
+    "exampleSentenceEnglish": "The temperature dropped to zero degrees."
   },
   {
     "id": "a1-aspettare",
     "prompt": "to wait",
     "answers": [
       "aspettare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have to wait for the bus."
   },
   {
     "id": "a1-caldo",
     "prompt": "hot;warm",
     "answers": [
       "caldo"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's very hot today."
   },
   {
     "id": "a1-caro",
     "prompt": "expensive;dear",
     "answers": [
       "caro"
-    ]
+    ],
+    "exampleSentenceEnglish": "This dress is too expensive."
   },
   {
     "id": "a1-cellulare",
     "prompt": "mobile phone",
     "answers": [
       "cellulare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I forgot my mobile phone at home."
   },
   {
     "id": "a1-cena",
     "prompt": "dinner",
     "answers": [
       "cena"
-    ]
+    ],
+    "exampleSentenceEnglish": "What are we eating for dinner?"
   },
   {
     "id": "a1-giu",
     "prompt": "down",
     "answers": [
       "giù"
-    ]
+    ],
+    "exampleSentenceEnglish": "Go down the stairs."
   },
   {
     "id": "a1-americano",
     "prompt": "American",
     "answers": [
       "americano"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's an American movie."
   },
   {
     "id": "a1-blu",
     "prompt": "blue",
     "answers": [
       "blu"
-    ]
+    ],
+    "exampleSentenceEnglish": "The sky is blue."
   },
   {
     "id": "a1-stanza",
     "prompt": "room",
     "answers": [
       "stanza"
-    ]
+    ],
+    "exampleSentenceEnglish": "My room is on the second floor."
   },
   {
     "id": "a1-studiare",
     "prompt": "to study",
     "answers": [
       "studiare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have to study for the exam."
   },
   {
     "id": "a1-venerdi",
     "prompt": "Friday",
     "answers": [
       "venerdì"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you next Friday."
   },
   {
     "id": "a1-imparare",
     "prompt": "to learn",
     "answers": [
       "imparare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to learn Italian."
   },
   {
     "id": "a1-pomeriggio",
     "prompt": "afternoon",
     "answers": [
       "pomeriggio"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you this afternoon."
   },
   {
     "id": "a1-signor",
     "prompt": "Mr.;sir",
     "answers": [
       "signor"
-    ]
+    ],
+    "exampleSentenceEnglish": "Mr. Rossi has arrived."
   },
   {
     "id": "a1-contare",
     "prompt": "to count;to matter",
     "answers": [
       "contare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can you count to ten?"
   },
   {
     "id": "a1-dormire",
     "prompt": "to sleep",
     "answers": [
       "dormire"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need to sleep eight hours a night."
   },
   {
     "id": "a1-pranzo",
     "prompt": "lunch",
     "answers": [
       "pranzo"
-    ]
+    ],
+    "exampleSentenceEnglish": "Shall we meet for lunch?"
   },
   {
     "id": "a1-aprire",
     "prompt": "to open",
     "answers": [
       "aprire"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can you open the window, please?"
   },
   {
     "id": "a1-freddo",
     "prompt": "cold",
     "answers": [
       "freddo"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's very cold today."
   },
   {
     "id": "a1-treno",
     "prompt": "train",
     "answers": [
       "treno"
-    ]
+    ],
+    "exampleSentenceEnglish": "I will take the train to Rome."
   },
   {
     "id": "a1-triste",
     "prompt": "sad",
     "answers": [
       "triste"
-    ]
+    ],
+    "exampleSentenceEnglish": "He was very sad after the news."
   },
   {
     "id": "a1-arrivato",
     "prompt": "arrived",
     "answers": [
       "arrivato"
-    ]
+    ],
+    "exampleSentenceEnglish": "The train arrived on time."
   },
   {
     "id": "a1-grosso",
     "prompt": "big;large;fat",
     "answers": [
       "grosso"
-    ]
+    ],
+    "exampleSentenceEnglish": "The dog is very big."
   },
   {
     "id": "a1-luna",
     "prompt": "moon",
     "answers": [
       "luna"
-    ]
+    ],
+    "exampleSentenceEnglish": "The full moon is beautiful tonight."
   },
   {
     "id": "a1-povero",
     "prompt": "poor",
     "answers": [
       "povero"
-    ]
+    ],
+    "exampleSentenceEnglish": "We help poor people."
   },
   {
     "id": "a1-ridere",
     "prompt": "to laugh",
     "answers": [
       "ridere"
-    ]
+    ],
+    "exampleSentenceEnglish": "He always makes me laugh."
   },
   {
     "id": "a1-aereo",
     "prompt": "airplane",
     "answers": [
       "aereo"
-    ]
+    ],
+    "exampleSentenceEnglish": "We will take the airplane to Rome."
   },
   {
     "id": "a1-fiore",
     "prompt": "flower",
     "answers": [
       "fiore"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like red flowers."
   },
   {
     "id": "a1-negozio",
     "prompt": "shop;store",
     "answers": [
       "negozio"
-    ]
+    ],
+    "exampleSentenceEnglish": "I'm going to the shop to buy bread."
   },
   {
     "id": "a1-quarto",
     "prompt": "fourth",
     "answers": [
       "quarto"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's the fourth day of the week."
   },
   {
     "id": "a1-lezione",
     "prompt": "lesson",
     "answers": [
       "lezione"
-    ]
+    ],
+    "exampleSentenceEnglish": "We have an Italian lesson every Tuesday."
   },
   {
     "id": "a1-primavera",
     "prompt": "spring",
     "answers": [
       "primavera"
-    ]
+    ],
+    "exampleSentenceEnglish": "Spring is my favorite season."
   },
   {
     "id": "a1-latte",
     "prompt": "milk",
     "answers": [
       "latte"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a coffee with milk."
   },
   {
     "id": "a1-nato",
     "prompt": "born",
     "answers": [
       "nato"
-    ]
+    ],
+    "exampleSentenceEnglish": "I was born in Rome."
   },
   {
     "id": "a1-brutto",
     "prompt": "ugly;bad",
     "answers": [
       "brutto"
-    ]
+    ],
+    "exampleSentenceEnglish": "What bad weather today!"
   },
   {
     "id": "a1-nonna",
     "prompt": "grandmother",
     "answers": [
       "nonna"
-    ]
+    ],
+    "exampleSentenceEnglish": "My grandmother always makes fresh pasta."
   },
   {
     "id": "a1-accettare",
     "prompt": "to accept",
     "answers": [
       "accettare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I decided to accept the job offer."
   },
   {
     "id": "a1-appuntamento",
     "prompt": "appointment;date",
     "answers": [
       "appuntamento"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have an appointment with the doctor tomorrow."
   },
   {
     "id": "a1-biblioteca",
     "prompt": "library",
     "answers": [
       "biblioteca"
-    ]
+    ],
+    "exampleSentenceEnglish": "I go to the library to study."
   },
   {
     "id": "a1-chiudere",
     "prompt": "to close",
     "answers": [
       "chiudere"
-    ]
+    ],
+    "exampleSentenceEnglish": "Please, can you close the door?"
   },
   {
     "id": "a1-nove",
     "prompt": "nine",
     "answers": [
       "nove"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have nine books on the desk."
   },
   {
     "id": "a1-olio",
     "prompt": "oil",
     "answers": [
       "olio"
-    ]
+    ],
+    "exampleSentenceEnglish": "Put some oil in the salad."
   },
   {
     "id": "a1-pane",
     "prompt": "bread",
     "answers": [
       "pane"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a piece of bread."
   },
   {
     "id": "a1-scarpa",
     "prompt": "shoe",
     "answers": [
       "scarpa"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a new pair of shoes."
   },
   {
     "id": "a1-ascoltare",
     "prompt": "to listen",
     "answers": [
       "ascoltare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to listen to music."
   },
   {
     "id": "a1-cominciare",
     "prompt": "to begin",
     "answers": [
       "cominciare"
-    ]
+    ],
+    "exampleSentenceEnglish": "We need to start the work early."
   },
   {
     "id": "a1-lunedi",
     "prompt": "Monday",
     "answers": [
       "lunedì"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you next Monday."
   },
   {
     "id": "a1-spiaggia",
     "prompt": "beach",
     "answers": [
       "spiaggia"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go to the beach this summer."
   },
   {
     "id": "a1-vacanza",
     "prompt": "holiday;vacation",
     "answers": [
       "vacanza"
-    ]
+    ],
+    "exampleSentenceEnglish": "We're going on holiday in August."
   },
   {
     "id": "a1-esserci",
     "prompt": "there to be (to exist)",
     "answers": [
       "esserci"
-    ]
+    ],
+    "exampleSentenceEnglish": "There is a book on the table."
   },
   {
     "id": "a1-papa-2",
     "prompt": "dad;daddy",
     "answers": [
       "papà"
-    ]
+    ],
+    "exampleSentenceEnglish": "My dad taught me how to swim."
   },
   {
     "id": "a1-ristorante",
     "prompt": "restaurant",
     "answers": [
       "ristorante"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go to dinner at an Italian restaurant."
   },
   {
     "id": "a1-tavolo",
     "prompt": "table",
     "answers": [
       "tavolo"
-    ]
+    ],
+    "exampleSentenceEnglish": "The book is on the table."
   },
   {
     "id": "a1-braccio",
     "prompt": "arm",
     "answers": [
       "braccio"
-    ]
+    ],
+    "exampleSentenceEnglish": "My arm hurts."
   },
   {
     "id": "a1-hotel",
     "prompt": "hotel",
     "answers": [
       "hotel"
-    ]
+    ],
+    "exampleSentenceEnglish": "We booked a hotel in the center."
   },
   {
     "id": "a1-montagna",
     "prompt": "mountain",
     "answers": [
       "montagna"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to go to the mountains."
   },
   {
     "id": "a1-preferire",
     "prompt": "to prefer",
     "answers": [
       "preferire"
-    ]
+    ],
+    "exampleSentenceEnglish": "I prefer coffee to tea."
   },
   {
     "id": "a1-bere",
     "prompt": "to drink",
     "answers": [
       "bere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to drink a glass of water."
   },
   {
     "id": "a1-biglietto",
     "prompt": "ticket",
     "answers": [
       "biglietto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a ticket for the concert."
   },
   {
     "id": "a1-gamba",
     "prompt": "leg",
     "answers": [
       "gamba"
-    ]
+    ],
+    "exampleSentenceEnglish": "My leg hurts."
   },
   {
     "id": "a1-gentile",
     "prompt": "kind",
     "answers": [
       "gentile"
-    ]
+    ],
+    "exampleSentenceEnglish": "He is a very kind person."
   },
   {
     "id": "a1-giardino",
     "prompt": "garden",
     "answers": [
       "giardino"
-    ]
+    ],
+    "exampleSentenceEnglish": "We have a beautiful garden behind the house."
   },
   {
     "id": "a1-lago",
     "prompt": "lake",
     "answers": [
       "lago"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go on a trip to the lake."
   },
   {
     "id": "a1-regalo",
     "prompt": "gift",
     "answers": [
       "regalo"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a gift for his birthday."
   },
   {
     "id": "a1-vestito",
     "prompt": "dress",
     "answers": [
       "vestito"
-    ]
+    ],
+    "exampleSentenceEnglish": "She bought a new dress for the party."
   },
   {
     "id": "a1-borsa",
     "prompt": "bag",
     "answers": [
       "borsa"
-    ]
+    ],
+    "exampleSentenceEnglish": "I left my bag on the table."
   },
   {
     "id": "a1-pizza",
     "prompt": "pizza",
     "answers": [
       "pizza"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a Margherita pizza."
   },
   {
     "id": "a1-pesce",
     "prompt": "fish",
     "answers": [
       "pesce"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to eat fish."
   },
   {
     "id": "a1-scusare",
     "prompt": "to excuse;to apologize",
     "answers": [
       "scusare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Excuse me, may I ask you a question?"
   },
   {
     "id": "a1-colazione",
     "prompt": "breakfast",
     "answers": [
       "colazione"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have breakfast at eight."
   },
   {
     "id": "a1-pianta",
     "prompt": "plant;floor plan",
     "answers": [
       "pianta"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a new plant for my living room."
   },
   {
     "id": "a1-appartamento",
     "prompt": "apartment",
     "answers": [
       "appartamento"
-    ]
+    ],
+    "exampleSentenceEnglish": "I live in a small apartment."
   },
   {
     "id": "a1-compleanno",
     "prompt": "birthday",
     "answers": [
       "compleanno"
-    ]
+    ],
+    "exampleSentenceEnglish": "Today is my birthday."
   },
   {
     "id": "a1-mattino",
     "prompt": "morning",
     "answers": [
       "mattino"
-    ]
+    ],
+    "exampleSentenceEnglish": "We'll see each other tomorrow morning."
   },
   {
     "id": "a1-pasta",
     "prompt": "pasta;dough",
     "answers": [
       "pasta"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to eat pasta."
   },
   {
     "id": "a1-tavola",
     "prompt": "table;board",
     "answers": [
       "tavola"
-    ]
+    ],
+    "exampleSentenceEnglish": "Put the plates on the table."
   },
   {
     "id": "a1-finestra",
     "prompt": "window",
     "answers": [
       "finestra"
-    ]
+    ],
+    "exampleSentenceEnglish": "Open the window, please."
   },
   {
     "id": "a1-frutto",
     "prompt": "fruit",
     "answers": [
       "frutto"
-    ]
+    ],
+    "exampleSentenceEnglish": "Fruit is important for a healthy diet."
   },
   {
     "id": "a1-vendere",
     "prompt": "to sell",
     "answers": [
       "vendere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to sell my car."
   },
   {
     "id": "a1-zio",
     "prompt": "uncle",
     "answers": [
       "zio"
-    ]
+    ],
+    "exampleSentenceEnglish": "My uncle lives in Rome."
   },
   {
     "id": "a1-albero",
     "prompt": "tree",
     "answers": [
       "albero"
-    ]
+    ],
+    "exampleSentenceEnglish": "There is a big tree in the garden."
   },
   {
     "id": "a1-birra",
     "prompt": "beer",
     "answers": [
       "birra"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a cold beer."
   },
   {
     "id": "a1-incontrare",
     "prompt": "to meet",
     "answers": [
       "incontrare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to meet your friends."
   },
   {
     "id": "a1-correre",
     "prompt": "to run",
     "answers": [
       "correre"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to run in the morning."
   },
   {
     "id": "a1-riso",
     "prompt": "rice",
     "answers": [
       "riso"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like rice with vegetables."
   },
   {
     "id": "a1-contento",
     "prompt": "happy;content",
     "answers": [
       "contento"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am very happy to see you."
   },
   {
     "id": "a1-dente",
     "prompt": "tooth",
     "answers": [
       "dente"
-    ]
+    ],
+    "exampleSentenceEnglish": "A tooth hurts me."
   },
   {
     "id": "a1-naso",
     "prompt": "nose",
     "answers": [
       "naso"
-    ]
+    ],
+    "exampleSentenceEnglish": "He has a small nose."
   },
   {
     "id": "a1-piatto",
     "prompt": "plate;dish",
     "answers": [
       "piatto"
-    ]
+    ],
+    "exampleSentenceEnglish": "This is my favorite dish."
   },
   {
     "id": "a1-inverno",
     "prompt": "winter",
     "answers": [
       "inverno"
-    ]
+    ],
+    "exampleSentenceEnglish": "Winter is my favorite season."
   },
   {
     "id": "a1-gatto",
     "prompt": "cat",
     "answers": [
       "gatto"
-    ]
+    ],
+    "exampleSentenceEnglish": "The cat is sleeping on the sofa."
   },
   {
     "id": "a1-giallo",
     "prompt": "yellow",
     "answers": [
       "giallo"
-    ]
+    ],
+    "exampleSentenceEnglish": "The sun is yellow."
   },
   {
     "id": "a1-giovedi",
     "prompt": "Thursday",
     "answers": [
       "giovedì"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you next Thursday."
   },
   {
     "id": "a1-kg",
     "prompt": "kilogram",
     "answers": [
       "kg"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought two kilograms of apples."
   },
   {
     "id": "a1-largo",
     "prompt": "wide",
     "answers": [
       "largo"
-    ]
+    ],
+    "exampleSentenceEnglish": "The street is very wide."
   },
   {
     "id": "a1-mar",
     "prompt": "sea",
     "answers": [
       "mar"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go to the sea this weekend."
   },
   {
     "id": "a1-uovo",
     "prompt": "egg",
     "answers": [
       "uovo"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a fried egg for breakfast."
   },
   {
     "id": "a1-cattivo",
     "prompt": "bad;evil",
     "answers": [
       "cattivo"
-    ]
+    ],
+    "exampleSentenceEnglish": "Don't be bad to your little brother."
   },
   {
     "id": "a1-girare",
     "prompt": "to turn;to spin;to go around",
     "answers": [
       "girare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Turn right at the next intersection."
   },
   {
     "id": "a1-insegnante",
     "prompt": "teacher",
     "answers": [
       "insegnante"
-    ]
+    ],
+    "exampleSentenceEnglish": "My Italian teacher is very good."
   },
   {
     "id": "a1-nonno",
     "prompt": "grandfather",
     "answers": [
       "nonno"
-    ]
+    ],
+    "exampleSentenceEnglish": "My grandfather told me a story."
   },
   {
     "id": "a1-ringraziare",
     "prompt": "to thank",
     "answers": [
       "ringraziare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to thank you for your help."
   },
   {
     "id": "a1-piu-3",
     "prompt": "more",
     "answers": [
       "piú"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want more time to finish."
   },
   {
     "id": "a1-benvenuto",
     "prompt": "welcome",
     "answers": [
       "benvenuto"
-    ]
+    ],
+    "exampleSentenceEnglish": "You are welcome in my home."
   },
   {
     "id": "a1-guidare",
     "prompt": "to drive;to guide",
     "answers": [
       "guidare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to drive the car."
   },
   {
     "id": "a1-mostrare",
     "prompt": "to show;to display",
     "answers": [
       "mostrare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can you show me the way?"
   },
   {
     "id": "a1-po",
     "prompt": "a little;a bit",
     "answers": [
       "pò"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a little sugar."
   },
   {
     "id": "a1-autobus",
     "prompt": "bus",
     "answers": [
       "autobus"
-    ]
+    ],
+    "exampleSentenceEnglish": "I take the bus to go to school."
   },
   {
     "id": "a1-dito",
     "prompt": "finger",
     "answers": [
       "dito"
-    ]
+    ],
+    "exampleSentenceEnglish": "I cut my finger."
   },
   {
     "id": "a1-doccia",
     "prompt": "shower",
     "answers": [
       "doccia"
-    ]
+    ],
+    "exampleSentenceEnglish": "I take a shower every morning."
   },
   {
     "id": "a1-neve",
     "prompt": "snow",
     "answers": [
       "neve"
-    ]
+    ],
+    "exampleSentenceEnglish": "Snow covers the mountains in winter."
   },
   {
     "id": "a1-visitare",
     "prompt": "to visit",
     "answers": [
       "visitare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like to visit Rome next summer."
   },
   {
     "id": "a1-zucchero",
     "prompt": "sugar",
     "answers": [
       "zucchero"
-    ]
+    ],
+    "exampleSentenceEnglish": "I always put a little sugar in my coffee."
   },
   {
     "id": "a1-dodici",
     "prompt": "twelve",
     "answers": [
       "dodici"
-    ]
+    ],
+    "exampleSentenceEnglish": "There are twelve months in a year."
   },
   {
     "id": "a1-dottore",
     "prompt": "doctor",
     "answers": [
       "dottore"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have an appointment with the doctor."
   },
   {
     "id": "a1-martedi",
     "prompt": "Tuesday",
     "answers": [
       "martedì"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you next Tuesday."
   },
   {
     "id": "a1-preparare",
     "prompt": "to prepare",
     "answers": [
       "preparare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need to prepare dinner."
   },
   {
     "id": "a1-suonare",
     "prompt": "to play (an instrument);to ring (a bell)",
     "answers": [
       "suonare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to play the guitar."
   },
   {
     "id": "a1-mercoledi",
     "prompt": "Wednesday",
     "answers": [
       "mercoledì"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you next Wednesday."
   },
   {
     "id": "a1-bacio",
     "prompt": "kiss",
     "answers": [
       "bacio"
-    ]
+    ],
+    "exampleSentenceEnglish": "He gave her a kiss on the cheek."
   },
   {
     "id": "a1-ballo",
     "prompt": "dance;ball",
     "answers": [
       "ballo"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go to a dance tonight."
   },
   {
     "id": "a1-quinto",
     "prompt": "fifth",
     "answers": [
       "quinto"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's the fifth day of the week."
   },
   {
     "id": "a1-torta",
     "prompt": "cake",
     "answers": [
       "torta"
-    ]
+    ],
+    "exampleSentenceEnglish": "I ate a slice of cake."
   },
   {
     "id": "a1-viaggiare",
     "prompt": "to travel",
     "answers": [
       "viaggiare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to travel by train."
   },
   {
     "id": "a1-frutta",
     "prompt": "fruit",
     "answers": [
       "frutta"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to eat fresh fruit every day."
   },
   {
     "id": "a1-insegnare",
     "prompt": "to teach",
     "answers": [
       "insegnare"
-    ]
+    ],
+    "exampleSentenceEnglish": "She teaches Italian to children."
   },
   {
     "id": "a1-barca",
     "prompt": "boat",
     "answers": [
       "barca"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go by boat on the lake."
   },
   {
     "id": "a1-bus",
     "prompt": "bus",
     "answers": [
       "bus"
-    ]
+    ],
+    "exampleSentenceEnglish": "I take the bus to go to work."
   },
   {
     "id": "a1-destro",
     "prompt": "right (side)",
     "answers": [
       "destro"
-    ]
+    ],
+    "exampleSentenceEnglish": "My right hand is stronger."
   },
   {
     "id": "a1-viola",
     "prompt": "purple;violet",
     "answers": [
       "viola"
-    ]
+    ],
+    "exampleSentenceEnglish": "My favorite color is purple."
   },
   {
     "id": "a1-trenta",
     "prompt": "thirty",
     "answers": [
       "trenta"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have thirty euros."
   },
   {
     "id": "a1-camminare",
     "prompt": "to walk",
     "answers": [
       "camminare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to walk in the park in the morning."
   },
   {
     "id": "a1-erba",
     "prompt": "grass",
     "answers": [
       "erba"
-    ]
+    ],
+    "exampleSentenceEnglish": "The lawn is covered with green grass."
   },
   {
     "id": "a1-ritornare",
     "prompt": "to return;to come back",
     "answers": [
       "ritornare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to return home."
   },
   {
     "id": "a1-cantare",
     "prompt": "to sing",
     "answers": [
       "cantare"
-    ]
+    ],
+    "exampleSentenceEnglish": "She likes to sing in the shower."
   },
   {
     "id": "a1-cioccolato",
     "prompt": "chocolate",
     "answers": [
       "cioccolato"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a piece of chocolate."
   },
   {
     "id": "a1-quindici",
     "prompt": "fifteen",
     "answers": [
       "quindici"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am fifteen years old."
   },
   {
     "id": "a1-zia",
     "prompt": "aunt",
     "answers": [
       "zia"
-    ]
+    ],
+    "exampleSentenceEnglish": "My aunt lives in Rome."
   },
   {
     "id": "a1-divano",
     "prompt": "sofa;couch",
     "answers": [
       "divano"
-    ]
+    ],
+    "exampleSentenceEnglish": "I sat on the sofa to read."
   },
   {
     "id": "a1-foglio",
     "prompt": "sheet (of paper);leaf",
     "answers": [
       "foglio"
-    ]
+    ],
+    "exampleSentenceEnglish": "Write your name on a sheet of paper."
   },
   {
     "id": "a1-libreria",
     "prompt": "bookstore;bookshelf",
     "answers": [
       "libreria"
-    ]
+    ],
+    "exampleSentenceEnglish": "I'm going to the bookstore to buy a book."
   },
   {
     "id": "a1-orecchio",
     "prompt": "ear",
     "answers": [
       "orecchio"
-    ]
+    ],
+    "exampleSentenceEnglish": "My ear hurts."
   },
   {
     "id": "a1-bottiglia",
     "prompt": "bottle",
     "answers": [
       "bottiglia"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a bottle of water."
   },
   {
     "id": "a1-scatola",
     "prompt": "box",
     "answers": [
       "scatola"
-    ]
+    ],
+    "exampleSentenceEnglish": "Put the toys in the box."
   },
   {
     "id": "a1-aeroporto",
     "prompt": "airport",
     "answers": [
       "aeroporto"
-    ]
+    ],
+    "exampleSentenceEnglish": "We are going to the airport to catch the flight."
   },
   {
     "id": "a1-bici",
     "prompt": "bike",
     "answers": [
       "bici"
-    ]
+    ],
+    "exampleSentenceEnglish": "I go to work by bike every day."
   },
   {
     "id": "a1-malato",
     "prompt": "sick",
     "answers": [
       "malato"
-    ]
+    ],
+    "exampleSentenceEnglish": "I feel sick today."
   },
   {
     "id": "a1-stanco",
     "prompt": "tired",
     "answers": [
       "stanco"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am very tired after work."
   },
   {
     "id": "a1-taxi",
     "prompt": "taxi",
     "answers": [
       "taxi"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's take a taxi to the station."
   },
   {
     "id": "a1-cugino",
     "prompt": "cousin",
     "answers": [
       "cugino"
-    ]
+    ],
+    "exampleSentenceEnglish": "My cousin lives in Rome."
   },
   {
     "id": "a1-fresco",
     "prompt": "fresh;cool",
     "answers": [
       "fresco"
-    ]
+    ],
+    "exampleSentenceEnglish": "The air is cool this morning."
   },
   {
     "id": "a1-cinquanta",
     "prompt": "fifty",
     "answers": [
       "cinquanta"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have fifty euros in my pocket."
   },
   {
     "id": "a1-corto",
     "prompt": "short",
     "answers": [
       "corto"
-    ]
+    ],
+    "exampleSentenceEnglish": "She has short hair."
   },
   {
     "id": "a1-formaggio",
     "prompt": "cheese",
     "answers": [
       "formaggio"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like cheese."
   },
   {
     "id": "a1-mezz-ora",
     "prompt": "half an hour",
     "answers": [
       "mezz'ora"
-    ]
+    ],
+    "exampleSentenceEnglish": "We'll see each other in half an hour."
   },
   {
     "id": "a1-te",
     "prompt": "tea",
     "answers": [
       "tè"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a cup of tea, please."
   },
   {
     "id": "a1-albergo",
     "prompt": "hotel",
     "answers": [
       "albergo"
-    ]
+    ],
+    "exampleSentenceEnglish": "We booked a room in a hotel."
   },
   {
     "id": "a1-autunno",
     "prompt": "autumn;fall",
     "answers": [
       "autunno"
-    ]
+    ],
+    "exampleSentenceEnglish": "Autumn is my favorite season."
   },
   {
     "id": "a1-bicchiere",
     "prompt": "glass",
     "answers": [
       "bicchiere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a glass of water, please."
   },
   {
     "id": "a1-grigio",
     "prompt": "grey",
     "answers": [
       "grigio"
-    ]
+    ],
+    "exampleSentenceEnglish": "The sky is grey today."
   },
   {
     "id": "a1-pantalone",
     "prompt": "trousers;pants",
     "answers": [
       "pantalone"
-    ]
+    ],
+    "exampleSentenceEnglish": "My favorite trousers are blue."
   },
   {
     "id": "a1-pulire",
     "prompt": "to clean",
     "answers": [
       "pulire"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need to clean the house today."
   },
   {
     "id": "a1-sedia",
     "prompt": "chair",
     "answers": [
       "sedia"
-    ]
+    ],
+    "exampleSentenceEnglish": "Sit on this chair."
   },
   {
     "id": "a1-azzurro",
     "prompt": "light blue;azure",
     "answers": [
       "azzurro"
-    ]
+    ],
+    "exampleSentenceEnglish": "The sky today is a brilliant light blue."
   },
   {
     "id": "a1-mezzanotte",
     "prompt": "midnight",
     "answers": [
       "mezzanotte"
-    ]
+    ],
+    "exampleSentenceEnglish": "We'll see each other at midnight."
   },
   {
     "id": "a1-mezzogiorno",
     "prompt": "midday;noon",
     "answers": [
       "mezzogiorno"
-    ]
+    ],
+    "exampleSentenceEnglish": "I always have lunch at noon."
   },
   {
     "id": "a1-simpatico",
     "prompt": "nice;likeable;friendly",
     "answers": [
       "simpatico"
-    ]
+    ],
+    "exampleSentenceEnglish": "Your friend is very nice."
   },
   {
     "id": "a1-cappello",
     "prompt": "hat",
     "answers": [
       "cappello"
-    ]
+    ],
+    "exampleSentenceEnglish": "I always wear a hat in winter."
   },
   {
     "id": "a1-penna",
     "prompt": "pen",
     "answers": [
       "penna"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need a pen to write."
   },
   {
     "id": "a1-cucinare",
     "prompt": "to cook",
     "answers": [
       "cucinare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to cook pasta."
   },
   {
     "id": "a1-orologio",
     "prompt": "clock;watch",
     "answers": [
       "orologio"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a new watch."
   },
   {
     "id": "a1-pollo",
     "prompt": "chicken",
     "answers": [
       "pollo"
-    ]
+    ],
+    "exampleSentenceEnglish": "Tonight we are eating roast chicken."
   },
   {
     "id": "a1-sedere",
     "prompt": "to sit",
     "answers": [
       "sedere"
-    ]
+    ],
+    "exampleSentenceEnglish": "Please, sit down."
   },
   {
     "id": "a1-gelato",
     "prompt": "ice cream",
     "answers": [
       "gelato"
-    ]
+    ],
+    "exampleSentenceEnglish": "I really like chocolate ice cream."
   },
   {
     "id": "a1-lento",
     "prompt": "slow",
     "answers": [
       "lento"
-    ]
+    ],
+    "exampleSentenceEnglish": "The snail is very slow."
   },
   {
     "id": "a1-pasto",
     "prompt": "meal",
     "answers": [
       "pasto"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's time to have the meal."
   },
   {
     "id": "a1-pulito",
     "prompt": "clean",
     "answers": [
       "pulito"
-    ]
+    ],
+    "exampleSentenceEnglish": "The house is very clean."
   },
   {
     "id": "a1-undici",
     "prompt": "eleven",
     "answers": [
       "undici"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am eleven years old."
   },
   {
     "id": "a1-ballare",
     "prompt": "to dance",
     "answers": [
       "ballare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to dance salsa."
   },
   {
     "id": "a1-camicia",
     "prompt": "shirt",
     "answers": [
       "camicia"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a new blue shirt."
   },
   {
     "id": "a1-giacca",
     "prompt": "jacket",
     "answers": [
       "giacca"
-    ]
+    ],
+    "exampleSentenceEnglish": "I forgot my jacket at home."
   },
   {
     "id": "a1-patata",
     "prompt": "potato",
     "answers": [
       "patata"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like french fries."
   },
   {
     "id": "a1-alzare",
     "prompt": "to raise;to lift",
     "answers": [
       "alzare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Please, can you raise your hand?"
   },
   {
     "id": "a1-bicicletta",
     "prompt": "bicycle",
     "answers": [
       "bicicletta"
-    ]
+    ],
+    "exampleSentenceEnglish": "I go to work by bicycle."
   },
   {
     "id": "a1-burro",
     "prompt": "butter",
     "answers": [
       "burro"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like some butter on the bread."
   },
   {
     "id": "a1-dizionario",
     "prompt": "dictionary",
     "answers": [
       "dizionario"
-    ]
+    ],
+    "exampleSentenceEnglish": "I looked up the word in the dictionary."
   },
   {
     "id": "a1-bimbo",
     "prompt": "child;baby",
     "answers": [
       "bimbo"
-    ]
+    ],
+    "exampleSentenceEnglish": "The baby is sleeping in the crib."
   },
   {
     "id": "a1-coltello",
     "prompt": "knife",
     "answers": [
       "coltello"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need a knife to cut the bread."
   },
   {
     "id": "a1-maglietta",
     "prompt": "t-shirt",
     "answers": [
       "maglietta"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a new t-shirt."
   },
   {
     "id": "a1-bambina",
     "prompt": "girl;little girl",
     "answers": [
       "bambina"
-    ]
+    ],
+    "exampleSentenceEnglish": "The little girl plays in the park."
   },
   {
     "id": "a1-biscotto",
     "prompt": "biscuit;cookie",
     "answers": [
       "biscotto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I ate a cookie with my coffee."
   },
   {
     "id": "a1-salutare",
     "prompt": "to greet;to say hello",
     "answers": [
       "salutare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to greet my friends."
   },
   {
     "id": "a1-scuro",
     "prompt": "dark",
     "answers": [
       "scuro"
-    ]
+    ],
+    "exampleSentenceEnglish": "The sky is dark tonight."
   },
   {
     "id": "a1-week",
     "prompt": "week",
     "answers": [
       "week"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you next week."
   },
   {
     "id": "a1-letto",
     "prompt": "bed",
     "answers": [
       "letto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I'm going to bed early tonight."
   },
   {
     "id": "a1-ragazzina",
     "prompt": "little girl;young girl",
     "answers": [
       "ragazzina"
-    ]
+    ],
+    "exampleSentenceEnglish": "The little girl was playing in the park."
   },
   {
     "id": "a1-babbo",
     "prompt": "dad;father",
     "answers": [
       "babbo"
-    ]
+    ],
+    "exampleSentenceEnglish": "My dad taught me how to swim."
   },
   {
     "id": "a1-succo",
     "prompt": "juice",
     "answers": [
       "succo"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a glass of orange juice."
   },
   {
     "id": "a1-supermercato",
     "prompt": "supermarket",
     "answers": [
       "supermercato"
-    ]
+    ],
+    "exampleSentenceEnglish": "I'm going to the supermarket to buy bread."
   },
   {
     "id": "a1-andavano",
     "prompt": "they were going;they used to go",
     "answers": [
       "andavano"
-    ]
+    ],
+    "exampleSentenceEnglish": "They used to go to the sea every summer."
   },
   {
     "id": "a1-sci",
     "prompt": "ski;skiing",
     "answers": [
       "sci"
-    ]
+    ],
+    "exampleSentenceEnglish": "We're going skiing in the mountains this winter."
   },
   {
     "id": "a1-wifi",
     "prompt": "Wi-Fi",
     "answers": [
       "wifi"
-    ]
+    ],
+    "exampleSentenceEnglish": "Is there free Wi-Fi in this cafe?"
   },
   {
     "id": "a1-capodanno",
     "prompt": "New Year's Day",
     "answers": [
       "capodanno"
-    ]
+    ],
+    "exampleSentenceEnglish": "We will celebrate New Year's Day with friends."
   },
   {
     "id": "a1-chilo",
     "prompt": "kilogram;kilo",
     "answers": [
       "chilo"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a kilo of apples, please."
   },
   {
     "id": "a1-litro",
     "prompt": "liter",
     "answers": [
       "litro"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a liter of milk, please."
   },
   {
     "id": "a1-sete",
     "prompt": "thirst",
     "answers": [
       "sete"
-    ]
+    ],
+    "exampleSentenceEnglish": "I'm very thirsty after the run."
   },
   {
     "id": "a1-quaranta",
     "prompt": "forty",
     "answers": [
       "quaranta"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am forty years old."
   },
   {
     "id": "a1-sporco",
     "prompt": "dirty",
     "answers": [
       "sporco"
-    ]
+    ],
+    "exampleSentenceEnglish": "His clothes are dirty."
   },
   {
     "id": "a1-mela",
     "prompt": "apple",
     "answers": [
       "mela"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to eat an apple every day."
   },
   {
     "id": "a1-sessanta",
     "prompt": "sixty",
     "answers": [
       "sessanta"
-    ]
+    ],
+    "exampleSentenceEnglish": "He is sixty years old."
   },
   {
     "id": "a1-marrone",
     "prompt": "brown",
     "answers": [
       "marrone"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a brown bag."
   },
   {
     "id": "a1-sedici",
     "prompt": "sixteen",
     "answers": [
       "sedici"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am sixteen years old."
   },
   {
     "id": "a1-svegliare",
     "prompt": "to wake up",
     "answers": [
       "svegliare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need to wake up the children."
   },
   {
     "id": "a1-sognare",
     "prompt": "to dream",
     "answers": [
       "sognare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to daydream."
   },
   {
     "id": "a1-abitare",
     "prompt": "to live;to reside",
     "answers": [
       "abitare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have lived in Rome for five years."
   },
   {
     "id": "a1-cola",
     "prompt": "cola",
     "answers": [
       "cola"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a cola, please."
   },
   {
     "id": "a1-limone",
     "prompt": "lemon",
     "answers": [
       "limone"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a slice of lemon in my tea."
   },
   {
     "id": "a1-scrivania",
     "prompt": "desk",
     "answers": [
       "scrivania"
-    ]
+    ],
+    "exampleSentenceEnglish": "My desk is full of books."
   },
   {
     "id": "a1-zaino",
     "prompt": "backpack",
     "answers": [
       "zaino"
-    ]
+    ],
+    "exampleSentenceEnglish": "I put the books in the backpack."
   },
   {
     "id": "a1-accendere",
     "prompt": "to turn on;to light",
     "answers": [
       "accendere"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can you turn on the light, please?"
   },
   {
     "id": "a1-biondo",
     "prompt": "blonde",
     "answers": [
       "biondo"
-    ]
+    ],
+    "exampleSentenceEnglish": "She has blonde hair."
   },
   {
     "id": "a1-coniglio",
     "prompt": "rabbit",
     "answers": [
       "coniglio"
-    ]
+    ],
+    "exampleSentenceEnglish": "The rabbit eats carrots."
   },
   {
     "id": "a1-disegnare",
     "prompt": "to draw",
     "answers": [
       "disegnare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to draw landscapes."
   },
   {
     "id": "a1-tredici",
     "prompt": "thirteen",
     "answers": [
       "tredici"
-    ]
+    ],
+    "exampleSentenceEnglish": "There are thirteen students in the class."
   },
   {
     "id": "a1-gridare",
     "prompt": "to shout;to yell",
     "answers": [
       "gridare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Don't shout, please."
   },
   {
     "id": "a1-panino",
     "prompt": "sandwich;roll",
     "answers": [
       "panino"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a ham sandwich."
   },
   {
     "id": "a1-piovere",
     "prompt": "to rain",
     "answers": [
       "piovere"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's about to rain."
   },
   {
     "id": "a1-pomodoro",
     "prompt": "tomato",
     "answers": [
       "pomodoro"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like tomato sauce."
   },
   {
     "id": "a1-farmacia",
     "prompt": "pharmacy;drugstore",
     "answers": [
       "farmacia"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need to go to the pharmacy to buy medicine."
   },
   {
     "id": "a1-tazza",
     "prompt": "cup;mug",
     "answers": [
       "tazza"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a cup of coffee."
   },
   {
     "id": "a1-automobile",
     "prompt": "car;automobile",
     "answers": [
       "automobile"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a new car."
   },
   {
     "id": "a1-divertirsi",
     "prompt": "to have fun;to enjoy oneself",
     "answers": [
       "divertirsi"
-    ]
+    ],
+    "exampleSentenceEnglish": "We had a lot of fun at the party."
   },
   {
     "id": "a1-domandare",
     "prompt": "to ask;to demand",
     "answers": [
       "domandare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like to ask something."
   },
   {
     "id": "a1-duecento",
     "prompt": "two hundred",
     "answers": [
       "duecento"
-    ]
+    ],
+    "exampleSentenceEnglish": "There are two hundred people."
   },
   {
     "id": "a1-novanta",
     "prompt": "ninety",
     "answers": [
       "novanta"
-    ]
+    ],
+    "exampleSentenceEnglish": "I have ninety euros in my pocket."
   },
   {
     "id": "a1-ottanta",
     "prompt": "eighty",
     "answers": [
       "ottanta"
-    ]
+    ],
+    "exampleSentenceEnglish": "He is eighty years old."
   },
   {
     "id": "a1-arancione",
     "prompt": "orange",
     "answers": [
       "arancione"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like the color orange."
   },
   {
     "id": "a1-diciotto",
     "prompt": "eighteen",
     "answers": [
       "diciotto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am eighteen years old."
   },
   {
     "id": "a1-lavare",
     "prompt": "to wash",
     "answers": [
       "lavare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need to wash the dishes."
   },
   {
     "id": "a1-sapone",
     "prompt": "soap",
     "answers": [
       "sapone"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need soap to wash my hands."
   },
   {
     "id": "a1-quattordici",
     "prompt": "fourteen",
     "answers": [
       "quattordici"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am fourteen years old."
   },
   {
     "id": "a1-riposare",
     "prompt": "to rest",
     "answers": [
       "riposare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need to rest after the long journey."
   },
   {
     "id": "a1-settanta",
     "prompt": "seventy",
     "answers": [
       "settanta"
-    ]
+    ],
+    "exampleSentenceEnglish": "He is seventy years old."
   },
   {
     "id": "a1-regalare",
     "prompt": "to give (as a gift)",
     "answers": [
       "regalare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I want to give a book to my sister."
   },
   {
     "id": "a1-verdura",
     "prompt": "vegetable",
     "answers": [
       "verdura"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to eat a lot of vegetables."
   },
   {
     "id": "a1-gonna",
     "prompt": "skirt",
     "answers": [
       "gonna"
-    ]
+    ],
+    "exampleSentenceEnglish": "She is wearing a long skirt."
   },
   {
     "id": "a1-menu",
     "prompt": "menu",
     "answers": [
       "menu"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can we have the menu, please?"
   },
   {
     "id": "a1-professoressa",
     "prompt": "female professor;teacher",
     "answers": [
       "professoressa"
-    ]
+    ],
+    "exampleSentenceEnglish": "The professor explained the lesson."
   },
   {
     "id": "a1-venerdi-2",
     "prompt": "Friday",
     "answers": [
       "venerdi"
-    ]
+    ],
+    "exampleSentenceEnglish": "See you next Friday."
   },
   {
     "id": "a1-bimba",
     "prompt": "little girl;baby girl",
     "answers": [
       "bimba"
-    ]
+    ],
+    "exampleSentenceEnglish": "The little girl is sleeping in her crib."
   },
   {
     "id": "a1-insalata",
     "prompt": "salad",
     "answers": [
       "insalata"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a mixed salad."
   },
   {
     "id": "a1-lampada",
     "prompt": "lamp",
     "answers": [
       "lampada"
-    ]
+    ],
+    "exampleSentenceEnglish": "Turn on the lamp, please."
   },
   {
     "id": "a1-panna",
     "prompt": "cream",
     "answers": [
       "panna"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a coffee with a little cream."
   },
   {
     "id": "a1-prosciutto",
     "prompt": "ham;prosciutto",
     "answers": [
       "prosciutto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a sandwich with ham and cheese."
   },
   {
     "id": "a1-spaghetto",
     "prompt": "spaghetti (single strand)",
     "answers": [
       "spaghetto"
-    ]
+    ],
+    "exampleSentenceEnglish": "A strand of spaghetti fell from my fork."
   },
   {
     "id": "a1-banana",
     "prompt": "banana",
     "answers": [
       "banana"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to eat a banana for breakfast."
   },
   {
     "id": "a1-menu-2",
     "prompt": "menu",
     "answers": [
       "menù"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can I have the menu, please?"
   },
   {
     "id": "a1-cacca",
     "prompt": "poop;poo",
     "answers": [
       "cacca"
-    ]
+    ],
+    "exampleSentenceEnglish": "The dog pooped in the garden."
   },
   {
     "id": "a1-tondo",
     "prompt": "round",
     "answers": [
       "tondo"
-    ]
+    ],
+    "exampleSentenceEnglish": "The table is round."
   },
   {
     "id": "a1-cioccolata",
     "prompt": "chocolate (drink or bar)",
     "answers": [
       "cioccolata"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a cup of hot chocolate."
   },
   {
     "id": "a1-matita",
     "prompt": "pencil",
     "answers": [
       "matita"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need a pencil to write."
   },
   {
     "id": "a1-pizzeria",
     "prompt": "pizzeria",
     "answers": [
       "pizzeria"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go eat a pizza at the pizzeria tonight."
   },
   {
     "id": "a1-allegro",
     "prompt": "cheerful;happy",
     "answers": [
       "allegro"
-    ]
+    ],
+    "exampleSentenceEnglish": "He is always a cheerful person."
   },
   {
     "id": "a1-cappotto",
     "prompt": "coat",
     "answers": [
       "cappotto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I wear a heavy coat in winter."
   },
   {
     "id": "a1-hamburger",
     "prompt": "hamburger",
     "answers": [
       "hamburger"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a hamburger with french fries."
   },
   {
     "id": "a1-mucca",
     "prompt": "cow",
     "answers": [
       "mucca"
-    ]
+    ],
+    "exampleSentenceEnglish": "The cow grazes in the field."
   },
   {
     "id": "a1-pentola",
     "prompt": "pot",
     "answers": [
       "pentola"
-    ]
+    ],
+    "exampleSentenceEnglish": "I put the water to boil in the pot."
   },
   {
     "id": "a1-quaderno",
     "prompt": "notebook",
     "answers": [
       "quaderno"
-    ]
+    ],
+    "exampleSentenceEnglish": "I wrote my notes in the notebook."
   },
   {
     "id": "a1-diciassette",
     "prompt": "seventeen",
     "answers": [
       "diciassette"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am seventeen years old."
   },
   {
     "id": "a1-nuotare",
     "prompt": "to swim",
     "answers": [
       "nuotare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to swim in the sea."
   },
   {
     "id": "a1-zuppa",
     "prompt": "soup",
     "answers": [
       "zuppa"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to eat hot soup in winter."
   },
   {
     "id": "a1-calzino",
     "prompt": "sock",
     "answers": [
       "calzino"
-    ]
+    ],
+    "exampleSentenceEnglish": "I lost a sock in the washing machine."
   },
   {
     "id": "a1-cucchiaio",
     "prompt": "spoon",
     "answers": [
       "cucchiaio"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need a spoon for the coffee."
   },
   {
     "id": "a1-venticinque",
     "prompt": "twenty-five",
     "answers": [
       "venticinque"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am twenty-five years old."
   },
   {
     "id": "a1-cartolina",
     "prompt": "postcard",
     "answers": [
       "cartolina"
-    ]
+    ],
+    "exampleSentenceEnglish": "I sent you a postcard from Rome."
   },
   {
     "id": "a1-cinquant-anni",
     "prompt": "fifty years",
     "answers": [
       "cinquant'anni"
-    ]
+    ],
+    "exampleSentenceEnglish": "He is fifty years old and still looks young."
   },
   {
     "id": "a1-ventiquattro",
     "prompt": "twenty-four",
     "answers": [
       "ventiquattro"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's twenty-four hours a day."
   },
   {
     "id": "a1-gatta",
     "prompt": "female cat;cat",
     "answers": [
       "gatta"
-    ]
+    ],
+    "exampleSentenceEnglish": "The cat is sleeping on the sofa."
   },
   {
     "id": "a1-arancia",
     "prompt": "orange",
     "answers": [
       "arancia"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to squeeze a fresh orange in the morning."
   },
   {
     "id": "a1-mozzarella",
     "prompt": "mozzarella",
     "answers": [
       "mozzarella"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a pizza with mozzarella."
   },
   {
     "id": "a1-ombrello",
     "prompt": "umbrella",
     "answers": [
       "ombrello"
-    ]
+    ],
+    "exampleSentenceEnglish": "I forgot my umbrella at home."
   },
   {
     "id": "a1-parmigiano",
     "prompt": "Parmesan cheese",
     "answers": [
       "parmigiano"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like some Parmesan cheese on my pasta."
   },
   {
     "id": "a1-salutato",
     "prompt": "greeted;waved to",
     "answers": [
       "salutato"
-    ]
+    ],
+    "exampleSentenceEnglish": "I greeted him as he passed by."
   },
   {
     "id": "a1-toccato",
     "prompt": "touched",
     "answers": [
       "toccato"
-    ]
+    ],
+    "exampleSentenceEnglish": "I didn't touch anything."
   },
   {
     "id": "a1-alfabeto",
     "prompt": "alphabet",
     "answers": [
       "alfabeto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am learning the Italian alphabet."
   },
   {
     "id": "a1-televisore",
     "prompt": "television set",
     "answers": [
       "televisore"
-    ]
+    ],
+    "exampleSentenceEnglish": "We bought a new television set."
   },
   {
     "id": "a1-cappuccino",
     "prompt": "cappuccino",
     "answers": [
       "cappuccino"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a cappuccino, please."
   },
   {
     "id": "a1-incontrarsi",
     "prompt": "to meet (each other)",
     "answers": [
       "incontrarsi"
-    ]
+    ],
+    "exampleSentenceEnglish": "Shall we meet at the bar at seven?"
   },
   {
     "id": "a1-diciannove",
     "prompt": "nineteen",
     "answers": [
       "diciannove"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am nineteen years old."
   },
   {
     "id": "a1-maglione",
     "prompt": "sweater;jumper",
     "answers": [
       "maglione"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought a new wool sweater."
   },
   {
     "id": "a1-semaforo",
     "prompt": "traffic light",
     "answers": [
       "semaforo"
-    ]
+    ],
+    "exampleSentenceEnglish": "The traffic light is red, we must stop."
   },
   {
     "id": "a1-telefonino",
     "prompt": "mobile phone;cell phone",
     "answers": [
       "telefonino"
-    ]
+    ],
+    "exampleSentenceEnglish": "I forgot my mobile phone at home."
   },
   {
     "id": "a1-cenare",
     "prompt": "to dine",
     "answers": [
       "cenare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Tonight we're dining out."
   },
   {
     "id": "a1-pera",
     "prompt": "pear",
     "answers": [
       "pera"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to eat a pear for breakfast."
   },
   {
     "id": "a1-telefonare",
     "prompt": "to call (on the phone)",
     "answers": [
       "telefonare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need to call my mother."
   },
   {
     "id": "a1-fragola",
     "prompt": "strawberry",
     "answers": [
       "fragola"
-    ]
+    ],
+    "exampleSentenceEnglish": "I really like fresh strawberries."
   },
   {
     "id": "a1-gattino",
     "prompt": "kitten",
     "answers": [
       "gattino"
-    ]
+    ],
+    "exampleSentenceEnglish": "The kitten was playing with a ball of yarn."
   },
   {
     "id": "a1-chiamarsi",
     "prompt": "to be called;to call oneself",
     "answers": [
       "chiamarsi"
-    ]
+    ],
+    "exampleSentenceEnglish": "My name is Marco."
   },
   {
     "id": "a1-pipi",
     "prompt": "pee;urine",
     "answers": [
       "pipì"
-    ]
+    ],
+    "exampleSentenceEnglish": "The child peed in the potty."
   },
   {
     "id": "a1-scusarsi",
     "prompt": "to apologize",
     "answers": [
       "scusarsi"
-    ]
+    ],
+    "exampleSentenceEnglish": "You should apologize for your behavior."
   },
   {
     "id": "a1-cuocere",
     "prompt": "to cook;to bake",
     "answers": [
       "cuocere"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need to cook the pasta for dinner."
   },
   {
     "id": "a1-carota",
     "prompt": "carrot",
     "answers": [
       "carota"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like raw carrots."
   },
   {
     "id": "a1-lavarsi",
     "prompt": "to wash oneself",
     "answers": [
       "lavarsi"
-    ]
+    ],
+    "exampleSentenceEnglish": "I wash my hands before eating."
   },
   {
     "id": "a1-zucchina",
     "prompt": "zucchini;courgette",
     "answers": [
       "zucchina"
-    ]
+    ],
+    "exampleSentenceEnglish": "I bought some fresh zucchini."
   },
   {
     "id": "a1-fratellino",
     "prompt": "little brother",
     "answers": [
       "fratellino"
-    ]
+    ],
+    "exampleSentenceEnglish": "My little brother is playing in the garden."
   },
   {
     "id": "a1-passeggiare",
     "prompt": "to walk;to stroll",
     "answers": [
       "passeggiare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to walk in the park on Sundays."
   },
   {
     "id": "a1-studentessa",
     "prompt": "female student",
     "answers": [
       "studentessa"
-    ]
+    ],
+    "exampleSentenceEnglish": "The female student gave an excellent presentation."
   },
   {
     "id": "a1-ananas",
     "prompt": "pineapple",
     "answers": [
       "ananas"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to eat fresh pineapple."
   },
   {
     "id": "a1-maestra",
     "prompt": "female teacher (primary school)",
     "answers": [
       "maestra"
-    ]
+    ],
+    "exampleSentenceEnglish": "The teacher explained the lesson."
   },
   {
     "id": "a1-forchetta",
     "prompt": "fork",
     "answers": [
       "forchetta"
-    ]
+    ],
+    "exampleSentenceEnglish": "Please pass me the fork."
   },
   {
     "id": "a1-pappa",
     "prompt": "baby food;mush",
     "answers": [
       "pappa"
-    ]
+    ],
+    "exampleSentenceEnglish": "The baby ate all his baby food."
   },
   {
     "id": "a1-incominciare",
     "prompt": "to begin;to start",
     "answers": [
       "incominciare"
-    ]
+    ],
+    "exampleSentenceEnglish": "We must begin the work early."
   },
   {
     "id": "a1-ventidue",
     "prompt": "twenty-two",
     "answers": [
       "ventidue"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am twenty-two years old."
   },
   {
     "id": "a1-minestra",
     "prompt": "soup;minestrone",
     "answers": [
       "minestra"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to eat hot soup in winter."
   },
   {
     "id": "a1-lasagna",
     "prompt": "lasagna",
     "answers": [
       "lasagna"
-    ]
+    ],
+    "exampleSentenceEnglish": "Grandma's lasagna is the best."
   },
   {
     "id": "a1-asciugamano",
     "prompt": "towel",
     "answers": [
       "asciugamano"
-    ]
+    ],
+    "exampleSentenceEnglish": "I need a clean towel."
   },
   {
     "id": "a1-bibita",
     "prompt": "drink;beverage",
     "answers": [
       "bibita"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a cold drink."
   },
   {
     "id": "a1-ventuno",
     "prompt": "twenty-one",
     "answers": [
       "ventuno"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am twenty-one years old."
   },
   {
     "id": "a1-pranzare",
     "prompt": "to have lunch",
     "answers": [
       "pranzare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I usually have lunch at half past twelve."
   },
   {
     "id": "a1-cioccolatino",
     "prompt": "chocolate candy;praline",
     "answers": [
       "cioccolatino"
-    ]
+    ],
+    "exampleSentenceEnglish": "I ate a chocolate candy after lunch."
   },
   {
     "id": "a1-danzare",
     "prompt": "to dance",
     "answers": [
       "danzare"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to dance to the rhythm of Latin music."
   },
   {
     "id": "a1-chilogrammo",
     "prompt": "kilogram",
     "answers": [
       "chilogrammo"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like one kilogram of apples, please."
   },
   {
     "id": "a1-colorare",
     "prompt": "to color;to paint",
     "answers": [
       "colorare"
-    ]
+    ],
+    "exampleSentenceEnglish": "Children like to color drawings."
   },
   {
     "id": "a1-gelateria",
     "prompt": "ice cream shop",
     "answers": [
       "gelateria"
-    ]
+    ],
+    "exampleSentenceEnglish": "Let's go to the ice cream shop to get a cone."
   },
   {
     "id": "a1-ventotto",
     "prompt": "twenty-eight",
     "answers": [
       "ventotto"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am twenty-eight years old."
   },
   {
     "id": "a1-sandwich",
     "prompt": "sandwich",
     "answers": [
       "sandwich"
-    ]
+    ],
+    "exampleSentenceEnglish": "I would like a ham and cheese sandwich."
   },
   {
     "id": "a1-trentacinque",
     "prompt": "thirty-five",
     "answers": [
       "trentacinque"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am thirty-five years old."
   },
   {
     "id": "a1-ventisette",
     "prompt": "twenty-seven",
     "answers": [
       "ventisette"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am twenty-seven years old."
   },
   {
     "id": "a1-wc",
     "prompt": "toilet;water closet",
     "answers": [
       "wc"
-    ]
+    ],
+    "exampleSentenceEnglish": "Where is the nearest toilet?"
   },
   {
     "id": "a1-ventisei",
     "prompt": "twenty-six",
     "answers": [
       "ventisei"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am twenty-six years old."
   },
   {
     "id": "a1-ciliegia",
     "prompt": "cherry",
     "answers": [
       "ciliegia"
-    ]
+    ],
+    "exampleSentenceEnglish": "I really like fresh cherries in summer."
   },
   {
     "id": "a1-su",
     "prompt": "up;upstairs",
     "answers": [
       "sù"
-    ]
+    ],
+    "exampleSentenceEnglish": "Go up and get the book."
   },
   {
     "id": "a1-trentadue",
     "prompt": "thirty-two",
     "answers": [
       "trentadue"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am thirty-two years old."
   },
   {
     "id": "a1-quarantacinque",
     "prompt": "forty-five",
     "answers": [
       "quarantacinque"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am forty-five years old."
   },
   {
     "id": "a1-zeta",
     "prompt": "Z (letter)",
     "answers": [
       "zeta"
-    ]
+    ],
+    "exampleSentenceEnglish": "Z is the last letter of the Italian alphabet."
   },
   {
     "id": "a1-tiramisu",
     "prompt": "tiramisu",
     "answers": [
       "tiramisù"
-    ]
+    ],
+    "exampleSentenceEnglish": "Tiramisu is my favorite Italian dessert."
   },
   {
     "id": "a1-trentasei",
     "prompt": "thirty-six",
     "answers": [
       "trentasei"
-    ]
+    ],
+    "exampleSentenceEnglish": "The number thirty-six is double eighteen."
   },
   {
     "id": "a1-croissant",
     "prompt": "croissant",
     "answers": [
       "croissant"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like to have breakfast with a coffee and a croissant."
   },
   {
     "id": "a1-lattuga",
     "prompt": "lettuce",
     "answers": [
       "lattuga"
-    ]
+    ],
+    "exampleSentenceEnglish": "I like salad with fresh lettuce."
   },
   {
     "id": "a1-svegliarsi",
     "prompt": "to wake up",
     "answers": [
       "svegliarsi"
-    ]
+    ],
+    "exampleSentenceEnglish": "I always wake up early in the morning."
   },
   {
     "id": "a1-trentuno",
     "prompt": "thirty-one",
     "answers": [
       "trentuno"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am thirty-one years old."
   },
   {
     "id": "a1-ventinove",
     "prompt": "twenty-nine",
     "answers": [
       "ventinove"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am twenty-nine years old."
   },
   {
     "id": "a1-ventitre",
     "prompt": "twenty-three",
     "answers": [
       "ventitré"
-    ]
+    ],
+    "exampleSentenceEnglish": "The lucky number is twenty-three."
   },
   {
     "id": "a1-quarantadue",
     "prompt": "forty-two",
     "answers": [
       "quarantadue"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am forty-two years old."
   },
   {
     "id": "a1-miao",
     "prompt": "meow",
     "answers": [
       "miao"
-    ]
+    ],
+    "exampleSentenceEnglish": "The cat said 'meow'."
   },
   {
     "id": "a1-supermarket",
     "prompt": "supermarket",
     "answers": [
       "supermarket"
-    ]
+    ],
+    "exampleSentenceEnglish": "I'm going to the supermarket to buy bread."
   },
   {
     "id": "a1-trentaquattro",
     "prompt": "thirty-four",
     "answers": [
       "trentaquattro"
-    ]
+    ],
+    "exampleSentenceEnglish": "I am thirty-four years old."
   },
   {
     "id": "a1-amarsi",
     "prompt": "to love each other;oneself",
     "answers": [
       "amarsi"
-    ]
+    ],
+    "exampleSentenceEnglish": "It's important to love oneself first of all."
   },
   {
     "id": "a1-claro",
     "prompt": "clear;light (color)",
     "answers": [
       "claro"
-    ]
+    ],
+    "exampleSentenceEnglish": "The sky is clear today."
   },
   {
     "id": "a1-cugina",
     "prompt": "female cousin",
     "answers": [
       "cugina"
-    ]
+    ],
+    "exampleSentenceEnglish": "My cousin is coming to visit us this weekend."
   },
   {
     "id": "a1-effe",
     "prompt": "F (the letter)",
     "answers": [
       "effe"
-    ]
+    ],
+    "exampleSentenceEnglish": "The word \"fiore\" starts with the letter F."
   },
   {
     "id": "a1-trentotto",
     "prompt": "thirty-eight",
     "answers": [
       "trentotto"
-    ]
+    ],
+    "exampleSentenceEnglish": "His lucky number is thirty-eight."
   },
   {
     "id": "a1-tovagliolo",
     "prompt": "napkin",
     "answers": [
       "tovagliolo"
-    ]
+    ],
+    "exampleSentenceEnglish": "Can you pass me the napkin, please?"
   },
   {
     "id": "a1-trentanove",
     "prompt": "thirty-nine",
     "answers": [
       "trentanove"
-    ]
+    ],
+    "exampleSentenceEnglish": "His lucky number is thirty-nine."
   }
 ]

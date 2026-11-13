@@ -80,6 +80,11 @@ export function QuizScreen() {
             >
               <FormattedPrompt prompt={session.currentCard.prompt} />
             </CardTitle>
+            {session.currentCard.exampleSentenceEnglish ? (
+              <CardDescription className="text-base italic text-[#6f665e]">
+                “{session.currentCard.exampleSentenceEnglish}”
+              </CardDescription>
+            ) : null}
             <CardDescription>
               {session.remainingCount} left in this round.
             </CardDescription>
