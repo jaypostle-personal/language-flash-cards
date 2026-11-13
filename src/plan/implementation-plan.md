@@ -63,9 +63,9 @@ Add React Router for the distinct deck-selection, quiz, and completion screens. 
 
 ### 10. `feat: add session completion and restart` ✅
 
-Show a completion screen with session results and an option to start another deck.
+Show a completion screen with a word-by-word summary of first-try correct answers and words missed before being corrected, plus an option to start another deck.
 
-**Verify:** Restart begins a fresh session without carrying over old answers; tests, lint, and build pass.
+**Verify:** Results include each word and expected answer, separate first-try answers from words missed then corrected, and include miss counts; restart begins a fresh session; tests, lint, and build pass.
 
 ### 11. `polish: improve responsive and accessible UX` ✅
 

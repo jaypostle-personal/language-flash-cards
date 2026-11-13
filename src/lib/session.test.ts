@@ -19,6 +19,8 @@ describe("createSession", () => {
     expect(new Set(session.queue.map((card) => card.id)).size).toBe(3);
     expect(session.currentCard?.id).toBe("card-1");
     expect(session.isComplete).toBe(false);
+    expect(session.results).toHaveLength(3);
+    expect(session.results.every((result) => !result.isCorrect)).toBe(true);
   });
 
   it("starts a fresh session without carrying over previous answers", () => {
@@ -34,6 +36,11 @@ describe("createSession", () => {
     expect(restartedSession.completedCount).toBe(0);
     expect(restartedSession.remainingCount).toBe(2);
     expect(restartedSession.correctAnswers).toEqual([]);
+    expect(
+      restartedSession.results.every(
+        (result) => result.incorrectAttempts === 0,
+      ),
+    ).toBe(true);
     expect(restartedSession.currentCard?.id).toBe("card-1");
   });
 });
@@ -50,6 +57,11 @@ describe("answerCurrentCard", () => {
     ]);
     expect(result.session.correctCount).toBe(0);
     expect(result.session.remainingCount).toBe(2);
+    expect(result.session.results[0]).toMatchObject({
+      card: sampleDeck[0],
+      incorrectAttempts: 1,
+      isCorrect: false,
+    });
   });
 
   it("completes the session once every selected word has been answered correctly", () => {
@@ -62,6 +74,30 @@ describe("answerCurrentCard", () => {
     expect(session.correctCount).toBe(2);
     expect(session.remainingCount).toBe(0);
     expect(session.completedCount).toBe(2);
+    expect(session.results.every((result) => result.isCorrect)).toBe(true);
+    expect(
+      session.results.every((result) => result.incorrectAttempts === 0),
+    ).toBe(true);
+  });
+
+  it("records missed attempts when a word is later answered correctly", () => {
+    let session = createSession(sampleDeck, 2);
+
+    session = answerCurrentCard(session, "nope").session;
+    session = answerCurrentCard(session, "acqua").session;
+    session = answerCurrentCard(session, "ciao").session;
+
+    expect(session.isComplete).toBe(true);
+    expect(session.results[0]).toMatchObject({
+      card: sampleDeck[0],
+      incorrectAttempts: 1,
+      isCorrect: true,
+    });
+    expect(session.results[1]).toMatchObject({
+      card: sampleDeck[1],
+      incorrectAttempts: 0,
+      isCorrect: true,
+    });
   });
 
   it("tracks progress while words are repeated", () => {

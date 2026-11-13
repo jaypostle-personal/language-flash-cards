@@ -6,9 +6,16 @@ export type Flashcard = {
   answers: string[];
 };
 
+export type FlashcardResult = {
+  card: Flashcard;
+  incorrectAttempts: number;
+  isCorrect: boolean;
+};
+
 export type Session = {
   total: number;
   queue: Flashcard[];
+  results: FlashcardResult[];
   correctAnswers: string[];
   correctCount: number;
   completedCount: number;
@@ -34,6 +41,11 @@ export function createSession(deck: Flashcard[], size = 10): Session {
   return {
     total: queue.length,
     queue,
+    results: selected.map((card) => ({
+      card,
+      incorrectAttempts: 0,
+      isCorrect: false,
+    })),
     correctAnswers: [],
     correctCount: 0,
     completedCount: 0,
@@ -62,9 +74,15 @@ export function answerCurrentCard(
     nextQueue.shift();
 
     const correctAnswers = [...session.correctAnswers, currentCard.id];
+    const results = session.results.map((result) =>
+      result.card.id === currentCard.id
+        ? { ...result, isCorrect: true }
+        : result,
+    );
     const nextSession: Session = {
       ...session,
       queue: nextQueue,
+      results,
       correctAnswers,
       correctCount: correctAnswers.length,
       completedCount: correctAnswers.length,
@@ -78,10 +96,16 @@ export function answerCurrentCard(
 
   const [firstCard, ...rest] = nextQueue;
   const requeuedQueue = [...rest, firstCard];
+  const results = session.results.map((result) =>
+    result.card.id === currentCard.id
+      ? { ...result, incorrectAttempts: result.incorrectAttempts + 1 }
+      : result,
+  );
 
   const nextSession: Session = {
     ...session,
     queue: requeuedQueue,
+    results,
     remainingCount: requeuedQueue.length,
     currentCard: requeuedQueue[0] ?? null,
     isComplete: false,
