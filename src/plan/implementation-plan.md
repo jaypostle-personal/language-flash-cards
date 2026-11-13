@@ -9,7 +9,9 @@ A small-commit roadmap for the Italian vocabulary learning app. The workspace is
 - Missed words return to the deck and are repeated until answered correctly.
 - Answers ignore capitalization and minor accent differences, and may match listed alternatives.
 - Show correctness and the expected answer before the learner continues.
-- Session progress is in-memory only; no account or saved history in the first release.
+- Session progress is in-memory only; no account or saved history in the first release. Local storage may remember the learner's CEFR level selection, but must not persist session progress.
+- Sessions default to English → Italian. The learner may optionally switch the direction to Italian → English before starting a session.
+- Learners may select one or more CEFR levels. Combined decks should allocate words evenly across selected levels and never repeat the same Italian word in one session.
 - Use a warm, playful visual style, teach noun articles, and support typed answers only.
 - Use a learner-focused Italian vocabulary dataset, checking its license and recording its source and attribution.
 
@@ -35,13 +37,15 @@ Set up shadcn/ui and add only the components needed initially: Button, Card, Inp
 
 ### 4. `data: add sourced Italian vocabulary` ⏳
 
-Use the supplied `data/italian.json` as a source candidate, not as the app's runtime format. It currently contains 16,887 entries (rather than 40,000), English glosses, CEFR labels, part of speech, frequency rank, and example sentences. Keep the downloaded source unchanged and create a separate curated app dataset of 1,000 beginner-focused entries, prioritizing A1/A2 and lower frequency rank. Convert each entry to a stable app schema with an ID, Italian lemma, English prompt/glosses, accepted Italian answer(s), CEFR level, part of speech, and optional example sentence.
+Use the supplied `src/data/italian.json` as a source candidate, not as the app's final runtime format. It currently contains 16,887 entries (rather than 40,000), English glosses, CEFR labels, part of speech, frequency rank, and example sentences. Keep the downloaded source unchanged and create a separate curated app dataset of 1,000 beginner-focused entries, prioritizing A1/A2 and lower frequency rank. Convert each entry to a stable app schema with an ID, Italian lemma, English prompt/glosses, accepted Italian answer(s), CEFR level, part of speech, and optional example sentence.
 
 Do not treat every semicolon-separated English gloss as a distinct answer, or `romanization` as pronunciation data; review ambiguous translations and examples. Add the correct Italian article/gender for curated nouns so the quiz can teach and check articles. Exclude or repair malformed entries and manually review the selected vocabulary for learner suitability.
 
+**Reverse-mode source requirement:** The current source's English translations may contain semicolon-separated senses (for example, `am;are`) that are not always interchangeable answers. Find and verify a source or curated word set that supports reliable Italian → English grading, with clearly defined accepted English answers and enough context to disambiguate meanings. Do not enable reverse mode by blindly splitting the current gloss strings; record the source and licensing/attribution details for the replacement or supplemental data.
+
 Record the dataset URL, authors/contributors, retrieval date, transformation steps, and license in a data attribution file. The linked repository advertises an MIT license and an attribution file, but also describes frequency lists compiled from varied sources and LLM-assisted editing; verify that the license and upstream source terms cover the actual downloaded data before redistributing it.
 
-**Verify:** Validate exactly 1,000 unique curated entries, required fields and allowed CEFR/POS values, non-empty prompts and answers, and noun article coverage. Confirm source attribution and redistribution terms before shipping the dataset.
+**Verify:** Validate exactly 1,000 unique curated entries, required fields and allowed CEFR/POS values, non-empty prompts and answers, and noun article coverage. Confirm that reverse-direction answer keys are unambiguous and reviewed. Confirm source attribution and redistribution terms before shipping the dataset.
 
 ### 5. `test: add quiz logic tests` ✅
 
@@ -72,6 +76,18 @@ Show a completion screen with a word-by-word summary of first-try correct answer
 Tune mobile layouts, loading/empty/error states, screen-reader labels, focus handling, and README setup instructions.
 
 **Verify:** Semantic headings, route focus handling, accessible progress and feedback announcements, and mobile-friendly controls are in place. Build, lint, and tests pass.
+
+### 12. `feat: select and remember CEFR levels` ✅
+
+Add a multi-select level picker for A1, A2, B1, B2, C1, and C2. Default to A1 when there is no saved selection. Save only the selected level range in local storage and restore it on the next visit; do not persist quiz/session state. Build a combined deck from the selected levels, allocate the requested 10/20/50 cards as evenly as possible across those levels, and prevent duplicate Italian words within a session. Rebalance available slots if deduplication or a small level pool prevents an exact split.
+
+**Verify:** Picker supports one or multiple levels, defaults to A1, restores the last selected levels, never restores session progress, allocates cards evenly (within one card where possible), and does not include duplicate Italian words. Unit tests, lint, production build, and browser checks pass.
+
+### 13. `feat: add optional Italian-to-English practice`
+
+Keep English → Italian as the default. Add a visually secondary direction control before session start so learners can optionally choose Italian → English for the whole session. Use reviewed English accepted-answer data from the source work in Step 4; keep the direction consistent for every card in the session.
+
+**Verify:** Default direction remains English → Italian; the optional reverse direction presents Italian prompts and validates against reviewed English answers; feedback and completion results show the expected answer for the chosen direction. Tests cover each direction and ambiguous source glosses are not accepted without review.
 
 ## Out of scope for the first release
 

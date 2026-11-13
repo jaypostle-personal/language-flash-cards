@@ -1,6 +1,6 @@
 # Parola — Italian Flash Cards
 
-A small Italian vocabulary practice app built with React, TypeScript, and Vite. Choose a 10-, 20-, or 50-word session, type Italian answers, and repeat missed words until they are correct. Session progress is kept in memory and is cleared when the app is refreshed.
+A small Italian vocabulary practice app built with React, TypeScript, and Vite. Choose one or more CEFR levels and a 10-, 20-, or 50-word session, type Italian answers, and repeat missed words until they are correct. The selected levels are remembered on this device; session progress stays in memory and is cleared when the app is refreshed.
 
 ## Requirements
 
@@ -24,7 +24,7 @@ The source vocabulary is in `src/data/italian.json`. Run the deck generator afte
 npm run generate:decks
 ```
 
-This runs `buildItalianDecks()` and writes `src/data/decks/a1.json`, `a2.json`, `b1.json`, `b2.json`, `c1.json`, and `c2.json`. Each card has an ID based on its CEFR level and Italian word, an English translation prompt, and the Italian word as its accepted answer. Entries not marked useful for flashcards, entries with missing required text, and levels outside A1–C2 are skipped. The app currently uses the generated A1 deck.
+This runs `buildItalianDecks()` and writes `src/data/decks/a1.json`, `a2.json`, `b1.json`, `b2.json`, `c1.json`, and `c2.json`. Each card has an ID based on its CEFR level and Italian word, an English translation prompt, and the Italian word as its accepted answer. Entries not marked useful for flashcards, entries with missing required text, and levels outside A1–C2 are skipped. The app loads selected level decks on demand and balances cards across the selected levels without duplicate Italian words.
 
 The conversion function is exported from `src/data/italian-decks.ts` and accepts the parsed source array, so it can also be reused without the file-writing script.
 

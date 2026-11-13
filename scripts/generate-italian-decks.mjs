@@ -1,7 +1,10 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 
-import { buildItalianDecks, italianDeckLevels } from "../src/data/italian-decks.ts";
+import {
+  buildItalianDecks,
+  italianDeckLevels,
+} from "../src/data/italian-decks.ts";
 
 const sourcePath = fileURLToPath(
   new URL("../src/data/italian.json", import.meta.url),
@@ -13,7 +16,9 @@ const outputDirectory = fileURLToPath(
 const sourceJson = JSON.parse(await readFile(sourcePath, "utf8"));
 
 if (!Array.isArray(sourceJson)) {
-  throw new TypeError("The Italian source JSON must contain an array of entries.");
+  throw new TypeError(
+    "The Italian source JSON must contain an array of entries.",
+  );
 }
 
 const decks = buildItalianDecks(sourceJson);

@@ -1,9 +1,6 @@
 import { describe, expect, it } from "vitest";
 
-import {
-  buildItalianDecks,
-  italianDeckLevels,
-} from "./italian-decks";
+import { buildItalianDecks, italianDeckLevels } from "./italian-decks";
 
 describe("buildItalianDecks", () => {
   it("maps source vocabulary into the app flashcard shape by CEFR level", () => {
