@@ -1,9 +1,10 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import {
   BrowserRouter,
   Navigate,
   Route,
   Routes,
+  useLocation,
   useNavigate,
 } from "react-router-dom";
 
@@ -40,6 +41,12 @@ function App() {
 }
 
 function AppRoutes() {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    document.querySelector<HTMLElement>("main h1")?.focus();
+  }, [pathname]);
+
   return (
     <Routes>
       <Route path="/" element={<DeckSelectionScreen />} />
@@ -67,7 +74,11 @@ function DeckSelectionScreen() {
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8a5a2a]">
               Parola
             </p>
-            <CardTitle className="text-4xl font-semibold tracking-tight md:text-5xl">
+            <CardTitle
+              as="h1"
+              tabIndex={-1}
+              className="text-4xl font-semibold tracking-tight md:text-5xl"
+            >
               Italian, one word at a time.
             </CardTitle>
             <CardDescription className="text-base text-[#54433d]">
@@ -139,13 +150,25 @@ function QuizScreen() {
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8a5a2a]">
               Session progress
             </p>
-            <div className="mt-3 h-2 w-full overflow-hidden rounded-full bg-[#f0e6d8]">
+            <div
+              className="mt-3 h-2 w-full overflow-hidden rounded-full bg-[#f0e6d8]"
+              role="progressbar"
+              aria-label="Session progress"
+              aria-valuemin={0}
+              aria-valuemax={session.total}
+              aria-valuenow={session.total - session.remainingCount}
+              aria-valuetext={`${session.total - session.remainingCount} of ${session.total} words completed`}
+            >
               <div
                 className="h-full rounded-full bg-[#7a9b72] transition-all duration-200"
                 style={{ width: `${progress}%` }}
               />
             </div>
-            <CardTitle className="pt-3 text-3xl font-semibold">
+            <CardTitle
+              as="h1"
+              tabIndex={-1}
+              className="pt-3 text-3xl font-semibold"
+            >
               {session.currentCard.prompt}
             </CardTitle>
             <CardDescription>
@@ -166,10 +189,16 @@ function QuizScreen() {
                 value={input}
                 onChange={(event) => setInput(event.target.value)}
                 placeholder="Type your answer..."
+                autoComplete="off"
+                spellCheck={false}
+                required
                 autoFocus
               />
+              <p className="-mt-2 text-sm text-muted-foreground">
+                Capitalization and accents do not need to be exact.
+              </p>
 
-              <div className="flex items-center gap-3">
+              <div className="flex flex-col-reverse gap-3 sm:flex-row sm:items-center">
                 <Button type="submit" className="flex-1">
                   Check answer
                 </Button>
@@ -185,6 +214,8 @@ function QuizScreen() {
 
             {feedback ? (
               <div
+                role="status"
+                aria-live="polite"
                 className={
                   "mt-5 rounded-xl border px-3 py-2 text-sm " +
                   (feedback.correct
@@ -210,6 +241,10 @@ function CompletionScreen() {
     return <Navigate to="/" replace />;
   }
 
+  if (!session.isComplete) {
+    return <Navigate to="/quiz" replace />;
+  }
+
   return (
     <main className="min-h-screen bg-[#f6f1ea] px-4 py-12 text-[#1a1a1a]">
       <div className="mx-auto max-w-lg">
@@ -218,7 +253,9 @@ function CompletionScreen() {
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8a5a2a]">
               Session complete
             </p>
-            <CardTitle className="text-4xl font-semibold">Nice work!</CardTitle>
+            <CardTitle as="h1" tabIndex={-1} className="text-4xl font-semibold">
+              Nice work!
+            </CardTitle>
             <CardDescription>
               You answered {session.correctCount} of {session.total} words
               correctly.
@@ -248,7 +285,7 @@ function NotFoundScreen() {
     <main className="flex min-h-screen items-center justify-center bg-[#f6f1ea] px-4">
       <Card className="max-w-md border-0 bg-[#fffaf3] text-center shadow-[0_20px_60px_rgba(68,35,10,0.12)]">
         <CardHeader>
-          <CardTitle className="text-3xl font-semibold">
+          <CardTitle as="h1" tabIndex={-1} className="text-3xl font-semibold">
             Page not found
           </CardTitle>
           <CardDescription>

@@ -67,11 +67,11 @@ Show a completion screen with session results and an option to start another dec
 
 **Verify:** Restart begins a fresh session without carrying over old answers; tests, lint, and build pass.
 
-### 11. `polish: improve responsive and accessible UX`
+### 11. `polish: improve responsive and accessible UX` ✅
 
 Tune mobile layouts, loading/empty/error states, screen-reader labels, focus handling, and README setup instructions.
 
-**Verify:** Build, lint, and tests pass; the main flow works on narrow and wide screens.
+**Verify:** Semantic headings, route focus handling, accessible progress and feedback announcements, and mobile-friendly controls are in place. Build, lint, and tests pass.
 
 ## Out of scope for the first release
 
