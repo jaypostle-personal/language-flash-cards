@@ -4,6 +4,8 @@ import type { ItalianDeckLevel } from "@/data/italian-decks";
 import { buildBalancedDeck } from "./deck-selection";
 import type { Flashcard } from "../session/session";
 
+const noShuffle = () => 0.999999999;
+
 function makeDeck(level: string, words: string[]): Flashcard[] {
   return words.map((word) => ({
     id: `${level.toLowerCase()}-${word}`,
@@ -29,6 +31,7 @@ describe("buildBalancedDeck", () => {
       },
       ["A1", "A2"],
       6,
+      noShuffle,
     );
 
     expect(cards).toHaveLength(6);
@@ -42,7 +45,7 @@ describe("buildBalancedDeck", () => {
       B1: makeDeck("B1", ["strada", "piazza", "treno", "aereo", "nave"]),
     };
 
-    const cards = buildBalancedDeck(decks, ["A1", "A2", "B1"], 10);
+    const cards = buildBalancedDeck(decks, ["A1", "A2", "B1"], 10, noShuffle);
 
     expect(cards).toHaveLength(10);
     expect(countByLevel(cards)).toEqual({ a1: 4, a2: 3, b1: 3 });
@@ -56,6 +59,7 @@ describe("buildBalancedDeck", () => {
       },
       ["A1", "A2"],
       5,
+      noShuffle,
     );
 
     expect(cards).toHaveLength(5);
@@ -71,6 +75,7 @@ describe("buildBalancedDeck", () => {
       },
       ["A1", "A2"],
       3,
+      noShuffle,
     );
 
     expect(cards).toHaveLength(3);
@@ -89,9 +94,25 @@ describe("buildBalancedDeck", () => {
       },
       ["A1", "A2"] satisfies ItalianDeckLevel[],
       5,
+      noShuffle,
     );
 
     expect(cards).toHaveLength(5);
     expect(countByLevel(cards)).toEqual({ a1: 1, a2: 4 });
+  });
+
+  it("shuffles each level's cards without mutating the source deck", () => {
+    const decks = {
+      A1: makeDeck("A1", ["uno", "due", "tre"]),
+    };
+
+    const cards = buildBalancedDeck(decks, ["A1"], 3, () => 0);
+
+    expect(cards.map((card) => card.answers[0])).toEqual(["due", "tre", "uno"]);
+    expect(decks.A1.map((card) => card.answers[0])).toEqual([
+      "uno",
+      "due",
+      "tre",
+    ]);
   });
 });

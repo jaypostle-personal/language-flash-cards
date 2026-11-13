@@ -13,11 +13,29 @@ function normalizeItalianWord(word: string): string {
     .replace(/\p{Diacritic}/gu, "");
 }
 
+function shuffleCards(
+  cards: readonly Flashcard[],
+  random: () => number,
+): Flashcard[] {
+  const shuffled = [...cards];
+
+  for (let index = shuffled.length - 1; index > 0; index -= 1) {
+    const swapIndex = Math.floor(random() * (index + 1));
+    [shuffled[index], shuffled[swapIndex]] = [
+      shuffled[swapIndex],
+      shuffled[index],
+    ];
+  }
+
+  return shuffled;
+}
+
 /** Select a level-balanced deck and avoid repeating the same Italian lemma. */
 export function buildBalancedDeck(
   decks: LevelDecks,
   selectedLevels: readonly ItalianDeckLevel[],
   requestedSize: number,
+  random: () => number = Math.random,
 ): Flashcard[] {
   const size = Math.max(0, Math.floor(requestedSize));
   if (size === 0) {
@@ -27,7 +45,10 @@ export function buildBalancedDeck(
   const selectedLevelSet = new Set(selectedLevels);
   const buckets = italianDeckLevels
     .filter((level) => selectedLevelSet.has(level))
-    .map((level) => ({ cards: decks[level] ?? [], cursor: 0 }));
+    .map((level) => ({
+      cards: shuffleCards(decks[level] ?? [], random),
+      cursor: 0,
+    }));
   const selectedCards: Flashcard[] = [];
   const seenWords = new Set<string>();
 
