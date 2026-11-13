@@ -11,7 +11,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
-import { useSession } from "@/lib/use-session";
+import { useSession } from "@/providers/use-session";
 
 export function QuizScreen() {
   const navigate = useNavigate();

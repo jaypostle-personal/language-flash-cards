@@ -1,7 +1,7 @@
 import { BrowserRouter } from "react-router-dom";
 
 import UiPreview from "@/dev/UiPreview";
-import { SessionProvider } from "@/lib/session-provider";
+import { SessionProvider } from "@/providers/session-provider";
 import { AppRoutes } from "@/routes/AppRoutes";
 
 import "./App.css";

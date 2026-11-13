@@ -104,6 +104,9 @@ Store each card's CEFR level in the generated deck data and show it in a compact
 
 2. Include synonyms
 
+3. Fix errors
+   "This is the first time I come here" is grammatically incorrect in English
+
 ## Out of scope for the first release
 
 Audio, accounts, and saved history are deferred to keep the initial app focused.

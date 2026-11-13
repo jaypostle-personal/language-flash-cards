@@ -1,14 +1,14 @@
 import { useCallback, useMemo, useState, type ReactNode } from "react";
 
 import { italianDeckLevels, type ItalianDeckLevel } from "@/data/italian-decks";
-import { buildBalancedDeck } from "./deck-selection";
-import { normalizeSelectedLevels } from "./level-preferences";
+import { buildBalancedDeck } from "@/lib/deck-selection";
+import { normalizeSelectedLevels } from "@/lib/level-preferences";
 import {
   answerCurrentCard,
   createSession,
   type Flashcard,
   type Session,
-} from "./session";
+} from "@/lib/session";
 import { SessionContext, type SessionContextValue } from "./session-context";
 
 const deckLoaders: Record<ItalianDeckLevel, () => Promise<Flashcard[]>> = {

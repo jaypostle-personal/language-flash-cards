@@ -9,7 +9,7 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { useSession } from "@/lib/use-session";
+import { useSession } from "@/providers/use-session";
 
 export function CompletionScreen() {
   const navigate = useNavigate();
