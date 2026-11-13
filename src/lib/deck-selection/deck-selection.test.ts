@@ -2,7 +2,7 @@ import { describe, expect, it } from "vitest";
 
 import type { ItalianDeckLevel } from "@/data/italian-decks";
 import { buildBalancedDeck } from "./deck-selection";
-import type { Flashcard } from "./session";
+import type { Flashcard } from "../session/session";
 
 function makeDeck(level: string, words: string[]): Flashcard[] {
   return words.map((word) => ({

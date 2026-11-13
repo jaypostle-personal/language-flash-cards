@@ -1,7 +1,7 @@
 import { createContext } from "react";
 
 import type { ItalianDeckLevel } from "@/data/italian-decks";
-import type { Session } from "@/lib/session";
+import type { Session } from "@/lib/session/session";
 
 export type SessionContextValue = {
   session: Session | null;

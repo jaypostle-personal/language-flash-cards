@@ -1,5 +1,5 @@
 import { italianDeckLevels, type ItalianDeckLevel } from "@/data/italian-decks";
-import type { Flashcard } from "./session";
+import type { Flashcard } from "../session/session";
 
 type LevelDecks = Partial<
   Record<ItalianDeckLevel, readonly Flashcard[] | undefined>

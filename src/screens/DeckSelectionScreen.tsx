@@ -14,7 +14,7 @@ import { useSession } from "@/providers/use-session";
 import {
   loadSelectedLevels,
   saveSelectedLevels,
-} from "@/lib/level-preferences";
+} from "@/lib/level-preferences/level-preferences";
 
 export function DeckSelectionScreen() {
   const navigate = useNavigate();

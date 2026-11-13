@@ -1,4 +1,4 @@
-import { isAnswerCorrect } from "./quiz";
+import { isAnswerCorrect } from "../quiz/quiz";
 
 export type Flashcard = {
   id: string;

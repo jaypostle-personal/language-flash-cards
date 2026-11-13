@@ -1,5 +1,5 @@
 import { cn } from "@/lib/utils";
-import { formatPrompt } from "@/lib/format-prompt";
+import { formatPrompt } from "@/lib/format-prompt/format-prompt";
 
 type FormattedPromptProps = {
   prompt: string;
