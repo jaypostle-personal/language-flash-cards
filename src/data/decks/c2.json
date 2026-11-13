@@ -1,0 +1,261 @@
+[
+  {
+    "id": "c2-sinodo",
+    "prompt": "synod",
+    "answers": [
+      "sinodo"
+    ]
+  },
+  {
+    "id": "c2-quantistico",
+    "prompt": "quantum",
+    "answers": [
+      "quantistico"
+    ]
+  },
+  {
+    "id": "c2-dettame",
+    "prompt": "dictate",
+    "answers": [
+      "dettame"
+    ]
+  },
+  {
+    "id": "c2-ponga",
+    "prompt": "ponga (tree)",
+    "answers": [
+      "ponga"
+    ]
+  },
+  {
+    "id": "c2-albore",
+    "prompt": "dawn;daybreak;beginning",
+    "answers": [
+      "albore"
+    ]
+  },
+  {
+    "id": "c2-egida",
+    "prompt": "aegis",
+    "answers": [
+      "egida"
+    ]
+  },
+  {
+    "id": "c2-enciclica",
+    "prompt": "encyclical",
+    "answers": [
+      "enciclica"
+    ]
+  },
+  {
+    "id": "c2-fenomenologia",
+    "prompt": "phenomenology",
+    "answers": [
+      "fenomenologia"
+    ]
+  },
+  {
+    "id": "c2-idrogeologico",
+    "prompt": "hydrogeological",
+    "answers": [
+      "idrogeologico"
+    ]
+  },
+  {
+    "id": "c2-semiotica",
+    "prompt": "semiotics",
+    "answers": [
+      "semiotica"
+    ]
+  },
+  {
+    "id": "c2-sifilide",
+    "prompt": "syphilis",
+    "answers": [
+      "sifilide"
+    ]
+  },
+  {
+    "id": "c2-antonomasia",
+    "prompt": "antonomasia (figure of speech)",
+    "answers": [
+      "antonomasia"
+    ]
+  },
+  {
+    "id": "c2-trascendentale",
+    "prompt": "transcendental",
+    "answers": [
+      "trascendentale"
+    ]
+  },
+  {
+    "id": "c2-gaudio",
+    "prompt": "joy;delight",
+    "answers": [
+      "gaudio"
+    ]
+  },
+  {
+    "id": "c2-lemma",
+    "prompt": "lemma",
+    "answers": [
+      "lemma"
+    ]
+  },
+  {
+    "id": "c2-lauda",
+    "prompt": "lauda (medieval Italian religious song)",
+    "answers": [
+      "lauda"
+    ]
+  },
+  {
+    "id": "c2-anticostituzionale",
+    "prompt": "unconstitutional",
+    "answers": [
+      "anticostituzionale"
+    ]
+  },
+  {
+    "id": "c2-neoplasia",
+    "prompt": "neoplasm;tumor",
+    "answers": [
+      "neoplasia"
+    ]
+  },
+  {
+    "id": "c2-locus",
+    "prompt": "locus;place",
+    "answers": [
+      "locus"
+    ]
+  },
+  {
+    "id": "c2-vilipendio",
+    "prompt": "contempt;vilification;desecration",
+    "answers": [
+      "vilipendio"
+    ]
+  },
+  {
+    "id": "c2-anamnesi",
+    "prompt": "anamnesis;medical history",
+    "answers": [
+      "anamnesi"
+    ]
+  },
+  {
+    "id": "c2-aneurisma",
+    "prompt": "aneurysm",
+    "answers": [
+      "aneurisma"
+    ]
+  },
+  {
+    "id": "c2-sodomia",
+    "prompt": "sodomy",
+    "answers": [
+      "sodomia"
+    ]
+  },
+  {
+    "id": "c2-bondage",
+    "prompt": "bondage",
+    "answers": [
+      "bondage"
+    ]
+  },
+  {
+    "id": "c2-nadir",
+    "prompt": "nadir",
+    "answers": [
+      "nadir"
+    ]
+  },
+  {
+    "id": "c2-ecclesia",
+    "prompt": "church (as in assembly of believers);ecclesia",
+    "answers": [
+      "ecclesia"
+    ]
+  },
+  {
+    "id": "c2-concussione",
+    "prompt": "extortion",
+    "answers": [
+      "concussione"
+    ]
+  },
+  {
+    "id": "c2-condicio",
+    "prompt": "condition (often in 'condicio sine qua non')",
+    "answers": [
+      "condicio"
+    ]
+  },
+  {
+    "id": "c2-nardo",
+    "prompt": "spikenard",
+    "answers": [
+      "nardo"
+    ]
+  },
+  {
+    "id": "c2-entropia",
+    "prompt": "entropy",
+    "answers": [
+      "entropia"
+    ]
+  },
+  {
+    "id": "c2-esegesi",
+    "prompt": "exegesis",
+    "answers": [
+      "esegesi"
+    ]
+  },
+  {
+    "id": "c2-lisi",
+    "prompt": "lysis",
+    "answers": [
+      "lisi"
+    ]
+  },
+  {
+    "id": "c2-plc",
+    "prompt": "PLC (Programmable Logic Controller)",
+    "answers": [
+      "plc"
+    ]
+  },
+  {
+    "id": "c2-rogito",
+    "prompt": "deed;notarial act",
+    "answers": [
+      "rogito"
+    ]
+  },
+  {
+    "id": "c2-secolarizzazione",
+    "prompt": "secularization",
+    "answers": [
+      "secolarizzazione"
+    ]
+  },
+  {
+    "id": "c2-soggiogare",
+    "prompt": "to subjugate;to subdue",
+    "answers": [
+      "soggiogare"
+    ]
+  },
+  {
+    "id": "c2-usufrutto",
+    "prompt": "usufruct",
+    "answers": [
+      "usufrutto"
+    ]
+  }
+]

@@ -1,0 +1,4384 @@
+[
+  {
+    "id": "a1-non",
+    "prompt": "not",
+    "answers": [
+      "non"
+    ]
+  },
+  {
+    "id": "a1-e",
+    "prompt": "is",
+    "answers": [
+      "è"
+    ]
+  },
+  {
+    "id": "a1-sono",
+    "prompt": "am;are",
+    "answers": [
+      "sono"
+    ]
+  },
+  {
+    "id": "a1-ha",
+    "prompt": "has",
+    "answers": [
+      "ha"
+    ]
+  },
+  {
+    "id": "a1-come",
+    "prompt": "how;as;like",
+    "answers": [
+      "come"
+    ]
+  },
+  {
+    "id": "a1-piu",
+    "prompt": "more",
+    "answers": [
+      "più"
+    ]
+  },
+  {
+    "id": "a1-anche",
+    "prompt": "also;too;even",
+    "answers": [
+      "anche"
+    ]
+  },
+  {
+    "id": "a1-ho",
+    "prompt": "have",
+    "answers": [
+      "ho"
+    ]
+  },
+  {
+    "id": "a1-solo",
+    "prompt": "alone;only",
+    "answers": [
+      "solo"
+    ]
+  },
+  {
+    "id": "a1-quando",
+    "prompt": "when",
+    "answers": [
+      "quando"
+    ]
+  },
+  {
+    "id": "a1-tutto",
+    "prompt": "all;whole",
+    "answers": [
+      "tutto"
+    ]
+  },
+  {
+    "id": "a1-cosa",
+    "prompt": "thing;what",
+    "answers": [
+      "cosa"
+    ]
+  },
+  {
+    "id": "a1-prima",
+    "prompt": "before;first",
+    "answers": [
+      "prima"
+    ]
+  },
+  {
+    "id": "a1-suo",
+    "prompt": "his;her;its",
+    "answers": [
+      "suo"
+    ]
+  },
+  {
+    "id": "a1-anno",
+    "prompt": "year",
+    "answers": [
+      "anno"
+    ]
+  },
+  {
+    "id": "a1-due",
+    "prompt": "two",
+    "answers": [
+      "due"
+    ]
+  },
+  {
+    "id": "a1-fare",
+    "prompt": "to do;to make",
+    "answers": [
+      "fare"
+    ]
+  },
+  {
+    "id": "a1-cosi",
+    "prompt": "so;thus",
+    "answers": [
+      "così"
+    ]
+  },
+  {
+    "id": "a1-dopo",
+    "prompt": "after;later",
+    "answers": [
+      "dopo"
+    ]
+  },
+  {
+    "id": "a1-poi",
+    "prompt": "then",
+    "answers": [
+      "poi"
+    ]
+  },
+  {
+    "id": "a1-sempre",
+    "prompt": "always",
+    "answers": [
+      "sempre"
+    ]
+  },
+  {
+    "id": "a1-ancora",
+    "prompt": "still;yet",
+    "answers": [
+      "ancora"
+    ]
+  },
+  {
+    "id": "a1-molto",
+    "prompt": "very;much",
+    "answers": [
+      "molto"
+    ]
+  },
+  {
+    "id": "a1-mai",
+    "prompt": "never",
+    "answers": [
+      "mai"
+    ]
+  },
+  {
+    "id": "a1-ogni",
+    "prompt": "every;each",
+    "answers": [
+      "ogni"
+    ]
+  },
+  {
+    "id": "a1-altro",
+    "prompt": "other;another",
+    "answers": [
+      "altro"
+    ]
+  },
+  {
+    "id": "a1-ora",
+    "prompt": "hour;now",
+    "answers": [
+      "ora"
+    ]
+  },
+  {
+    "id": "a1-quanto",
+    "prompt": "how much;how many",
+    "answers": [
+      "quanto"
+    ]
+  },
+  {
+    "id": "a1-tempo",
+    "prompt": "time;weather",
+    "answers": [
+      "tempo"
+    ]
+  },
+  {
+    "id": "a1-dove",
+    "prompt": "where",
+    "answers": [
+      "dove"
+    ]
+  },
+  {
+    "id": "a1-vita",
+    "prompt": "life",
+    "answers": [
+      "vita"
+    ]
+  },
+  {
+    "id": "a1-gia",
+    "prompt": "already",
+    "answers": [
+      "già"
+    ]
+  },
+  {
+    "id": "a1-secondo",
+    "prompt": "second",
+    "answers": [
+      "secondo"
+    ]
+  },
+  {
+    "id": "a1-bene",
+    "prompt": "well",
+    "answers": [
+      "bene"
+    ]
+  },
+  {
+    "id": "a1-lavoro",
+    "prompt": "work;job",
+    "answers": [
+      "lavoro"
+    ]
+  },
+  {
+    "id": "a1-casa",
+    "prompt": "house;home",
+    "answers": [
+      "casa"
+    ]
+  },
+  {
+    "id": "a1-persona",
+    "prompt": "person",
+    "answers": [
+      "persona"
+    ]
+  },
+  {
+    "id": "a1-qui",
+    "prompt": "here",
+    "answers": [
+      "qui"
+    ]
+  },
+  {
+    "id": "a1-dire",
+    "prompt": "to say;to tell",
+    "answers": [
+      "dire"
+    ]
+  },
+  {
+    "id": "a1-giorno",
+    "prompt": "day",
+    "answers": [
+      "giorno"
+    ]
+  },
+  {
+    "id": "a1-grande",
+    "prompt": "big;large;great",
+    "answers": [
+      "grande"
+    ]
+  },
+  {
+    "id": "a1-primo",
+    "prompt": "first",
+    "answers": [
+      "primo"
+    ]
+  },
+  {
+    "id": "a1-oggi",
+    "prompt": "today",
+    "answers": [
+      "oggi"
+    ]
+  },
+  {
+    "id": "a1-citta",
+    "prompt": "city",
+    "answers": [
+      "città"
+    ]
+  },
+  {
+    "id": "a1-nuovo",
+    "prompt": "new",
+    "answers": [
+      "nuovo"
+    ]
+  },
+  {
+    "id": "a1-quale",
+    "prompt": "which;what",
+    "answers": [
+      "quale"
+    ]
+  },
+  {
+    "id": "a1-tre",
+    "prompt": "three",
+    "answers": [
+      "tre"
+    ]
+  },
+  {
+    "id": "a1-avere",
+    "prompt": "to have",
+    "answers": [
+      "avere"
+    ]
+  },
+  {
+    "id": "a1-vedere",
+    "prompt": "to see",
+    "answers": [
+      "vedere"
+    ]
+  },
+  {
+    "id": "a1-sapere",
+    "prompt": "to know (facts;how to do something)",
+    "answers": [
+      "sapere"
+    ]
+  },
+  {
+    "id": "a1-sotto",
+    "prompt": "under;below",
+    "answers": [
+      "sotto"
+    ]
+  },
+  {
+    "id": "a1-momento",
+    "prompt": "moment",
+    "answers": [
+      "momento"
+    ]
+  },
+  {
+    "id": "a1-dovere",
+    "prompt": "to have to;must",
+    "answers": [
+      "dovere"
+    ]
+  },
+  {
+    "id": "a1-qualcosa",
+    "prompt": "something",
+    "answers": [
+      "qualcosa"
+    ]
+  },
+  {
+    "id": "a1-troppo",
+    "prompt": "too much;too",
+    "answers": [
+      "troppo"
+    ]
+  },
+  {
+    "id": "a1-vero",
+    "prompt": "true;real",
+    "answers": [
+      "vero"
+    ]
+  },
+  {
+    "id": "a1-gente",
+    "prompt": "people",
+    "answers": [
+      "gente"
+    ]
+  },
+  {
+    "id": "a1-niente",
+    "prompt": "nothing",
+    "answers": [
+      "niente"
+    ]
+  },
+  {
+    "id": "a1-posto",
+    "prompt": "place;spot",
+    "answers": [
+      "posto"
+    ]
+  },
+  {
+    "id": "a1-fuori",
+    "prompt": "outside",
+    "answers": [
+      "fuori"
+    ]
+  },
+  {
+    "id": "a1-nome",
+    "prompt": "name",
+    "answers": [
+      "nome"
+    ]
+  },
+  {
+    "id": "a1-poco",
+    "prompt": "little;a little",
+    "answers": [
+      "poco"
+    ]
+  },
+  {
+    "id": "a1-stare",
+    "prompt": "to stay;to be (state;location)",
+    "answers": [
+      "stare"
+    ]
+  },
+  {
+    "id": "a1-andare",
+    "prompt": "to go",
+    "answers": [
+      "andare"
+    ]
+  },
+  {
+    "id": "a1-qualcuno",
+    "prompt": "someone;somebody",
+    "answers": [
+      "qualcuno"
+    ]
+  },
+  {
+    "id": "a1-potere",
+    "prompt": "to be able to;can",
+    "answers": [
+      "potere"
+    ]
+  },
+  {
+    "id": "a1-volere",
+    "prompt": "to want",
+    "answers": [
+      "volere"
+    ]
+  },
+  {
+    "id": "a1-male",
+    "prompt": "badly;poorly",
+    "answers": [
+      "male"
+    ]
+  },
+  {
+    "id": "a1-numero",
+    "prompt": "number",
+    "answers": [
+      "numero"
+    ]
+  },
+  {
+    "id": "a1-si",
+    "prompt": "yes",
+    "answers": [
+      "sì"
+    ]
+  },
+  {
+    "id": "a1-dare",
+    "prompt": "to give",
+    "answers": [
+      "dare"
+    ]
+  },
+  {
+    "id": "a1-uomo",
+    "prompt": "man",
+    "answers": [
+      "uomo"
+    ]
+  },
+  {
+    "id": "a1-famiglia",
+    "prompt": "family",
+    "answers": [
+      "famiglia"
+    ]
+  },
+  {
+    "id": "a1-donna",
+    "prompt": "woman",
+    "answers": [
+      "donna"
+    ]
+  },
+  {
+    "id": "a1-italiano",
+    "prompt": "Italian",
+    "answers": [
+      "italiano"
+    ]
+  },
+  {
+    "id": "a1-adesso",
+    "prompt": "now",
+    "answers": [
+      "adesso"
+    ]
+  },
+  {
+    "id": "a1-bisogno",
+    "prompt": "need",
+    "answers": [
+      "bisogno"
+    ]
+  },
+  {
+    "id": "a1-film",
+    "prompt": "film;movie",
+    "answers": [
+      "film"
+    ]
+  },
+  {
+    "id": "a1-centro",
+    "prompt": "center",
+    "answers": [
+      "centro"
+    ]
+  },
+  {
+    "id": "a1-parlare",
+    "prompt": "to speak;to talk",
+    "answers": [
+      "parlare"
+    ]
+  },
+  {
+    "id": "a1-scuola",
+    "prompt": "school",
+    "answers": [
+      "scuola"
+    ]
+  },
+  {
+    "id": "a1-buono",
+    "prompt": "good",
+    "answers": [
+      "buono"
+    ]
+  },
+  {
+    "id": "a1-idea",
+    "prompt": "idea",
+    "answers": [
+      "idea"
+    ]
+  },
+  {
+    "id": "a1-mano",
+    "prompt": "hand",
+    "answers": [
+      "mano"
+    ]
+  },
+  {
+    "id": "a1-amico",
+    "prompt": "friend",
+    "answers": [
+      "amico"
+    ]
+  },
+  {
+    "id": "a1-importante",
+    "prompt": "important",
+    "answers": [
+      "importante"
+    ]
+  },
+  {
+    "id": "a1-mese",
+    "prompt": "month",
+    "answers": [
+      "mese"
+    ]
+  },
+  {
+    "id": "a1-parola",
+    "prompt": "word",
+    "answers": [
+      "parola"
+    ]
+  },
+  {
+    "id": "a1-scrivere",
+    "prompt": "to write",
+    "answers": [
+      "scrivere"
+    ]
+  },
+  {
+    "id": "a1-padre",
+    "prompt": "father",
+    "answers": [
+      "padre"
+    ]
+  },
+  {
+    "id": "a1-pensare",
+    "prompt": "to think",
+    "answers": [
+      "pensare"
+    ]
+  },
+  {
+    "id": "a1-piacere",
+    "prompt": "to like;to please",
+    "answers": [
+      "piacere"
+    ]
+  },
+  {
+    "id": "a1-porta",
+    "prompt": "door",
+    "answers": [
+      "porta"
+    ]
+  },
+  {
+    "id": "a1-settimana",
+    "prompt": "week",
+    "answers": [
+      "settimana"
+    ]
+  },
+  {
+    "id": "a1-state",
+    "prompt": "you are (plural);you stay",
+    "answers": [
+      "state"
+    ]
+  },
+  {
+    "id": "a1-trovare",
+    "prompt": "to find",
+    "answers": [
+      "trovare"
+    ]
+  },
+  {
+    "id": "a1-venire",
+    "prompt": "to come",
+    "answers": [
+      "venire"
+    ]
+  },
+  {
+    "id": "a1-leggere",
+    "prompt": "to read",
+    "answers": [
+      "leggere"
+    ]
+  },
+  {
+    "id": "a1-strada",
+    "prompt": "street;road",
+    "answers": [
+      "strada"
+    ]
+  },
+  {
+    "id": "a1-lungo",
+    "prompt": "long",
+    "answers": [
+      "lungo"
+    ]
+  },
+  {
+    "id": "a1-ragazzo",
+    "prompt": "boy;guy",
+    "answers": [
+      "ragazzo"
+    ]
+  },
+  {
+    "id": "a1-bello",
+    "prompt": "beautiful;nice;handsome",
+    "answers": [
+      "bello"
+    ]
+  },
+  {
+    "id": "a1-settembre",
+    "prompt": "September",
+    "answers": [
+      "settembre"
+    ]
+  },
+  {
+    "id": "a1-marzo",
+    "prompt": "March",
+    "answers": [
+      "marzo"
+    ]
+  },
+  {
+    "id": "a1-notte",
+    "prompt": "night",
+    "answers": [
+      "notte"
+    ]
+  },
+  {
+    "id": "a1-quattro",
+    "prompt": "four",
+    "answers": [
+      "quattro"
+    ]
+  },
+  {
+    "id": "a1-bambino",
+    "prompt": "child;boy",
+    "answers": [
+      "bambino"
+    ]
+  },
+  {
+    "id": "a1-libro",
+    "prompt": "book",
+    "answers": [
+      "libro"
+    ]
+  },
+  {
+    "id": "a1-figlio",
+    "prompt": "son;child",
+    "answers": [
+      "figlio"
+    ]
+  },
+  {
+    "id": "a1-prendere",
+    "prompt": "to take;to get",
+    "answers": [
+      "prendere"
+    ]
+  },
+  {
+    "id": "a1-testa",
+    "prompt": "head",
+    "answers": [
+      "testa"
+    ]
+  },
+  {
+    "id": "a1-amore",
+    "prompt": "love",
+    "answers": [
+      "amore"
+    ]
+  },
+  {
+    "id": "a1-madre",
+    "prompt": "mother",
+    "answers": [
+      "madre"
+    ]
+  },
+  {
+    "id": "a1-gioco",
+    "prompt": "game;play",
+    "answers": [
+      "gioco"
+    ]
+  },
+  {
+    "id": "a1-maggio",
+    "prompt": "May",
+    "answers": [
+      "maggio"
+    ]
+  },
+  {
+    "id": "a1-capire",
+    "prompt": "to understand",
+    "answers": [
+      "capire"
+    ]
+  },
+  {
+    "id": "a1-corpo",
+    "prompt": "body",
+    "answers": [
+      "corpo"
+    ]
+  },
+  {
+    "id": "a1-passare",
+    "prompt": "to pass;to spend (time)",
+    "answers": [
+      "passare"
+    ]
+  },
+  {
+    "id": "a1-ragazza",
+    "prompt": "girl",
+    "answers": [
+      "ragazza"
+    ]
+  },
+  {
+    "id": "a1-tv",
+    "prompt": "TV;television",
+    "answers": [
+      "tv"
+    ]
+  },
+  {
+    "id": "a1-avanti",
+    "prompt": "forward;come in",
+    "answers": [
+      "avanti"
+    ]
+  },
+  {
+    "id": "a1-euro",
+    "prompt": "euro",
+    "answers": [
+      "euro"
+    ]
+  },
+  {
+    "id": "a1-minuto",
+    "prompt": "minute",
+    "answers": [
+      "minuto"
+    ]
+  },
+  {
+    "id": "a1-acqua",
+    "prompt": "water",
+    "answers": [
+      "acqua"
+    ]
+  },
+  {
+    "id": "a1-aprile",
+    "prompt": "April",
+    "answers": [
+      "aprile"
+    ]
+  },
+  {
+    "id": "a1-difficile",
+    "prompt": "difficult",
+    "answers": [
+      "difficile"
+    ]
+  },
+  {
+    "id": "a1-domanda",
+    "prompt": "question;demand",
+    "answers": [
+      "domanda"
+    ]
+  },
+  {
+    "id": "a1-giugno",
+    "prompt": "June",
+    "answers": [
+      "giugno"
+    ]
+  },
+  {
+    "id": "a1-occhio",
+    "prompt": "eye",
+    "answers": [
+      "occhio"
+    ]
+  },
+  {
+    "id": "a1-li",
+    "prompt": "there",
+    "answers": [
+      "lì"
+    ]
+  },
+  {
+    "id": "a1-ottobre",
+    "prompt": "October",
+    "answers": [
+      "ottobre"
+    ]
+  },
+  {
+    "id": "a1-sera",
+    "prompt": "evening",
+    "answers": [
+      "sera"
+    ]
+  },
+  {
+    "id": "a1-cinque",
+    "prompt": "five",
+    "answers": [
+      "cinque"
+    ]
+  },
+  {
+    "id": "a1-luglio",
+    "prompt": "July",
+    "answers": [
+      "luglio"
+    ]
+  },
+  {
+    "id": "a1-musica",
+    "prompt": "music",
+    "answers": [
+      "musica"
+    ]
+  },
+  {
+    "id": "a1-inglese",
+    "prompt": "English",
+    "answers": [
+      "inglese"
+    ]
+  },
+  {
+    "id": "a1-mettere",
+    "prompt": "to put",
+    "answers": [
+      "mettere"
+    ]
+  },
+  {
+    "id": "a1-vivere",
+    "prompt": "to live",
+    "answers": [
+      "vivere"
+    ]
+  },
+  {
+    "id": "a1-data",
+    "prompt": "date",
+    "answers": [
+      "data"
+    ]
+  },
+  {
+    "id": "a1-giornata",
+    "prompt": "day",
+    "answers": [
+      "giornata"
+    ]
+  },
+  {
+    "id": "a1-lingua",
+    "prompt": "language",
+    "answers": [
+      "lingua"
+    ]
+  },
+  {
+    "id": "a1-piccolo",
+    "prompt": "small",
+    "answers": [
+      "piccolo"
+    ]
+  },
+  {
+    "id": "a1-febbraio",
+    "prompt": "February",
+    "answers": [
+      "febbraio"
+    ]
+  },
+  {
+    "id": "a1-ieri",
+    "prompt": "yesterday",
+    "answers": [
+      "ieri"
+    ]
+  },
+  {
+    "id": "a1-alto",
+    "prompt": "tall",
+    "answers": [
+      "alto"
+    ]
+  },
+  {
+    "id": "a1-dicembre",
+    "prompt": "December",
+    "answers": [
+      "dicembre"
+    ]
+  },
+  {
+    "id": "a1-novembre",
+    "prompt": "November",
+    "answers": [
+      "novembre"
+    ]
+  },
+  {
+    "id": "a1-semplice",
+    "prompt": "simple",
+    "answers": [
+      "semplice"
+    ]
+  },
+  {
+    "id": "a1-ultimo",
+    "prompt": "last;ultimate",
+    "answers": [
+      "ultimo"
+    ]
+  },
+  {
+    "id": "a1-agosto",
+    "prompt": "August",
+    "answers": [
+      "agosto"
+    ]
+  },
+  {
+    "id": "a1-mare",
+    "prompt": "sea",
+    "answers": [
+      "mare"
+    ]
+  },
+  {
+    "id": "a1-piu-2",
+    "prompt": "more",
+    "answers": [
+      "piu"
+    ]
+  },
+  {
+    "id": "a1-gennaio",
+    "prompt": "January",
+    "answers": [
+      "gennaio"
+    ]
+  },
+  {
+    "id": "a1-giovane",
+    "prompt": "young",
+    "answers": [
+      "giovane"
+    ]
+  },
+  {
+    "id": "a1-guardare",
+    "prompt": "to look;to watch",
+    "answers": [
+      "guardare"
+    ]
+  },
+  {
+    "id": "a1-classe",
+    "prompt": "class",
+    "answers": [
+      "classe"
+    ]
+  },
+  {
+    "id": "a1-continuare",
+    "prompt": "to continue",
+    "answers": [
+      "continuare"
+    ]
+  },
+  {
+    "id": "a1-auto",
+    "prompt": "car",
+    "answers": [
+      "auto"
+    ]
+  },
+  {
+    "id": "a1-piazza",
+    "prompt": "square;plaza",
+    "answers": [
+      "piazza"
+    ]
+  },
+  {
+    "id": "a1-aiuto",
+    "prompt": "help",
+    "answers": [
+      "aiuto"
+    ]
+  },
+  {
+    "id": "a1-domani",
+    "prompt": "tomorrow",
+    "answers": [
+      "domani"
+    ]
+  },
+  {
+    "id": "a1-facile",
+    "prompt": "easy",
+    "answers": [
+      "facile"
+    ]
+  },
+  {
+    "id": "a1-presto",
+    "prompt": "soon;early",
+    "answers": [
+      "presto"
+    ]
+  },
+  {
+    "id": "a1-cercare",
+    "prompt": "to look for;to search",
+    "answers": [
+      "cercare"
+    ]
+  },
+  {
+    "id": "a1-mamma",
+    "prompt": "mom;mother",
+    "answers": [
+      "mamma"
+    ]
+  },
+  {
+    "id": "a1-papa",
+    "prompt": "dad",
+    "answers": [
+      "papa"
+    ]
+  },
+  {
+    "id": "a1-lavorare",
+    "prompt": "to work",
+    "answers": [
+      "lavorare"
+    ]
+  },
+  {
+    "id": "a1-piede",
+    "prompt": "foot",
+    "answers": [
+      "piede"
+    ]
+  },
+  {
+    "id": "a1-felice",
+    "prompt": "happy",
+    "answers": [
+      "felice"
+    ]
+  },
+  {
+    "id": "a1-sentire",
+    "prompt": "to hear;to feel",
+    "answers": [
+      "sentire"
+    ]
+  },
+  {
+    "id": "a1-sole",
+    "prompt": "sun",
+    "answers": [
+      "sole"
+    ]
+  },
+  {
+    "id": "a1-cosi-2",
+    "prompt": "so;thus;like this",
+    "answers": [
+      "cosi"
+    ]
+  },
+  {
+    "id": "a1-macchina",
+    "prompt": "car;machine",
+    "answers": [
+      "macchina"
+    ]
+  },
+  {
+    "id": "a1-perdere",
+    "prompt": "to lose",
+    "answers": [
+      "perdere"
+    ]
+  },
+  {
+    "id": "a1-eta",
+    "prompt": "age",
+    "answers": [
+      "età"
+    ]
+  },
+  {
+    "id": "a1-prezzo",
+    "prompt": "price",
+    "answers": [
+      "prezzo"
+    ]
+  },
+  {
+    "id": "a1-qua",
+    "prompt": "here",
+    "answers": [
+      "qua"
+    ]
+  },
+  {
+    "id": "a1-cambiare",
+    "prompt": "to change",
+    "answers": [
+      "cambiare"
+    ]
+  },
+  {
+    "id": "a1-camera",
+    "prompt": "room;camera",
+    "answers": [
+      "camera"
+    ]
+  },
+  {
+    "id": "a1-destra",
+    "prompt": "right (direction)",
+    "answers": [
+      "destra"
+    ]
+  },
+  {
+    "id": "a1-portare",
+    "prompt": "to bring;to carry",
+    "answers": [
+      "portare"
+    ]
+  },
+  {
+    "id": "a1-chiaro",
+    "prompt": "clear",
+    "answers": [
+      "chiaro"
+    ]
+  },
+  {
+    "id": "a1-chiedere",
+    "prompt": "to ask",
+    "answers": [
+      "chiedere"
+    ]
+  },
+  {
+    "id": "a1-dieci",
+    "prompt": "ten",
+    "answers": [
+      "dieci"
+    ]
+  },
+  {
+    "id": "a1-diventare",
+    "prompt": "to become",
+    "answers": [
+      "diventare"
+    ]
+  },
+  {
+    "id": "a1-fratello",
+    "prompt": "brother",
+    "answers": [
+      "fratello"
+    ]
+  },
+  {
+    "id": "a1-partire",
+    "prompt": "to leave",
+    "answers": [
+      "partire"
+    ]
+  },
+  {
+    "id": "a1-arrivare",
+    "prompt": "to arrive",
+    "answers": [
+      "arrivare"
+    ]
+  },
+  {
+    "id": "a1-carta",
+    "prompt": "paper",
+    "answers": [
+      "carta"
+    ]
+  },
+  {
+    "id": "a1-festa",
+    "prompt": "party",
+    "answers": [
+      "festa"
+    ]
+  },
+  {
+    "id": "a1-francese",
+    "prompt": "French",
+    "answers": [
+      "francese"
+    ]
+  },
+  {
+    "id": "a1-libero",
+    "prompt": "free",
+    "answers": [
+      "libero"
+    ]
+  },
+  {
+    "id": "a1-tornare",
+    "prompt": "to return",
+    "answers": [
+      "tornare"
+    ]
+  },
+  {
+    "id": "a1-usare",
+    "prompt": "to use",
+    "answers": [
+      "usare"
+    ]
+  },
+  {
+    "id": "a1-prossimo",
+    "prompt": "next",
+    "answers": [
+      "prossimo"
+    ]
+  },
+  {
+    "id": "a1-cibo",
+    "prompt": "food",
+    "answers": [
+      "cibo"
+    ]
+  },
+  {
+    "id": "a1-figlia",
+    "prompt": "daughter",
+    "answers": [
+      "figlia"
+    ]
+  },
+  {
+    "id": "a1-vecchio",
+    "prompt": "old",
+    "answers": [
+      "vecchio"
+    ]
+  },
+  {
+    "id": "a1-basso",
+    "prompt": "low;short (in height)",
+    "answers": [
+      "basso"
+    ]
+  },
+  {
+    "id": "a1-costare",
+    "prompt": "to cost",
+    "answers": [
+      "costare"
+    ]
+  },
+  {
+    "id": "a1-entrare",
+    "prompt": "to enter;to go in",
+    "answers": [
+      "entrare"
+    ]
+  },
+  {
+    "id": "a1-iniziare",
+    "prompt": "to start;to begin",
+    "answers": [
+      "iniziare"
+    ]
+  },
+  {
+    "id": "a1-nero",
+    "prompt": "black",
+    "answers": [
+      "nero"
+    ]
+  },
+  {
+    "id": "a1-telefono",
+    "prompt": "telephone",
+    "answers": [
+      "telefono"
+    ]
+  },
+  {
+    "id": "a1-colore",
+    "prompt": "color",
+    "answers": [
+      "colore"
+    ]
+  },
+  {
+    "id": "a1-la",
+    "prompt": "there",
+    "answers": [
+      "là"
+    ]
+  },
+  {
+    "id": "a1-mattina",
+    "prompt": "morning",
+    "answers": [
+      "mattina"
+    ]
+  },
+  {
+    "id": "a1-uscire",
+    "prompt": "to go out",
+    "answers": [
+      "uscire"
+    ]
+  },
+  {
+    "id": "a1-chiamare",
+    "prompt": "to call",
+    "answers": [
+      "chiamare"
+    ]
+  },
+  {
+    "id": "a1-lettera",
+    "prompt": "letter",
+    "answers": [
+      "lettera"
+    ]
+  },
+  {
+    "id": "a1-mangiare",
+    "prompt": "to eat",
+    "answers": [
+      "mangiare"
+    ]
+  },
+  {
+    "id": "a1-pieno",
+    "prompt": "full",
+    "answers": [
+      "pieno"
+    ]
+  },
+  {
+    "id": "a1-restare",
+    "prompt": "to stay",
+    "answers": [
+      "restare"
+    ]
+  },
+  {
+    "id": "a1-signore",
+    "prompt": "sir",
+    "answers": [
+      "signore"
+    ]
+  },
+  {
+    "id": "a1-animale",
+    "prompt": "animal",
+    "answers": [
+      "animale"
+    ]
+  },
+  {
+    "id": "a1-cielo",
+    "prompt": "sky",
+    "answers": [
+      "cielo"
+    ]
+  },
+  {
+    "id": "a1-conoscere",
+    "prompt": "to know",
+    "answers": [
+      "conoscere"
+    ]
+  },
+  {
+    "id": "a1-finire",
+    "prompt": "to finish",
+    "answers": [
+      "finire"
+    ]
+  },
+  {
+    "id": "a1-lasciare",
+    "prompt": "to leave",
+    "answers": [
+      "lasciare"
+    ]
+  },
+  {
+    "id": "a1-bianco",
+    "prompt": "white",
+    "answers": [
+      "bianco"
+    ]
+  },
+  {
+    "id": "a1-canzone",
+    "prompt": "song",
+    "answers": [
+      "canzone"
+    ]
+  },
+  {
+    "id": "a1-mille",
+    "prompt": "thousand",
+    "answers": [
+      "mille"
+    ]
+  },
+  {
+    "id": "a1-radio",
+    "prompt": "radio",
+    "answers": [
+      "radio"
+    ]
+  },
+  {
+    "id": "a1-aperto",
+    "prompt": "open",
+    "answers": [
+      "aperto"
+    ]
+  },
+  {
+    "id": "a1-sette",
+    "prompt": "seven",
+    "answers": [
+      "sette"
+    ]
+  },
+  {
+    "id": "a1-studente",
+    "prompt": "student",
+    "answers": [
+      "studente"
+    ]
+  },
+  {
+    "id": "a1-tardi",
+    "prompt": "late",
+    "answers": [
+      "tardi"
+    ]
+  },
+  {
+    "id": "a1-bocca",
+    "prompt": "mouth",
+    "answers": [
+      "bocca"
+    ]
+  },
+  {
+    "id": "a1-giocare",
+    "prompt": "to play",
+    "answers": [
+      "giocare"
+    ]
+  },
+  {
+    "id": "a1-rosso",
+    "prompt": "red",
+    "answers": [
+      "rosso"
+    ]
+  },
+  {
+    "id": "a1-domenica",
+    "prompt": "Sunday",
+    "answers": [
+      "domenica"
+    ]
+  },
+  {
+    "id": "a1-sport",
+    "prompt": "sport",
+    "answers": [
+      "sport"
+    ]
+  },
+  {
+    "id": "a1-marito",
+    "prompt": "husband",
+    "answers": [
+      "marito"
+    ]
+  },
+  {
+    "id": "a1-pagare",
+    "prompt": "to pay",
+    "answers": [
+      "pagare"
+    ]
+  },
+  {
+    "id": "a1-capello",
+    "prompt": "hair (single strand)",
+    "answers": [
+      "capello"
+    ]
+  },
+  {
+    "id": "a1-metro",
+    "prompt": "meter;subway",
+    "answers": [
+      "metro"
+    ]
+  },
+  {
+    "id": "a1-aiutare",
+    "prompt": "to help",
+    "answers": [
+      "aiutare"
+    ]
+  },
+  {
+    "id": "a1-cane",
+    "prompt": "dog",
+    "answers": [
+      "cane"
+    ]
+  },
+  {
+    "id": "a1-natale",
+    "prompt": "Christmas",
+    "answers": [
+      "natale"
+    ]
+  },
+  {
+    "id": "a1-cinema",
+    "prompt": "cinema;movie theater",
+    "answers": [
+      "cinema"
+    ]
+  },
+  {
+    "id": "a1-quest-anno",
+    "prompt": "this year",
+    "answers": [
+      "quest'anno"
+    ]
+  },
+  {
+    "id": "a1-stasera",
+    "prompt": "tonight",
+    "answers": [
+      "stasera"
+    ]
+  },
+  {
+    "id": "a1-amare",
+    "prompt": "to love",
+    "answers": [
+      "amare"
+    ]
+  },
+  {
+    "id": "a1-benissimo",
+    "prompt": "very well",
+    "answers": [
+      "benissimo"
+    ]
+  },
+  {
+    "id": "a1-parco",
+    "prompt": "park",
+    "answers": [
+      "parco"
+    ]
+  },
+  {
+    "id": "a1-pronto",
+    "prompt": "ready",
+    "answers": [
+      "pronto"
+    ]
+  },
+  {
+    "id": "a1-cucina",
+    "prompt": "kitchen",
+    "answers": [
+      "cucina"
+    ]
+  },
+  {
+    "id": "a1-otto",
+    "prompt": "eight",
+    "answers": [
+      "otto"
+    ]
+  },
+  {
+    "id": "a1-rispondere",
+    "prompt": "to answer",
+    "answers": [
+      "rispondere"
+    ]
+  },
+  {
+    "id": "a1-banca",
+    "prompt": "bank",
+    "answers": [
+      "banca"
+    ]
+  },
+  {
+    "id": "a1-sale",
+    "prompt": "salt",
+    "answers": [
+      "sale"
+    ]
+  },
+  {
+    "id": "a1-stazione",
+    "prompt": "station",
+    "answers": [
+      "stazione"
+    ]
+  },
+  {
+    "id": "a1-bagno",
+    "prompt": "bathroom",
+    "answers": [
+      "bagno"
+    ]
+  },
+  {
+    "id": "a1-computer",
+    "prompt": "computer",
+    "answers": [
+      "computer"
+    ]
+  },
+  {
+    "id": "a1-sabato",
+    "prompt": "Saturday",
+    "answers": [
+      "sabato"
+    ]
+  },
+  {
+    "id": "a1-fame",
+    "prompt": "hunger",
+    "answers": [
+      "fame"
+    ]
+  },
+  {
+    "id": "a1-sorella",
+    "prompt": "sister",
+    "answers": [
+      "sorella"
+    ]
+  },
+  {
+    "id": "a1-verde",
+    "prompt": "green",
+    "answers": [
+      "verde"
+    ]
+  },
+  {
+    "id": "a1-amica",
+    "prompt": "friend (female)",
+    "answers": [
+      "amica"
+    ]
+  },
+  {
+    "id": "a1-bar",
+    "prompt": "bar;cafe",
+    "answers": [
+      "bar"
+    ]
+  },
+  {
+    "id": "a1-estate",
+    "prompt": "summer",
+    "answers": [
+      "estate"
+    ]
+  },
+  {
+    "id": "a1-caffe",
+    "prompt": "coffee",
+    "answers": [
+      "caffè"
+    ]
+  },
+  {
+    "id": "a1-dolce",
+    "prompt": "sweet;gentle",
+    "answers": [
+      "dolce"
+    ]
+  },
+  {
+    "id": "a1-cento",
+    "prompt": "hundred",
+    "answers": [
+      "cento"
+    ]
+  },
+  {
+    "id": "a1-giornale",
+    "prompt": "newspaper",
+    "answers": [
+      "giornale"
+    ]
+  },
+  {
+    "id": "a1-rosa",
+    "prompt": "pink",
+    "answers": [
+      "rosa"
+    ]
+  },
+  {
+    "id": "a1-bravo",
+    "prompt": "good;capable;brave",
+    "answers": [
+      "bravo"
+    ]
+  },
+  {
+    "id": "a1-comprare",
+    "prompt": "to buy",
+    "answers": [
+      "comprare"
+    ]
+  },
+  {
+    "id": "a1-museo",
+    "prompt": "museum",
+    "answers": [
+      "museo"
+    ]
+  },
+  {
+    "id": "a1-signora",
+    "prompt": "lady;Mrs.",
+    "answers": [
+      "signora"
+    ]
+  },
+  {
+    "id": "a1-vino",
+    "prompt": "wine",
+    "answers": [
+      "vino"
+    ]
+  },
+  {
+    "id": "a1-zero",
+    "prompt": "zero",
+    "answers": [
+      "zero"
+    ]
+  },
+  {
+    "id": "a1-aspettare",
+    "prompt": "to wait",
+    "answers": [
+      "aspettare"
+    ]
+  },
+  {
+    "id": "a1-caldo",
+    "prompt": "hot;warm",
+    "answers": [
+      "caldo"
+    ]
+  },
+  {
+    "id": "a1-caro",
+    "prompt": "expensive;dear",
+    "answers": [
+      "caro"
+    ]
+  },
+  {
+    "id": "a1-cellulare",
+    "prompt": "mobile phone",
+    "answers": [
+      "cellulare"
+    ]
+  },
+  {
+    "id": "a1-cena",
+    "prompt": "dinner",
+    "answers": [
+      "cena"
+    ]
+  },
+  {
+    "id": "a1-giu",
+    "prompt": "down",
+    "answers": [
+      "giù"
+    ]
+  },
+  {
+    "id": "a1-americano",
+    "prompt": "American",
+    "answers": [
+      "americano"
+    ]
+  },
+  {
+    "id": "a1-blu",
+    "prompt": "blue",
+    "answers": [
+      "blu"
+    ]
+  },
+  {
+    "id": "a1-stanza",
+    "prompt": "room",
+    "answers": [
+      "stanza"
+    ]
+  },
+  {
+    "id": "a1-studiare",
+    "prompt": "to study",
+    "answers": [
+      "studiare"
+    ]
+  },
+  {
+    "id": "a1-venerdi",
+    "prompt": "Friday",
+    "answers": [
+      "venerdì"
+    ]
+  },
+  {
+    "id": "a1-imparare",
+    "prompt": "to learn",
+    "answers": [
+      "imparare"
+    ]
+  },
+  {
+    "id": "a1-pomeriggio",
+    "prompt": "afternoon",
+    "answers": [
+      "pomeriggio"
+    ]
+  },
+  {
+    "id": "a1-signor",
+    "prompt": "Mr.;sir",
+    "answers": [
+      "signor"
+    ]
+  },
+  {
+    "id": "a1-contare",
+    "prompt": "to count;to matter",
+    "answers": [
+      "contare"
+    ]
+  },
+  {
+    "id": "a1-dormire",
+    "prompt": "to sleep",
+    "answers": [
+      "dormire"
+    ]
+  },
+  {
+    "id": "a1-pranzo",
+    "prompt": "lunch",
+    "answers": [
+      "pranzo"
+    ]
+  },
+  {
+    "id": "a1-aprire",
+    "prompt": "to open",
+    "answers": [
+      "aprire"
+    ]
+  },
+  {
+    "id": "a1-freddo",
+    "prompt": "cold",
+    "answers": [
+      "freddo"
+    ]
+  },
+  {
+    "id": "a1-treno",
+    "prompt": "train",
+    "answers": [
+      "treno"
+    ]
+  },
+  {
+    "id": "a1-triste",
+    "prompt": "sad",
+    "answers": [
+      "triste"
+    ]
+  },
+  {
+    "id": "a1-arrivato",
+    "prompt": "arrived",
+    "answers": [
+      "arrivato"
+    ]
+  },
+  {
+    "id": "a1-grosso",
+    "prompt": "big;large;fat",
+    "answers": [
+      "grosso"
+    ]
+  },
+  {
+    "id": "a1-luna",
+    "prompt": "moon",
+    "answers": [
+      "luna"
+    ]
+  },
+  {
+    "id": "a1-povero",
+    "prompt": "poor",
+    "answers": [
+      "povero"
+    ]
+  },
+  {
+    "id": "a1-ridere",
+    "prompt": "to laugh",
+    "answers": [
+      "ridere"
+    ]
+  },
+  {
+    "id": "a1-aereo",
+    "prompt": "airplane",
+    "answers": [
+      "aereo"
+    ]
+  },
+  {
+    "id": "a1-fiore",
+    "prompt": "flower",
+    "answers": [
+      "fiore"
+    ]
+  },
+  {
+    "id": "a1-negozio",
+    "prompt": "shop;store",
+    "answers": [
+      "negozio"
+    ]
+  },
+  {
+    "id": "a1-quarto",
+    "prompt": "fourth",
+    "answers": [
+      "quarto"
+    ]
+  },
+  {
+    "id": "a1-lezione",
+    "prompt": "lesson",
+    "answers": [
+      "lezione"
+    ]
+  },
+  {
+    "id": "a1-primavera",
+    "prompt": "spring",
+    "answers": [
+      "primavera"
+    ]
+  },
+  {
+    "id": "a1-latte",
+    "prompt": "milk",
+    "answers": [
+      "latte"
+    ]
+  },
+  {
+    "id": "a1-nato",
+    "prompt": "born",
+    "answers": [
+      "nato"
+    ]
+  },
+  {
+    "id": "a1-brutto",
+    "prompt": "ugly;bad",
+    "answers": [
+      "brutto"
+    ]
+  },
+  {
+    "id": "a1-nonna",
+    "prompt": "grandmother",
+    "answers": [
+      "nonna"
+    ]
+  },
+  {
+    "id": "a1-accettare",
+    "prompt": "to accept",
+    "answers": [
+      "accettare"
+    ]
+  },
+  {
+    "id": "a1-appuntamento",
+    "prompt": "appointment;date",
+    "answers": [
+      "appuntamento"
+    ]
+  },
+  {
+    "id": "a1-biblioteca",
+    "prompt": "library",
+    "answers": [
+      "biblioteca"
+    ]
+  },
+  {
+    "id": "a1-chiudere",
+    "prompt": "to close",
+    "answers": [
+      "chiudere"
+    ]
+  },
+  {
+    "id": "a1-nove",
+    "prompt": "nine",
+    "answers": [
+      "nove"
+    ]
+  },
+  {
+    "id": "a1-olio",
+    "prompt": "oil",
+    "answers": [
+      "olio"
+    ]
+  },
+  {
+    "id": "a1-pane",
+    "prompt": "bread",
+    "answers": [
+      "pane"
+    ]
+  },
+  {
+    "id": "a1-scarpa",
+    "prompt": "shoe",
+    "answers": [
+      "scarpa"
+    ]
+  },
+  {
+    "id": "a1-ascoltare",
+    "prompt": "to listen",
+    "answers": [
+      "ascoltare"
+    ]
+  },
+  {
+    "id": "a1-cominciare",
+    "prompt": "to begin",
+    "answers": [
+      "cominciare"
+    ]
+  },
+  {
+    "id": "a1-lunedi",
+    "prompt": "Monday",
+    "answers": [
+      "lunedì"
+    ]
+  },
+  {
+    "id": "a1-spiaggia",
+    "prompt": "beach",
+    "answers": [
+      "spiaggia"
+    ]
+  },
+  {
+    "id": "a1-vacanza",
+    "prompt": "holiday;vacation",
+    "answers": [
+      "vacanza"
+    ]
+  },
+  {
+    "id": "a1-esserci",
+    "prompt": "there to be (to exist)",
+    "answers": [
+      "esserci"
+    ]
+  },
+  {
+    "id": "a1-papa-2",
+    "prompt": "dad;daddy",
+    "answers": [
+      "papà"
+    ]
+  },
+  {
+    "id": "a1-ristorante",
+    "prompt": "restaurant",
+    "answers": [
+      "ristorante"
+    ]
+  },
+  {
+    "id": "a1-tavolo",
+    "prompt": "table",
+    "answers": [
+      "tavolo"
+    ]
+  },
+  {
+    "id": "a1-braccio",
+    "prompt": "arm",
+    "answers": [
+      "braccio"
+    ]
+  },
+  {
+    "id": "a1-hotel",
+    "prompt": "hotel",
+    "answers": [
+      "hotel"
+    ]
+  },
+  {
+    "id": "a1-montagna",
+    "prompt": "mountain",
+    "answers": [
+      "montagna"
+    ]
+  },
+  {
+    "id": "a1-preferire",
+    "prompt": "to prefer",
+    "answers": [
+      "preferire"
+    ]
+  },
+  {
+    "id": "a1-bere",
+    "prompt": "to drink",
+    "answers": [
+      "bere"
+    ]
+  },
+  {
+    "id": "a1-biglietto",
+    "prompt": "ticket",
+    "answers": [
+      "biglietto"
+    ]
+  },
+  {
+    "id": "a1-gamba",
+    "prompt": "leg",
+    "answers": [
+      "gamba"
+    ]
+  },
+  {
+    "id": "a1-gentile",
+    "prompt": "kind",
+    "answers": [
+      "gentile"
+    ]
+  },
+  {
+    "id": "a1-giardino",
+    "prompt": "garden",
+    "answers": [
+      "giardino"
+    ]
+  },
+  {
+    "id": "a1-lago",
+    "prompt": "lake",
+    "answers": [
+      "lago"
+    ]
+  },
+  {
+    "id": "a1-regalo",
+    "prompt": "gift",
+    "answers": [
+      "regalo"
+    ]
+  },
+  {
+    "id": "a1-vestito",
+    "prompt": "dress",
+    "answers": [
+      "vestito"
+    ]
+  },
+  {
+    "id": "a1-borsa",
+    "prompt": "bag",
+    "answers": [
+      "borsa"
+    ]
+  },
+  {
+    "id": "a1-pizza",
+    "prompt": "pizza",
+    "answers": [
+      "pizza"
+    ]
+  },
+  {
+    "id": "a1-pesce",
+    "prompt": "fish",
+    "answers": [
+      "pesce"
+    ]
+  },
+  {
+    "id": "a1-scusare",
+    "prompt": "to excuse;to apologize",
+    "answers": [
+      "scusare"
+    ]
+  },
+  {
+    "id": "a1-colazione",
+    "prompt": "breakfast",
+    "answers": [
+      "colazione"
+    ]
+  },
+  {
+    "id": "a1-pianta",
+    "prompt": "plant;floor plan",
+    "answers": [
+      "pianta"
+    ]
+  },
+  {
+    "id": "a1-appartamento",
+    "prompt": "apartment",
+    "answers": [
+      "appartamento"
+    ]
+  },
+  {
+    "id": "a1-compleanno",
+    "prompt": "birthday",
+    "answers": [
+      "compleanno"
+    ]
+  },
+  {
+    "id": "a1-mattino",
+    "prompt": "morning",
+    "answers": [
+      "mattino"
+    ]
+  },
+  {
+    "id": "a1-pasta",
+    "prompt": "pasta;dough",
+    "answers": [
+      "pasta"
+    ]
+  },
+  {
+    "id": "a1-tavola",
+    "prompt": "table;board",
+    "answers": [
+      "tavola"
+    ]
+  },
+  {
+    "id": "a1-finestra",
+    "prompt": "window",
+    "answers": [
+      "finestra"
+    ]
+  },
+  {
+    "id": "a1-frutto",
+    "prompt": "fruit",
+    "answers": [
+      "frutto"
+    ]
+  },
+  {
+    "id": "a1-vendere",
+    "prompt": "to sell",
+    "answers": [
+      "vendere"
+    ]
+  },
+  {
+    "id": "a1-zio",
+    "prompt": "uncle",
+    "answers": [
+      "zio"
+    ]
+  },
+  {
+    "id": "a1-albero",
+    "prompt": "tree",
+    "answers": [
+      "albero"
+    ]
+  },
+  {
+    "id": "a1-birra",
+    "prompt": "beer",
+    "answers": [
+      "birra"
+    ]
+  },
+  {
+    "id": "a1-incontrare",
+    "prompt": "to meet",
+    "answers": [
+      "incontrare"
+    ]
+  },
+  {
+    "id": "a1-correre",
+    "prompt": "to run",
+    "answers": [
+      "correre"
+    ]
+  },
+  {
+    "id": "a1-riso",
+    "prompt": "rice",
+    "answers": [
+      "riso"
+    ]
+  },
+  {
+    "id": "a1-contento",
+    "prompt": "happy;content",
+    "answers": [
+      "contento"
+    ]
+  },
+  {
+    "id": "a1-dente",
+    "prompt": "tooth",
+    "answers": [
+      "dente"
+    ]
+  },
+  {
+    "id": "a1-naso",
+    "prompt": "nose",
+    "answers": [
+      "naso"
+    ]
+  },
+  {
+    "id": "a1-piatto",
+    "prompt": "plate;dish",
+    "answers": [
+      "piatto"
+    ]
+  },
+  {
+    "id": "a1-inverno",
+    "prompt": "winter",
+    "answers": [
+      "inverno"
+    ]
+  },
+  {
+    "id": "a1-gatto",
+    "prompt": "cat",
+    "answers": [
+      "gatto"
+    ]
+  },
+  {
+    "id": "a1-giallo",
+    "prompt": "yellow",
+    "answers": [
+      "giallo"
+    ]
+  },
+  {
+    "id": "a1-giovedi",
+    "prompt": "Thursday",
+    "answers": [
+      "giovedì"
+    ]
+  },
+  {
+    "id": "a1-kg",
+    "prompt": "kilogram",
+    "answers": [
+      "kg"
+    ]
+  },
+  {
+    "id": "a1-largo",
+    "prompt": "wide",
+    "answers": [
+      "largo"
+    ]
+  },
+  {
+    "id": "a1-mar",
+    "prompt": "sea",
+    "answers": [
+      "mar"
+    ]
+  },
+  {
+    "id": "a1-uovo",
+    "prompt": "egg",
+    "answers": [
+      "uovo"
+    ]
+  },
+  {
+    "id": "a1-cattivo",
+    "prompt": "bad;evil",
+    "answers": [
+      "cattivo"
+    ]
+  },
+  {
+    "id": "a1-girare",
+    "prompt": "to turn;to spin;to go around",
+    "answers": [
+      "girare"
+    ]
+  },
+  {
+    "id": "a1-insegnante",
+    "prompt": "teacher",
+    "answers": [
+      "insegnante"
+    ]
+  },
+  {
+    "id": "a1-nonno",
+    "prompt": "grandfather",
+    "answers": [
+      "nonno"
+    ]
+  },
+  {
+    "id": "a1-ringraziare",
+    "prompt": "to thank",
+    "answers": [
+      "ringraziare"
+    ]
+  },
+  {
+    "id": "a1-piu-3",
+    "prompt": "more",
+    "answers": [
+      "piú"
+    ]
+  },
+  {
+    "id": "a1-benvenuto",
+    "prompt": "welcome",
+    "answers": [
+      "benvenuto"
+    ]
+  },
+  {
+    "id": "a1-guidare",
+    "prompt": "to drive;to guide",
+    "answers": [
+      "guidare"
+    ]
+  },
+  {
+    "id": "a1-mostrare",
+    "prompt": "to show;to display",
+    "answers": [
+      "mostrare"
+    ]
+  },
+  {
+    "id": "a1-po",
+    "prompt": "a little;a bit",
+    "answers": [
+      "pò"
+    ]
+  },
+  {
+    "id": "a1-autobus",
+    "prompt": "bus",
+    "answers": [
+      "autobus"
+    ]
+  },
+  {
+    "id": "a1-dito",
+    "prompt": "finger",
+    "answers": [
+      "dito"
+    ]
+  },
+  {
+    "id": "a1-doccia",
+    "prompt": "shower",
+    "answers": [
+      "doccia"
+    ]
+  },
+  {
+    "id": "a1-neve",
+    "prompt": "snow",
+    "answers": [
+      "neve"
+    ]
+  },
+  {
+    "id": "a1-visitare",
+    "prompt": "to visit",
+    "answers": [
+      "visitare"
+    ]
+  },
+  {
+    "id": "a1-zucchero",
+    "prompt": "sugar",
+    "answers": [
+      "zucchero"
+    ]
+  },
+  {
+    "id": "a1-dodici",
+    "prompt": "twelve",
+    "answers": [
+      "dodici"
+    ]
+  },
+  {
+    "id": "a1-dottore",
+    "prompt": "doctor",
+    "answers": [
+      "dottore"
+    ]
+  },
+  {
+    "id": "a1-martedi",
+    "prompt": "Tuesday",
+    "answers": [
+      "martedì"
+    ]
+  },
+  {
+    "id": "a1-preparare",
+    "prompt": "to prepare",
+    "answers": [
+      "preparare"
+    ]
+  },
+  {
+    "id": "a1-suonare",
+    "prompt": "to play (an instrument);to ring (a bell)",
+    "answers": [
+      "suonare"
+    ]
+  },
+  {
+    "id": "a1-mercoledi",
+    "prompt": "Wednesday",
+    "answers": [
+      "mercoledì"
+    ]
+  },
+  {
+    "id": "a1-bacio",
+    "prompt": "kiss",
+    "answers": [
+      "bacio"
+    ]
+  },
+  {
+    "id": "a1-ballo",
+    "prompt": "dance;ball",
+    "answers": [
+      "ballo"
+    ]
+  },
+  {
+    "id": "a1-quinto",
+    "prompt": "fifth",
+    "answers": [
+      "quinto"
+    ]
+  },
+  {
+    "id": "a1-torta",
+    "prompt": "cake",
+    "answers": [
+      "torta"
+    ]
+  },
+  {
+    "id": "a1-viaggiare",
+    "prompt": "to travel",
+    "answers": [
+      "viaggiare"
+    ]
+  },
+  {
+    "id": "a1-frutta",
+    "prompt": "fruit",
+    "answers": [
+      "frutta"
+    ]
+  },
+  {
+    "id": "a1-insegnare",
+    "prompt": "to teach",
+    "answers": [
+      "insegnare"
+    ]
+  },
+  {
+    "id": "a1-barca",
+    "prompt": "boat",
+    "answers": [
+      "barca"
+    ]
+  },
+  {
+    "id": "a1-bus",
+    "prompt": "bus",
+    "answers": [
+      "bus"
+    ]
+  },
+  {
+    "id": "a1-destro",
+    "prompt": "right (side)",
+    "answers": [
+      "destro"
+    ]
+  },
+  {
+    "id": "a1-viola",
+    "prompt": "purple;violet",
+    "answers": [
+      "viola"
+    ]
+  },
+  {
+    "id": "a1-trenta",
+    "prompt": "thirty",
+    "answers": [
+      "trenta"
+    ]
+  },
+  {
+    "id": "a1-camminare",
+    "prompt": "to walk",
+    "answers": [
+      "camminare"
+    ]
+  },
+  {
+    "id": "a1-erba",
+    "prompt": "grass",
+    "answers": [
+      "erba"
+    ]
+  },
+  {
+    "id": "a1-ritornare",
+    "prompt": "to return;to come back",
+    "answers": [
+      "ritornare"
+    ]
+  },
+  {
+    "id": "a1-cantare",
+    "prompt": "to sing",
+    "answers": [
+      "cantare"
+    ]
+  },
+  {
+    "id": "a1-cioccolato",
+    "prompt": "chocolate",
+    "answers": [
+      "cioccolato"
+    ]
+  },
+  {
+    "id": "a1-quindici",
+    "prompt": "fifteen",
+    "answers": [
+      "quindici"
+    ]
+  },
+  {
+    "id": "a1-zia",
+    "prompt": "aunt",
+    "answers": [
+      "zia"
+    ]
+  },
+  {
+    "id": "a1-divano",
+    "prompt": "sofa;couch",
+    "answers": [
+      "divano"
+    ]
+  },
+  {
+    "id": "a1-foglio",
+    "prompt": "sheet (of paper);leaf",
+    "answers": [
+      "foglio"
+    ]
+  },
+  {
+    "id": "a1-libreria",
+    "prompt": "bookstore;bookshelf",
+    "answers": [
+      "libreria"
+    ]
+  },
+  {
+    "id": "a1-orecchio",
+    "prompt": "ear",
+    "answers": [
+      "orecchio"
+    ]
+  },
+  {
+    "id": "a1-bottiglia",
+    "prompt": "bottle",
+    "answers": [
+      "bottiglia"
+    ]
+  },
+  {
+    "id": "a1-scatola",
+    "prompt": "box",
+    "answers": [
+      "scatola"
+    ]
+  },
+  {
+    "id": "a1-aeroporto",
+    "prompt": "airport",
+    "answers": [
+      "aeroporto"
+    ]
+  },
+  {
+    "id": "a1-bici",
+    "prompt": "bike",
+    "answers": [
+      "bici"
+    ]
+  },
+  {
+    "id": "a1-malato",
+    "prompt": "sick",
+    "answers": [
+      "malato"
+    ]
+  },
+  {
+    "id": "a1-stanco",
+    "prompt": "tired",
+    "answers": [
+      "stanco"
+    ]
+  },
+  {
+    "id": "a1-taxi",
+    "prompt": "taxi",
+    "answers": [
+      "taxi"
+    ]
+  },
+  {
+    "id": "a1-cugino",
+    "prompt": "cousin",
+    "answers": [
+      "cugino"
+    ]
+  },
+  {
+    "id": "a1-fresco",
+    "prompt": "fresh;cool",
+    "answers": [
+      "fresco"
+    ]
+  },
+  {
+    "id": "a1-cinquanta",
+    "prompt": "fifty",
+    "answers": [
+      "cinquanta"
+    ]
+  },
+  {
+    "id": "a1-corto",
+    "prompt": "short",
+    "answers": [
+      "corto"
+    ]
+  },
+  {
+    "id": "a1-formaggio",
+    "prompt": "cheese",
+    "answers": [
+      "formaggio"
+    ]
+  },
+  {
+    "id": "a1-mezz-ora",
+    "prompt": "half an hour",
+    "answers": [
+      "mezz'ora"
+    ]
+  },
+  {
+    "id": "a1-te",
+    "prompt": "tea",
+    "answers": [
+      "tè"
+    ]
+  },
+  {
+    "id": "a1-albergo",
+    "prompt": "hotel",
+    "answers": [
+      "albergo"
+    ]
+  },
+  {
+    "id": "a1-autunno",
+    "prompt": "autumn;fall",
+    "answers": [
+      "autunno"
+    ]
+  },
+  {
+    "id": "a1-bicchiere",
+    "prompt": "glass",
+    "answers": [
+      "bicchiere"
+    ]
+  },
+  {
+    "id": "a1-grigio",
+    "prompt": "grey",
+    "answers": [
+      "grigio"
+    ]
+  },
+  {
+    "id": "a1-pantalone",
+    "prompt": "trousers;pants",
+    "answers": [
+      "pantalone"
+    ]
+  },
+  {
+    "id": "a1-pulire",
+    "prompt": "to clean",
+    "answers": [
+      "pulire"
+    ]
+  },
+  {
+    "id": "a1-sedia",
+    "prompt": "chair",
+    "answers": [
+      "sedia"
+    ]
+  },
+  {
+    "id": "a1-azzurro",
+    "prompt": "light blue;azure",
+    "answers": [
+      "azzurro"
+    ]
+  },
+  {
+    "id": "a1-mezzanotte",
+    "prompt": "midnight",
+    "answers": [
+      "mezzanotte"
+    ]
+  },
+  {
+    "id": "a1-mezzogiorno",
+    "prompt": "midday;noon",
+    "answers": [
+      "mezzogiorno"
+    ]
+  },
+  {
+    "id": "a1-simpatico",
+    "prompt": "nice;likeable;friendly",
+    "answers": [
+      "simpatico"
+    ]
+  },
+  {
+    "id": "a1-cappello",
+    "prompt": "hat",
+    "answers": [
+      "cappello"
+    ]
+  },
+  {
+    "id": "a1-penna",
+    "prompt": "pen",
+    "answers": [
+      "penna"
+    ]
+  },
+  {
+    "id": "a1-cucinare",
+    "prompt": "to cook",
+    "answers": [
+      "cucinare"
+    ]
+  },
+  {
+    "id": "a1-orologio",
+    "prompt": "clock;watch",
+    "answers": [
+      "orologio"
+    ]
+  },
+  {
+    "id": "a1-pollo",
+    "prompt": "chicken",
+    "answers": [
+      "pollo"
+    ]
+  },
+  {
+    "id": "a1-sedere",
+    "prompt": "to sit",
+    "answers": [
+      "sedere"
+    ]
+  },
+  {
+    "id": "a1-gelato",
+    "prompt": "ice cream",
+    "answers": [
+      "gelato"
+    ]
+  },
+  {
+    "id": "a1-lento",
+    "prompt": "slow",
+    "answers": [
+      "lento"
+    ]
+  },
+  {
+    "id": "a1-pasto",
+    "prompt": "meal",
+    "answers": [
+      "pasto"
+    ]
+  },
+  {
+    "id": "a1-pulito",
+    "prompt": "clean",
+    "answers": [
+      "pulito"
+    ]
+  },
+  {
+    "id": "a1-undici",
+    "prompt": "eleven",
+    "answers": [
+      "undici"
+    ]
+  },
+  {
+    "id": "a1-ballare",
+    "prompt": "to dance",
+    "answers": [
+      "ballare"
+    ]
+  },
+  {
+    "id": "a1-camicia",
+    "prompt": "shirt",
+    "answers": [
+      "camicia"
+    ]
+  },
+  {
+    "id": "a1-giacca",
+    "prompt": "jacket",
+    "answers": [
+      "giacca"
+    ]
+  },
+  {
+    "id": "a1-patata",
+    "prompt": "potato",
+    "answers": [
+      "patata"
+    ]
+  },
+  {
+    "id": "a1-alzare",
+    "prompt": "to raise;to lift",
+    "answers": [
+      "alzare"
+    ]
+  },
+  {
+    "id": "a1-bicicletta",
+    "prompt": "bicycle",
+    "answers": [
+      "bicicletta"
+    ]
+  },
+  {
+    "id": "a1-burro",
+    "prompt": "butter",
+    "answers": [
+      "burro"
+    ]
+  },
+  {
+    "id": "a1-dizionario",
+    "prompt": "dictionary",
+    "answers": [
+      "dizionario"
+    ]
+  },
+  {
+    "id": "a1-bimbo",
+    "prompt": "child;baby",
+    "answers": [
+      "bimbo"
+    ]
+  },
+  {
+    "id": "a1-coltello",
+    "prompt": "knife",
+    "answers": [
+      "coltello"
+    ]
+  },
+  {
+    "id": "a1-maglietta",
+    "prompt": "t-shirt",
+    "answers": [
+      "maglietta"
+    ]
+  },
+  {
+    "id": "a1-bambina",
+    "prompt": "girl;little girl",
+    "answers": [
+      "bambina"
+    ]
+  },
+  {
+    "id": "a1-biscotto",
+    "prompt": "biscuit;cookie",
+    "answers": [
+      "biscotto"
+    ]
+  },
+  {
+    "id": "a1-salutare",
+    "prompt": "to greet;to say hello",
+    "answers": [
+      "salutare"
+    ]
+  },
+  {
+    "id": "a1-scuro",
+    "prompt": "dark",
+    "answers": [
+      "scuro"
+    ]
+  },
+  {
+    "id": "a1-week",
+    "prompt": "week",
+    "answers": [
+      "week"
+    ]
+  },
+  {
+    "id": "a1-letto",
+    "prompt": "bed",
+    "answers": [
+      "letto"
+    ]
+  },
+  {
+    "id": "a1-ragazzina",
+    "prompt": "little girl;young girl",
+    "answers": [
+      "ragazzina"
+    ]
+  },
+  {
+    "id": "a1-babbo",
+    "prompt": "dad;father",
+    "answers": [
+      "babbo"
+    ]
+  },
+  {
+    "id": "a1-succo",
+    "prompt": "juice",
+    "answers": [
+      "succo"
+    ]
+  },
+  {
+    "id": "a1-supermercato",
+    "prompt": "supermarket",
+    "answers": [
+      "supermercato"
+    ]
+  },
+  {
+    "id": "a1-andavano",
+    "prompt": "they were going;they used to go",
+    "answers": [
+      "andavano"
+    ]
+  },
+  {
+    "id": "a1-sci",
+    "prompt": "ski;skiing",
+    "answers": [
+      "sci"
+    ]
+  },
+  {
+    "id": "a1-wifi",
+    "prompt": "Wi-Fi",
+    "answers": [
+      "wifi"
+    ]
+  },
+  {
+    "id": "a1-capodanno",
+    "prompt": "New Year's Day",
+    "answers": [
+      "capodanno"
+    ]
+  },
+  {
+    "id": "a1-chilo",
+    "prompt": "kilogram;kilo",
+    "answers": [
+      "chilo"
+    ]
+  },
+  {
+    "id": "a1-litro",
+    "prompt": "liter",
+    "answers": [
+      "litro"
+    ]
+  },
+  {
+    "id": "a1-sete",
+    "prompt": "thirst",
+    "answers": [
+      "sete"
+    ]
+  },
+  {
+    "id": "a1-quaranta",
+    "prompt": "forty",
+    "answers": [
+      "quaranta"
+    ]
+  },
+  {
+    "id": "a1-sporco",
+    "prompt": "dirty",
+    "answers": [
+      "sporco"
+    ]
+  },
+  {
+    "id": "a1-mela",
+    "prompt": "apple",
+    "answers": [
+      "mela"
+    ]
+  },
+  {
+    "id": "a1-sessanta",
+    "prompt": "sixty",
+    "answers": [
+      "sessanta"
+    ]
+  },
+  {
+    "id": "a1-marrone",
+    "prompt": "brown",
+    "answers": [
+      "marrone"
+    ]
+  },
+  {
+    "id": "a1-sedici",
+    "prompt": "sixteen",
+    "answers": [
+      "sedici"
+    ]
+  },
+  {
+    "id": "a1-svegliare",
+    "prompt": "to wake up",
+    "answers": [
+      "svegliare"
+    ]
+  },
+  {
+    "id": "a1-sognare",
+    "prompt": "to dream",
+    "answers": [
+      "sognare"
+    ]
+  },
+  {
+    "id": "a1-abitare",
+    "prompt": "to live;to reside",
+    "answers": [
+      "abitare"
+    ]
+  },
+  {
+    "id": "a1-cola",
+    "prompt": "cola",
+    "answers": [
+      "cola"
+    ]
+  },
+  {
+    "id": "a1-limone",
+    "prompt": "lemon",
+    "answers": [
+      "limone"
+    ]
+  },
+  {
+    "id": "a1-scrivania",
+    "prompt": "desk",
+    "answers": [
+      "scrivania"
+    ]
+  },
+  {
+    "id": "a1-zaino",
+    "prompt": "backpack",
+    "answers": [
+      "zaino"
+    ]
+  },
+  {
+    "id": "a1-accendere",
+    "prompt": "to turn on;to light",
+    "answers": [
+      "accendere"
+    ]
+  },
+  {
+    "id": "a1-biondo",
+    "prompt": "blonde",
+    "answers": [
+      "biondo"
+    ]
+  },
+  {
+    "id": "a1-coniglio",
+    "prompt": "rabbit",
+    "answers": [
+      "coniglio"
+    ]
+  },
+  {
+    "id": "a1-disegnare",
+    "prompt": "to draw",
+    "answers": [
+      "disegnare"
+    ]
+  },
+  {
+    "id": "a1-tredici",
+    "prompt": "thirteen",
+    "answers": [
+      "tredici"
+    ]
+  },
+  {
+    "id": "a1-gridare",
+    "prompt": "to shout;to yell",
+    "answers": [
+      "gridare"
+    ]
+  },
+  {
+    "id": "a1-panino",
+    "prompt": "sandwich;roll",
+    "answers": [
+      "panino"
+    ]
+  },
+  {
+    "id": "a1-piovere",
+    "prompt": "to rain",
+    "answers": [
+      "piovere"
+    ]
+  },
+  {
+    "id": "a1-pomodoro",
+    "prompt": "tomato",
+    "answers": [
+      "pomodoro"
+    ]
+  },
+  {
+    "id": "a1-farmacia",
+    "prompt": "pharmacy;drugstore",
+    "answers": [
+      "farmacia"
+    ]
+  },
+  {
+    "id": "a1-tazza",
+    "prompt": "cup;mug",
+    "answers": [
+      "tazza"
+    ]
+  },
+  {
+    "id": "a1-automobile",
+    "prompt": "car;automobile",
+    "answers": [
+      "automobile"
+    ]
+  },
+  {
+    "id": "a1-divertirsi",
+    "prompt": "to have fun;to enjoy oneself",
+    "answers": [
+      "divertirsi"
+    ]
+  },
+  {
+    "id": "a1-domandare",
+    "prompt": "to ask;to demand",
+    "answers": [
+      "domandare"
+    ]
+  },
+  {
+    "id": "a1-duecento",
+    "prompt": "two hundred",
+    "answers": [
+      "duecento"
+    ]
+  },
+  {
+    "id": "a1-novanta",
+    "prompt": "ninety",
+    "answers": [
+      "novanta"
+    ]
+  },
+  {
+    "id": "a1-ottanta",
+    "prompt": "eighty",
+    "answers": [
+      "ottanta"
+    ]
+  },
+  {
+    "id": "a1-arancione",
+    "prompt": "orange",
+    "answers": [
+      "arancione"
+    ]
+  },
+  {
+    "id": "a1-diciotto",
+    "prompt": "eighteen",
+    "answers": [
+      "diciotto"
+    ]
+  },
+  {
+    "id": "a1-lavare",
+    "prompt": "to wash",
+    "answers": [
+      "lavare"
+    ]
+  },
+  {
+    "id": "a1-sapone",
+    "prompt": "soap",
+    "answers": [
+      "sapone"
+    ]
+  },
+  {
+    "id": "a1-quattordici",
+    "prompt": "fourteen",
+    "answers": [
+      "quattordici"
+    ]
+  },
+  {
+    "id": "a1-riposare",
+    "prompt": "to rest",
+    "answers": [
+      "riposare"
+    ]
+  },
+  {
+    "id": "a1-settanta",
+    "prompt": "seventy",
+    "answers": [
+      "settanta"
+    ]
+  },
+  {
+    "id": "a1-regalare",
+    "prompt": "to give (as a gift)",
+    "answers": [
+      "regalare"
+    ]
+  },
+  {
+    "id": "a1-verdura",
+    "prompt": "vegetable",
+    "answers": [
+      "verdura"
+    ]
+  },
+  {
+    "id": "a1-gonna",
+    "prompt": "skirt",
+    "answers": [
+      "gonna"
+    ]
+  },
+  {
+    "id": "a1-menu",
+    "prompt": "menu",
+    "answers": [
+      "menu"
+    ]
+  },
+  {
+    "id": "a1-professoressa",
+    "prompt": "female professor;teacher",
+    "answers": [
+      "professoressa"
+    ]
+  },
+  {
+    "id": "a1-venerdi-2",
+    "prompt": "Friday",
+    "answers": [
+      "venerdi"
+    ]
+  },
+  {
+    "id": "a1-bimba",
+    "prompt": "little girl;baby girl",
+    "answers": [
+      "bimba"
+    ]
+  },
+  {
+    "id": "a1-insalata",
+    "prompt": "salad",
+    "answers": [
+      "insalata"
+    ]
+  },
+  {
+    "id": "a1-lampada",
+    "prompt": "lamp",
+    "answers": [
+      "lampada"
+    ]
+  },
+  {
+    "id": "a1-panna",
+    "prompt": "cream",
+    "answers": [
+      "panna"
+    ]
+  },
+  {
+    "id": "a1-prosciutto",
+    "prompt": "ham;prosciutto",
+    "answers": [
+      "prosciutto"
+    ]
+  },
+  {
+    "id": "a1-spaghetto",
+    "prompt": "spaghetti (single strand)",
+    "answers": [
+      "spaghetto"
+    ]
+  },
+  {
+    "id": "a1-banana",
+    "prompt": "banana",
+    "answers": [
+      "banana"
+    ]
+  },
+  {
+    "id": "a1-menu-2",
+    "prompt": "menu",
+    "answers": [
+      "menù"
+    ]
+  },
+  {
+    "id": "a1-cacca",
+    "prompt": "poop;poo",
+    "answers": [
+      "cacca"
+    ]
+  },
+  {
+    "id": "a1-tondo",
+    "prompt": "round",
+    "answers": [
+      "tondo"
+    ]
+  },
+  {
+    "id": "a1-cioccolata",
+    "prompt": "chocolate (drink or bar)",
+    "answers": [
+      "cioccolata"
+    ]
+  },
+  {
+    "id": "a1-matita",
+    "prompt": "pencil",
+    "answers": [
+      "matita"
+    ]
+  },
+  {
+    "id": "a1-pizzeria",
+    "prompt": "pizzeria",
+    "answers": [
+      "pizzeria"
+    ]
+  },
+  {
+    "id": "a1-allegro",
+    "prompt": "cheerful;happy",
+    "answers": [
+      "allegro"
+    ]
+  },
+  {
+    "id": "a1-cappotto",
+    "prompt": "coat",
+    "answers": [
+      "cappotto"
+    ]
+  },
+  {
+    "id": "a1-hamburger",
+    "prompt": "hamburger",
+    "answers": [
+      "hamburger"
+    ]
+  },
+  {
+    "id": "a1-mucca",
+    "prompt": "cow",
+    "answers": [
+      "mucca"
+    ]
+  },
+  {
+    "id": "a1-pentola",
+    "prompt": "pot",
+    "answers": [
+      "pentola"
+    ]
+  },
+  {
+    "id": "a1-quaderno",
+    "prompt": "notebook",
+    "answers": [
+      "quaderno"
+    ]
+  },
+  {
+    "id": "a1-diciassette",
+    "prompt": "seventeen",
+    "answers": [
+      "diciassette"
+    ]
+  },
+  {
+    "id": "a1-nuotare",
+    "prompt": "to swim",
+    "answers": [
+      "nuotare"
+    ]
+  },
+  {
+    "id": "a1-zuppa",
+    "prompt": "soup",
+    "answers": [
+      "zuppa"
+    ]
+  },
+  {
+    "id": "a1-calzino",
+    "prompt": "sock",
+    "answers": [
+      "calzino"
+    ]
+  },
+  {
+    "id": "a1-cucchiaio",
+    "prompt": "spoon",
+    "answers": [
+      "cucchiaio"
+    ]
+  },
+  {
+    "id": "a1-venticinque",
+    "prompt": "twenty-five",
+    "answers": [
+      "venticinque"
+    ]
+  },
+  {
+    "id": "a1-cartolina",
+    "prompt": "postcard",
+    "answers": [
+      "cartolina"
+    ]
+  },
+  {
+    "id": "a1-cinquant-anni",
+    "prompt": "fifty years",
+    "answers": [
+      "cinquant'anni"
+    ]
+  },
+  {
+    "id": "a1-ventiquattro",
+    "prompt": "twenty-four",
+    "answers": [
+      "ventiquattro"
+    ]
+  },
+  {
+    "id": "a1-gatta",
+    "prompt": "female cat;cat",
+    "answers": [
+      "gatta"
+    ]
+  },
+  {
+    "id": "a1-arancia",
+    "prompt": "orange",
+    "answers": [
+      "arancia"
+    ]
+  },
+  {
+    "id": "a1-mozzarella",
+    "prompt": "mozzarella",
+    "answers": [
+      "mozzarella"
+    ]
+  },
+  {
+    "id": "a1-ombrello",
+    "prompt": "umbrella",
+    "answers": [
+      "ombrello"
+    ]
+  },
+  {
+    "id": "a1-parmigiano",
+    "prompt": "Parmesan cheese",
+    "answers": [
+      "parmigiano"
+    ]
+  },
+  {
+    "id": "a1-salutato",
+    "prompt": "greeted;waved to",
+    "answers": [
+      "salutato"
+    ]
+  },
+  {
+    "id": "a1-toccato",
+    "prompt": "touched",
+    "answers": [
+      "toccato"
+    ]
+  },
+  {
+    "id": "a1-alfabeto",
+    "prompt": "alphabet",
+    "answers": [
+      "alfabeto"
+    ]
+  },
+  {
+    "id": "a1-televisore",
+    "prompt": "television set",
+    "answers": [
+      "televisore"
+    ]
+  },
+  {
+    "id": "a1-cappuccino",
+    "prompt": "cappuccino",
+    "answers": [
+      "cappuccino"
+    ]
+  },
+  {
+    "id": "a1-incontrarsi",
+    "prompt": "to meet (each other)",
+    "answers": [
+      "incontrarsi"
+    ]
+  },
+  {
+    "id": "a1-diciannove",
+    "prompt": "nineteen",
+    "answers": [
+      "diciannove"
+    ]
+  },
+  {
+    "id": "a1-maglione",
+    "prompt": "sweater;jumper",
+    "answers": [
+      "maglione"
+    ]
+  },
+  {
+    "id": "a1-semaforo",
+    "prompt": "traffic light",
+    "answers": [
+      "semaforo"
+    ]
+  },
+  {
+    "id": "a1-telefonino",
+    "prompt": "mobile phone;cell phone",
+    "answers": [
+      "telefonino"
+    ]
+  },
+  {
+    "id": "a1-cenare",
+    "prompt": "to dine",
+    "answers": [
+      "cenare"
+    ]
+  },
+  {
+    "id": "a1-pera",
+    "prompt": "pear",
+    "answers": [
+      "pera"
+    ]
+  },
+  {
+    "id": "a1-telefonare",
+    "prompt": "to call (on the phone)",
+    "answers": [
+      "telefonare"
+    ]
+  },
+  {
+    "id": "a1-fragola",
+    "prompt": "strawberry",
+    "answers": [
+      "fragola"
+    ]
+  },
+  {
+    "id": "a1-gattino",
+    "prompt": "kitten",
+    "answers": [
+      "gattino"
+    ]
+  },
+  {
+    "id": "a1-chiamarsi",
+    "prompt": "to be called;to call oneself",
+    "answers": [
+      "chiamarsi"
+    ]
+  },
+  {
+    "id": "a1-pipi",
+    "prompt": "pee;urine",
+    "answers": [
+      "pipì"
+    ]
+  },
+  {
+    "id": "a1-scusarsi",
+    "prompt": "to apologize",
+    "answers": [
+      "scusarsi"
+    ]
+  },
+  {
+    "id": "a1-cuocere",
+    "prompt": "to cook;to bake",
+    "answers": [
+      "cuocere"
+    ]
+  },
+  {
+    "id": "a1-carota",
+    "prompt": "carrot",
+    "answers": [
+      "carota"
+    ]
+  },
+  {
+    "id": "a1-lavarsi",
+    "prompt": "to wash oneself",
+    "answers": [
+      "lavarsi"
+    ]
+  },
+  {
+    "id": "a1-zucchina",
+    "prompt": "zucchini;courgette",
+    "answers": [
+      "zucchina"
+    ]
+  },
+  {
+    "id": "a1-fratellino",
+    "prompt": "little brother",
+    "answers": [
+      "fratellino"
+    ]
+  },
+  {
+    "id": "a1-passeggiare",
+    "prompt": "to walk;to stroll",
+    "answers": [
+      "passeggiare"
+    ]
+  },
+  {
+    "id": "a1-studentessa",
+    "prompt": "female student",
+    "answers": [
+      "studentessa"
+    ]
+  },
+  {
+    "id": "a1-ananas",
+    "prompt": "pineapple",
+    "answers": [
+      "ananas"
+    ]
+  },
+  {
+    "id": "a1-maestra",
+    "prompt": "female teacher (primary school)",
+    "answers": [
+      "maestra"
+    ]
+  },
+  {
+    "id": "a1-forchetta",
+    "prompt": "fork",
+    "answers": [
+      "forchetta"
+    ]
+  },
+  {
+    "id": "a1-pappa",
+    "prompt": "baby food;mush",
+    "answers": [
+      "pappa"
+    ]
+  },
+  {
+    "id": "a1-incominciare",
+    "prompt": "to begin;to start",
+    "answers": [
+      "incominciare"
+    ]
+  },
+  {
+    "id": "a1-ventidue",
+    "prompt": "twenty-two",
+    "answers": [
+      "ventidue"
+    ]
+  },
+  {
+    "id": "a1-minestra",
+    "prompt": "soup;minestrone",
+    "answers": [
+      "minestra"
+    ]
+  },
+  {
+    "id": "a1-lasagna",
+    "prompt": "lasagna",
+    "answers": [
+      "lasagna"
+    ]
+  },
+  {
+    "id": "a1-asciugamano",
+    "prompt": "towel",
+    "answers": [
+      "asciugamano"
+    ]
+  },
+  {
+    "id": "a1-bibita",
+    "prompt": "drink;beverage",
+    "answers": [
+      "bibita"
+    ]
+  },
+  {
+    "id": "a1-ventuno",
+    "prompt": "twenty-one",
+    "answers": [
+      "ventuno"
+    ]
+  },
+  {
+    "id": "a1-pranzare",
+    "prompt": "to have lunch",
+    "answers": [
+      "pranzare"
+    ]
+  },
+  {
+    "id": "a1-cioccolatino",
+    "prompt": "chocolate candy;praline",
+    "answers": [
+      "cioccolatino"
+    ]
+  },
+  {
+    "id": "a1-danzare",
+    "prompt": "to dance",
+    "answers": [
+      "danzare"
+    ]
+  },
+  {
+    "id": "a1-chilogrammo",
+    "prompt": "kilogram",
+    "answers": [
+      "chilogrammo"
+    ]
+  },
+  {
+    "id": "a1-colorare",
+    "prompt": "to color;to paint",
+    "answers": [
+      "colorare"
+    ]
+  },
+  {
+    "id": "a1-gelateria",
+    "prompt": "ice cream shop",
+    "answers": [
+      "gelateria"
+    ]
+  },
+  {
+    "id": "a1-ventotto",
+    "prompt": "twenty-eight",
+    "answers": [
+      "ventotto"
+    ]
+  },
+  {
+    "id": "a1-sandwich",
+    "prompt": "sandwich",
+    "answers": [
+      "sandwich"
+    ]
+  },
+  {
+    "id": "a1-trentacinque",
+    "prompt": "thirty-five",
+    "answers": [
+      "trentacinque"
+    ]
+  },
+  {
+    "id": "a1-ventisette",
+    "prompt": "twenty-seven",
+    "answers": [
+      "ventisette"
+    ]
+  },
+  {
+    "id": "a1-wc",
+    "prompt": "toilet;water closet",
+    "answers": [
+      "wc"
+    ]
+  },
+  {
+    "id": "a1-ventisei",
+    "prompt": "twenty-six",
+    "answers": [
+      "ventisei"
+    ]
+  },
+  {
+    "id": "a1-ciliegia",
+    "prompt": "cherry",
+    "answers": [
+      "ciliegia"
+    ]
+  },
+  {
+    "id": "a1-su",
+    "prompt": "up;upstairs",
+    "answers": [
+      "sù"
+    ]
+  },
+  {
+    "id": "a1-trentadue",
+    "prompt": "thirty-two",
+    "answers": [
+      "trentadue"
+    ]
+  },
+  {
+    "id": "a1-quarantacinque",
+    "prompt": "forty-five",
+    "answers": [
+      "quarantacinque"
+    ]
+  },
+  {
+    "id": "a1-zeta",
+    "prompt": "Z (letter)",
+    "answers": [
+      "zeta"
+    ]
+  },
+  {
+    "id": "a1-tiramisu",
+    "prompt": "tiramisu",
+    "answers": [
+      "tiramisù"
+    ]
+  },
+  {
+    "id": "a1-trentasei",
+    "prompt": "thirty-six",
+    "answers": [
+      "trentasei"
+    ]
+  },
+  {
+    "id": "a1-croissant",
+    "prompt": "croissant",
+    "answers": [
+      "croissant"
+    ]
+  },
+  {
+    "id": "a1-lattuga",
+    "prompt": "lettuce",
+    "answers": [
+      "lattuga"
+    ]
+  },
+  {
+    "id": "a1-svegliarsi",
+    "prompt": "to wake up",
+    "answers": [
+      "svegliarsi"
+    ]
+  },
+  {
+    "id": "a1-trentuno",
+    "prompt": "thirty-one",
+    "answers": [
+      "trentuno"
+    ]
+  },
+  {
+    "id": "a1-ventinove",
+    "prompt": "twenty-nine",
+    "answers": [
+      "ventinove"
+    ]
+  },
+  {
+    "id": "a1-ventitre",
+    "prompt": "twenty-three",
+    "answers": [
+      "ventitré"
+    ]
+  },
+  {
+    "id": "a1-quarantadue",
+    "prompt": "forty-two",
+    "answers": [
+      "quarantadue"
+    ]
+  },
+  {
+    "id": "a1-miao",
+    "prompt": "meow",
+    "answers": [
+      "miao"
+    ]
+  },
+  {
+    "id": "a1-supermarket",
+    "prompt": "supermarket",
+    "answers": [
+      "supermarket"
+    ]
+  },
+  {
+    "id": "a1-trentaquattro",
+    "prompt": "thirty-four",
+    "answers": [
+      "trentaquattro"
+    ]
+  },
+  {
+    "id": "a1-amarsi",
+    "prompt": "to love each other;oneself",
+    "answers": [
+      "amarsi"
+    ]
+  },
+  {
+    "id": "a1-claro",
+    "prompt": "clear;light (color)",
+    "answers": [
+      "claro"
+    ]
+  },
+  {
+    "id": "a1-cugina",
+    "prompt": "female cousin",
+    "answers": [
+      "cugina"
+    ]
+  },
+  {
+    "id": "a1-effe",
+    "prompt": "F (the letter)",
+    "answers": [
+      "effe"
+    ]
+  },
+  {
+    "id": "a1-trentotto",
+    "prompt": "thirty-eight",
+    "answers": [
+      "trentotto"
+    ]
+  },
+  {
+    "id": "a1-tovagliolo",
+    "prompt": "napkin",
+    "answers": [
+      "tovagliolo"
+    ]
+  },
+  {
+    "id": "a1-trentanove",
+    "prompt": "thirty-nine",
+    "answers": [
+      "trentanove"
+    ]
+  }
+]

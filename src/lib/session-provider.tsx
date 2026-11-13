@@ -3,40 +3,16 @@ import { useCallback, useMemo, useState, type ReactNode } from "react";
 import {
   answerCurrentCard,
   createSession,
-  type Flashcard,
   type Session,
 } from "./session";
 import { SessionContext, type SessionContextValue } from "./session-context";
-
-const starterDeck: Flashcard[] = Array.from({ length: 50 }, (_, index) => {
-  const baseDeck: Flashcard[] = [
-    { id: "greeting", prompt: "hello", answers: ["ciao", "buongiorno"] },
-    { id: "water", prompt: "water", answers: ["acqua", "l'acqua"] },
-    { id: "coffee", prompt: "coffee", answers: ["caffè", "caffe"] },
-    { id: "friend", prompt: "friend", answers: ["amico", "amica"] },
-    { id: "thanks", prompt: "thanks", answers: ["grazie"] },
-    { id: "family", prompt: "family", answers: ["famiglia"] },
-    { id: "house", prompt: "house", answers: ["casa"] },
-    { id: "book", prompt: "book", answers: ["libro"] },
-    { id: "school", prompt: "school", answers: ["scuola"] },
-    { id: "music", prompt: "music", answers: ["musica"] },
-    { id: "day", prompt: "day", answers: ["giorno"] },
-    { id: "night", prompt: "night", answers: ["notte"] },
-  ];
-
-  const card = baseDeck[index % baseDeck.length];
-
-  return {
-    ...card,
-    id: `${card.id}-${index}`,
-  };
-});
+import a1Deck from "@/data/decks/a1.json";
 
 export function SessionProvider({ children }: { children: ReactNode }) {
   const [session, setSession] = useState<Session | null>(null);
 
   const startSession = useCallback((deckSize: number) => {
-    setSession(createSession(starterDeck, deckSize));
+    setSession(createSession(a1Deck, deckSize));
   }, []);
 
   const submitAnswer = useCallback(
@@ -44,7 +20,7 @@ export function SessionProvider({ children }: { children: ReactNode }) {
       if (!session) {
         return {
           correct: false,
-          session: createSession(starterDeck, 10),
+          session: createSession(a1Deck, 10),
         };
       }
 
