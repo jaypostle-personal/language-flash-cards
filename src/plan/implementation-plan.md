@@ -35,18 +35,6 @@ Set up shadcn/ui and add only the components needed initially: Button, Card, Inp
 
 **Verify:** Render a small component preview and check keyboard focus styles.
 
-### 4. `data: add sourced Italian vocabulary` ⏳
-
-Use the supplied `src/data/italian.json` as a source candidate, not as the app's final runtime format. It currently contains 16,887 entries (rather than 40,000), English glosses, CEFR labels, part of speech, frequency rank, and example sentences. Keep the downloaded source unchanged and create a separate curated app dataset of 1,000 beginner-focused entries, prioritizing A1/A2 and lower frequency rank. Convert each entry to a stable app schema with an ID, Italian lemma, English prompt/glosses, accepted Italian answer(s), CEFR level, part of speech, and optional example sentence.
-
-Do not treat every semicolon-separated English gloss as a distinct answer, or `romanization` as pronunciation data; review ambiguous translations and examples. Add the correct Italian article/gender for curated nouns so the quiz can teach and check articles. Exclude or repair malformed entries and manually review the selected vocabulary for learner suitability.
-
-**Reverse-mode source requirement:** The current source's English translations may contain semicolon-separated senses (for example, `am;are`) that are not always interchangeable answers. Find and verify a source or curated word set that supports reliable Italian → English grading, with clearly defined accepted English answers and enough context to disambiguate meanings. Do not enable reverse mode by blindly splitting the current gloss strings; record the source and licensing/attribution details for the replacement or supplemental data.
-
-Record the dataset URL, authors/contributors, retrieval date, transformation steps, and license in a data attribution file. The linked repository advertises an MIT license and an attribution file, but also describes frequency lists compiled from varied sources and LLM-assisted editing; verify that the license and upstream source terms cover the actual downloaded data before redistributing it.
-
-**Verify:** Validate exactly 1,000 unique curated entries, required fields and allowed CEFR/POS values, non-empty prompts and answers, and noun article coverage. Confirm that reverse-direction answer keys are unambiguous and reviewed. Confirm source attribution and redistribution terms before shipping the dataset.
-
 ### 5. `test: add quiz logic tests` ✅
 
 Add a test runner and tests for answer normalization: case-insensitivity, accent handling, and accepted alternatives.
@@ -83,19 +71,37 @@ Add a multi-select level picker for A1, A2, B1, B2, C1, and C2. Default to A1 wh
 
 **Verify:** Picker supports one or multiple levels, defaults to A1, restores the last selected levels, never restores session progress, allocates cards evenly (within one card where possible), and does not include duplicate Italian words. Unit tests, lint, production build, and browser checks pass.
 
-### 13. `feat: add optional Italian-to-English practice`
-
-Keep English → Italian as the default. Add a visually secondary direction control before session start so learners can optionally choose Italian → English for the whole session. Use reviewed English accepted-answer data from the source work in Step 4; keep the direction consistent for every card in the session.
-
-**Verify:** Default direction remains English → Italian; the optional reverse direction presents Italian prompts and validates against reviewed English answers; feedback and completion results show the expected answer for the chosen direction. Tests cover each direction and ambiguous source glosses are not accepted without review.
-
 ### 14. `feat: show the CEFR level while testing a card` ✅
 
 Store each card's CEFR level in the generated deck data and show it in a compact badge at the top-right of the quiz card header.
 
 **Verify:** Generated cards retain their source CEFR level; the current quiz card shows its level; tests, lint, and build pass.
 
-### 15. `feat: show what type of word it is e.g. adjective, noun, etc`
+### 15. `feat: show what type of word it is e.g. adjective, noun, etc` ✅
+
+Preserve the source part-of-speech tag on generated cards and show it on the quiz card next to the CEFR level. Omit the badge when the source has no recognized part-of-speech value.
+
+**Verify:** Supported source tags are mapped to generated cards and displayed accessibly on the quiz card; tests, lint, and build pass.
+
+## Remaining work
+
+### 4. `data: add sourced Italian vocabulary` ⏳
+
+Use the supplied `src/data/italian.json` as a source candidate, not as the app's final runtime format. It currently contains 16,887 entries (rather than 40,000), English glosses, CEFR labels, part of speech, frequency rank, and example sentences. Keep the downloaded source unchanged and create a separate curated app dataset of 1,000 beginner-focused entries, prioritizing A1/A2 and lower frequency rank. Convert each entry to a stable app schema with an ID, Italian lemma, English prompt/glosses, accepted Italian answer(s), CEFR level, part of speech, and optional example sentence.
+
+Do not treat every semicolon-separated English gloss as a distinct answer, or `romanization` as pronunciation data; review ambiguous translations and examples. Add the correct Italian article/gender for curated nouns so the quiz can teach and check articles. Exclude or repair malformed entries and manually review the selected vocabulary for learner suitability.
+
+**Reverse-mode source requirement:** The current source's English translations may contain semicolon-separated senses (for example, `am;are`) that are not always interchangeable answers. Find and verify a source or curated word set that supports reliable Italian → English grading, with clearly defined accepted English answers and enough context to disambiguate meanings. Do not enable reverse mode by blindly splitting the current gloss strings; record the source and licensing/attribution details for the replacement or supplemental data.
+
+Record the dataset URL, authors/contributors, retrieval date, transformation steps, and license in a data attribution file. The linked repository advertises an MIT license and an attribution file, but also describes frequency lists compiled from varied sources and LLM-assisted editing; verify that the license and upstream source terms cover the actual downloaded data before redistributing it.
+
+**Verify:** Validate exactly 1,000 unique curated entries, required fields and allowed CEFR/POS values, non-empty prompts and answers, and noun article coverage. Confirm that reverse-direction answer keys are unambiguous and reviewed. Confirm source attribution and redistribution terms before shipping the dataset.
+
+### 13. `feat: add optional Italian-to-English practice`
+
+Keep English → Italian as the default. Add a visually secondary direction control before session start so learners can optionally choose Italian → English for the whole session. Use reviewed English accepted-answer data from the source work in Step 4; keep the direction consistent for every card in the session.
+
+**Verify:** Default direction remains English → Italian; the optional reverse direction presents Italian prompts and validates against reviewed English answers; feedback and completion results show the expected answer for the chosen direction. Tests cover each direction and ambiguous source glosses are not accepted without review.
 
 ### 16. `feat: improve our source data`
 
@@ -106,6 +112,11 @@ Store each card's CEFR level in the generated deck data and show it in a compact
 
 3. Fix errors
    "This is the first time I come here" is grammatically incorrect in English
+
+4. require articles e.g. il libro
+
+5. fix errors
+   e.g. store said the answer was "store" but it should be negozio or something else
 
 ## Out of scope for the first release
 

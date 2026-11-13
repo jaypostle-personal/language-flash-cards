@@ -1,4 +1,4 @@
-import type { Flashcard } from "../lib/session/session.js";
+import type { Flashcard, PartOfSpeech } from "../lib/session/session.js";
 
 export const italianDeckLevels = ["A1", "A2", "B1", "B2", "C1", "C2"] as const;
 
@@ -10,6 +10,7 @@ type ItalianSourceEntry = {
   useful_for_flashcard?: unknown;
   cefr_level?: unknown;
   english_translation?: unknown;
+  pos?: unknown;
   example_sentence_english?: unknown;
   word_frequency?: unknown;
 };
@@ -17,6 +18,16 @@ type ItalianSourceEntry = {
 function isSourceEntry(value: unknown): value is ItalianSourceEntry {
   return typeof value === "object" && value !== null;
 }
+
+const supportedPartsOfSpeech: readonly PartOfSpeech[] = [
+  "noun",
+  "verb",
+  "adjective",
+  "adverb",
+  "pronoun",
+  "adverbial phrase",
+  "interjection",
+];
 
 function createCardId(level: ItalianDeckLevel, word: string): string {
   const wordSlug = word
@@ -56,6 +67,11 @@ export function buildItalianDecks(entries: readonly unknown[]): ItalianDecks {
       typeof value.example_sentence_english === "string"
         ? value.example_sentence_english.trim()
         : "";
+    const sourcePartOfSpeech =
+      typeof value.pos === "string" ? value.pos.trim() : "";
+    const partOfSpeech = supportedPartsOfSpeech.find(
+      (supportedPartOfSpeech) => supportedPartOfSpeech === sourcePartOfSpeech,
+    );
 
     if (
       !italianDeckLevels.includes(level as ItalianDeckLevel) ||
@@ -81,6 +97,7 @@ export function buildItalianDecks(entries: readonly unknown[]): ItalianDecks {
       prompt,
       answers: [word],
       cefrLevel: deckLevel,
+      ...(partOfSpeech ? { partOfSpeech } : {}),
       ...(exampleSentenceEnglish ? { exampleSentenceEnglish } : {}),
     });
   }

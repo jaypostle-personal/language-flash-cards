@@ -10,6 +10,7 @@ describe("buildItalianDecks", () => {
         useful_for_flashcard: true,
         cefr_level: "A1",
         english_translation: "not",
+        pos: "adverb",
         example_sentence_english: "I do not speak Italian.",
         romanization: "ignored",
         word_frequency: 7,
@@ -19,6 +20,7 @@ describe("buildItalianDecks", () => {
         useful_for_flashcard: true,
         cefr_level: "A2",
         english_translation: "am;are",
+        pos: "verb",
       },
       {
         word: "sebbene",
@@ -34,6 +36,7 @@ describe("buildItalianDecks", () => {
         prompt: "not",
         answers: ["non"],
         cefrLevel: "A1",
+        partOfSpeech: "adverb",
         exampleSentenceEnglish: "I do not speak Italian.",
       },
     ]);
@@ -43,6 +46,7 @@ describe("buildItalianDecks", () => {
         prompt: "am;are",
         answers: ["sono"],
         cefrLevel: "A2",
+        partOfSpeech: "verb",
       },
     ]);
     expect(decks.C2).toEqual([

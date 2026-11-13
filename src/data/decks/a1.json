@@ -6,6 +6,7 @@
       "non"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I do not speak Italian."
   },
   {
@@ -15,6 +16,7 @@
       "è"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "He is tall."
   },
   {
@@ -24,6 +26,7 @@
       "sono"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I am Italian."
   },
   {
@@ -33,6 +36,7 @@
       "ha"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "He has a dog."
   },
   {
@@ -42,6 +46,7 @@
       "come"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "How are you?"
   },
   {
@@ -51,6 +56,7 @@
       "più"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I want more time."
   },
   {
@@ -60,6 +66,7 @@
       "anche"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I'm coming too."
   },
   {
@@ -69,6 +76,7 @@
       "ho"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I am hungry."
   },
   {
@@ -78,6 +86,7 @@
       "solo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I feel alone."
   },
   {
@@ -87,6 +96,7 @@
       "quando"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I don't know when he will arrive."
   },
   {
@@ -96,6 +106,7 @@
       "tutto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I ate all the bread."
   },
   {
@@ -105,6 +116,7 @@
       "cosa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "What do you want?"
   },
   {
@@ -114,6 +126,7 @@
       "prima"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "Do your homework before playing."
   },
   {
@@ -123,6 +136,7 @@
       "suo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "Her bag is red."
   },
   {
@@ -132,6 +146,7 @@
       "anno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Happy New Year!"
   },
   {
@@ -141,6 +156,7 @@
       "due"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I have two brothers."
   },
   {
@@ -150,6 +166,7 @@
       "fare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "We must do something."
   },
   {
@@ -159,6 +176,7 @@
       "così"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "It's not so easy."
   },
   {
@@ -168,6 +186,7 @@
       "dopo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I'll call you later."
   },
   {
@@ -177,6 +196,7 @@
       "poi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "First we eat, then we go to the cinema."
   },
   {
@@ -186,6 +206,7 @@
       "sempre"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "She always reads before sleeping."
   },
   {
@@ -195,6 +216,7 @@
       "ancora"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "He hasn't arrived yet."
   },
   {
@@ -204,6 +226,7 @@
       "molto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I am very tired."
   },
   {
@@ -213,6 +236,7 @@
       "mai"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I have never seen an elephant."
   },
   {
@@ -222,6 +246,7 @@
       "ogni"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "Every day I go to school."
   },
   {
@@ -231,6 +256,7 @@
       "altro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I want another coffee."
   },
   {
@@ -240,6 +266,7 @@
       "ora"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "What time is it?"
   },
   {
@@ -249,6 +276,7 @@
       "quanto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "How much does it cost?"
   },
   {
@@ -258,6 +286,7 @@
       "tempo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I don't have time."
   },
   {
@@ -267,6 +296,7 @@
       "dove"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "Where are you?"
   },
   {
@@ -276,6 +306,7 @@
       "vita"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Life is beautiful."
   },
   {
@@ -285,6 +316,7 @@
       "già"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I have already eaten."
   },
   {
@@ -294,6 +326,7 @@
       "secondo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "This is the second chapter."
   },
   {
@@ -303,6 +336,7 @@
       "bene"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I am well, thank you."
   },
   {
@@ -312,6 +346,7 @@
       "lavoro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I have a lot of work to do."
   },
   {
@@ -321,6 +356,7 @@
       "casa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I'm going home."
   },
   {
@@ -330,6 +366,7 @@
       "persona"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "He/She is a good person."
   },
   {
@@ -339,6 +376,7 @@
       "qui"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "Come here!"
   },
   {
@@ -348,6 +386,7 @@
       "dire"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "What do you want to say?"
   },
   {
@@ -357,6 +396,7 @@
       "giorno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Good day!"
   },
   {
@@ -366,6 +406,7 @@
       "grande"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The house is big."
   },
   {
@@ -375,6 +416,7 @@
       "primo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "This is my first book."
   },
   {
@@ -384,6 +426,7 @@
       "oggi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "Today the weather is good."
   },
   {
@@ -393,6 +436,7 @@
       "città"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I live in a big city."
   },
   {
@@ -402,6 +446,7 @@
       "nuovo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I bought a new car."
   },
   {
@@ -411,6 +456,7 @@
       "quale"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "Which book do you prefer?"
   },
   {
@@ -420,6 +466,7 @@
       "tre"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I have three books."
   },
   {
@@ -429,6 +476,7 @@
       "avere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I have a dog."
   },
   {
@@ -438,6 +486,7 @@
       "vedere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to see the movie."
   },
   {
@@ -447,6 +496,7 @@
       "sapere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I don't know the answer."
   },
   {
@@ -456,6 +506,7 @@
       "sotto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "The cat is under the table."
   },
   {
@@ -465,6 +516,7 @@
       "momento"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Wait a moment, please."
   },
   {
@@ -474,6 +526,7 @@
       "dovere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I have to leave now."
   },
   {
@@ -483,6 +536,7 @@
       "qualcosa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "There's something wrong."
   },
   {
@@ -492,6 +546,7 @@
       "troppo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "It's too hot here."
   },
   {
@@ -501,6 +556,7 @@
       "vero"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "It's a true story."
   },
   {
@@ -510,6 +566,7 @@
       "gente"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "There are many people here."
   },
   {
@@ -519,6 +576,7 @@
       "niente"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "There's nothing to do."
   },
   {
@@ -528,6 +586,7 @@
       "posto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Is there a free spot?"
   },
   {
@@ -537,6 +596,7 @@
       "fuori"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "Wait for me outside."
   },
   {
@@ -546,6 +606,7 @@
       "nome"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "What is your name?"
   },
   {
@@ -555,6 +616,7 @@
       "poco"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I have little time."
   },
   {
@@ -564,6 +626,7 @@
       "stare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "How are you? I am well."
   },
   {
@@ -573,6 +636,7 @@
       "andare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to go home."
   },
   {
@@ -582,6 +646,7 @@
       "qualcuno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "pronoun",
     "exampleSentenceEnglish": "There's someone at the door."
   },
   {
@@ -591,6 +656,7 @@
       "potere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Can I help you?"
   },
   {
@@ -600,6 +666,7 @@
       "volere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want a coffee, please."
   },
   {
@@ -609,6 +676,7 @@
       "male"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I feel bad today."
   },
   {
@@ -618,6 +686,7 @@
       "numero"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "What is your phone number?"
   },
   {
@@ -627,6 +696,7 @@
       "sì"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "Yes, of course I'm coming."
   },
   {
@@ -636,6 +706,7 @@
       "dare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Can you give me a hand?"
   },
   {
@@ -645,6 +716,7 @@
       "uomo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The man was walking down the street."
   },
   {
@@ -654,6 +726,7 @@
       "famiglia"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My family is very important to me."
   },
   {
@@ -663,6 +736,7 @@
       "donna"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The woman was reading a book."
   },
   {
@@ -672,6 +746,7 @@
       "italiano"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I speak a little Italian."
   },
   {
@@ -681,6 +756,7 @@
       "adesso"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I have to go now."
   },
   {
@@ -690,6 +766,7 @@
       "bisogno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I need help."
   },
   {
@@ -699,6 +776,7 @@
       "film"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's go see a movie."
   },
   {
@@ -708,6 +786,7 @@
       "centro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I live in the city center."
   },
   {
@@ -717,6 +796,7 @@
       "parlare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to learn to speak Italian."
   },
   {
@@ -726,6 +806,7 @@
       "scuola"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I go to school every day."
   },
   {
@@ -735,6 +816,7 @@
       "buono"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "This food is very good."
   },
   {
@@ -744,6 +826,7 @@
       "idea"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I have a good idea."
   },
   {
@@ -753,6 +836,7 @@
       "mano"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Give me your hand."
   },
   {
@@ -762,6 +846,7 @@
       "amico"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "He is my best friend."
   },
   {
@@ -771,6 +856,7 @@
       "importante"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "It's an important decision."
   },
   {
@@ -780,6 +866,7 @@
       "mese"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you next month."
   },
   {
@@ -789,6 +876,7 @@
       "parola"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "This is a new word for me."
   },
   {
@@ -798,6 +886,7 @@
       "scrivere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to write letters."
   },
   {
@@ -807,6 +896,7 @@
       "padre"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My father is a doctor."
   },
   {
@@ -816,6 +906,7 @@
       "pensare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "What do you think about it?"
   },
   {
@@ -825,6 +916,7 @@
       "piacere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I really like music."
   },
   {
@@ -834,6 +926,7 @@
       "porta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Close the door, please."
   },
   {
@@ -843,6 +936,7 @@
       "settimana"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you next week."
   },
   {
@@ -852,6 +946,7 @@
       "state"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "How are you today?"
   },
   {
@@ -861,6 +956,7 @@
       "trovare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I can't find my keys."
   },
   {
@@ -870,6 +966,7 @@
       "venire"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Do you want to come with us?"
   },
   {
@@ -879,6 +976,7 @@
       "leggere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to read books."
   },
   {
@@ -888,6 +986,7 @@
       "strada"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Our house is at the end of the street."
   },
   {
@@ -897,6 +996,7 @@
       "lungo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The river is very long."
   },
   {
@@ -906,6 +1006,7 @@
       "ragazzo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The boy is playing in the park."
   },
   {
@@ -915,6 +1016,7 @@
       "bello"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "What a beautiful day!"
   },
   {
@@ -924,6 +1026,7 @@
       "settembre"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My birthday is in September."
   },
   {
@@ -933,6 +1036,7 @@
       "marzo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We're going on vacation in March."
   },
   {
@@ -942,6 +1046,7 @@
       "notte"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Good night, everyone!"
   },
   {
@@ -951,6 +1056,7 @@
       "quattro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I have four books."
   },
   {
@@ -960,6 +1066,7 @@
       "bambino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The child plays in the park."
   },
   {
@@ -969,6 +1076,7 @@
       "libro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I am reading an interesting book."
   },
   {
@@ -978,6 +1086,7 @@
       "figlio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My son is five years old."
   },
   {
@@ -987,6 +1096,7 @@
       "prendere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to get a coffee."
   },
   {
@@ -996,6 +1106,7 @@
       "testa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My head hurts."
   },
   {
@@ -1005,6 +1116,7 @@
       "amore"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Love is a strong feeling."
   },
   {
@@ -1014,6 +1126,7 @@
       "madre"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My mother is a wonderful person."
   },
   {
@@ -1023,6 +1136,7 @@
       "gioco"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Children love to play."
   },
   {
@@ -1032,6 +1146,7 @@
       "maggio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My birthday is in May."
   },
   {
@@ -1041,6 +1156,7 @@
       "capire"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I can't understand what you're saying."
   },
   {
@@ -1050,6 +1166,7 @@
       "corpo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The human body is complex."
   },
   {
@@ -1059,6 +1176,7 @@
       "passare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to spend more time with my family."
   },
   {
@@ -1068,6 +1186,7 @@
       "ragazza"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The girl is reading a book."
   },
   {
@@ -1077,6 +1196,7 @@
       "tv"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Tonight we watch TV."
   },
   {
@@ -1086,6 +1206,7 @@
       "avanti"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "Let's go forward!"
   },
   {
@@ -1095,6 +1216,7 @@
       "euro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "It costs ten euros."
   },
   {
@@ -1104,6 +1226,7 @@
       "minuto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Wait a minute, please."
   },
   {
@@ -1113,6 +1236,7 @@
       "acqua"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a glass of water."
   },
   {
@@ -1122,6 +1246,7 @@
       "aprile"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My birthday is in April."
   },
   {
@@ -1131,6 +1256,7 @@
       "difficile"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "This exercise is very difficult."
   },
   {
@@ -1140,6 +1266,7 @@
       "domanda"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I have a question for you."
   },
   {
@@ -1149,6 +1276,7 @@
       "giugno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We go on vacation in June."
   },
   {
@@ -1158,6 +1286,7 @@
       "occhio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "He has blue eyes."
   },
   {
@@ -1167,6 +1296,7 @@
       "lì"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "The book is there on the table."
   },
   {
@@ -1176,6 +1306,7 @@
       "ottobre"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My birthday is in October."
   },
   {
@@ -1185,6 +1316,7 @@
       "sera"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Good evening everyone!"
   },
   {
@@ -1194,6 +1326,7 @@
       "cinque"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I have five apples."
   },
   {
@@ -1203,6 +1336,7 @@
       "luglio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Summer holidays start in July."
   },
   {
@@ -1212,6 +1346,7 @@
       "musica"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like listening to music."
   },
   {
@@ -1221,6 +1356,7 @@
       "inglese"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I speak a little English."
   },
   {
@@ -1230,6 +1366,7 @@
       "mettere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Can you put the book here?"
   },
   {
@@ -1239,6 +1376,7 @@
       "vivere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to live in Italy."
   },
   {
@@ -1248,6 +1386,7 @@
       "data"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "What is today's date?"
   },
   {
@@ -1257,6 +1396,7 @@
       "giornata"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Have a good day!"
   },
   {
@@ -1266,6 +1406,7 @@
       "lingua"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Italian is a beautiful language."
   },
   {
@@ -1275,6 +1416,7 @@
       "piccolo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I have a small dog."
   },
   {
@@ -1284,6 +1426,7 @@
       "febbraio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My birthday is in February."
   },
   {
@@ -1293,6 +1436,7 @@
       "ieri"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I saw him yesterday."
   },
   {
@@ -1302,6 +1446,7 @@
       "alto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "That tree is very tall."
   },
   {
@@ -1311,6 +1456,7 @@
       "dicembre"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Christmas is in December."
   },
   {
@@ -1320,6 +1466,7 @@
       "novembre"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My birthday is in November."
   },
   {
@@ -1329,6 +1476,7 @@
       "semplice"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The solution is very simple."
   },
   {
@@ -1338,6 +1486,7 @@
       "ultimo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "This is the last chapter."
   },
   {
@@ -1347,6 +1496,7 @@
       "agosto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We go on vacation in August."
   },
   {
@@ -1356,6 +1506,7 @@
       "mare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to swim in the sea."
   },
   {
@@ -1365,6 +1516,7 @@
       "piu"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I want more time."
   },
   {
@@ -1374,6 +1526,7 @@
       "gennaio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The new year starts in January."
   },
   {
@@ -1383,6 +1536,7 @@
       "giovane"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "He is a very young person."
   },
   {
@@ -1392,6 +1546,7 @@
       "guardare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Watch television."
   },
   {
@@ -1401,6 +1556,7 @@
       "classe"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The class is very noisy today."
   },
   {
@@ -1410,6 +1566,7 @@
       "continuare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "We must continue to work."
   },
   {
@@ -1419,6 +1576,7 @@
       "auto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a new car."
   },
   {
@@ -1428,6 +1586,7 @@
       "piazza"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We meet in the square."
   },
   {
@@ -1437,6 +1596,7 @@
       "aiuto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I need your help."
   },
   {
@@ -1446,6 +1606,7 @@
       "domani"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "See you tomorrow."
   },
   {
@@ -1455,6 +1616,7 @@
       "facile"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "This exercise is very easy."
   },
   {
@@ -1464,6 +1626,7 @@
       "presto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I will arrive soon."
   },
   {
@@ -1473,6 +1636,7 @@
       "cercare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I am looking for my keys."
   },
   {
@@ -1482,6 +1646,7 @@
       "mamma"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My mom always cooks well."
   },
   {
@@ -1491,6 +1656,7 @@
       "papa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My dad taught me how to swim."
   },
   {
@@ -1500,6 +1666,7 @@
       "lavorare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I have to work tomorrow."
   },
   {
@@ -1509,6 +1676,7 @@
       "piede"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My foot hurts."
   },
   {
@@ -1518,6 +1686,7 @@
       "felice"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am very happy to see you."
   },
   {
@@ -1527,6 +1696,7 @@
       "sentire"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I hear the music."
   },
   {
@@ -1536,6 +1706,7 @@
       "sole"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The sun is shining today."
   },
   {
@@ -1545,6 +1716,7 @@
       "cosi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "Is it so difficult?"
   },
   {
@@ -1554,6 +1726,7 @@
       "macchina"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a new car."
   },
   {
@@ -1563,6 +1736,7 @@
       "perdere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I don't want to lose the train."
   },
   {
@@ -1572,6 +1746,7 @@
       "età"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "What is your age?"
   },
   {
@@ -1581,6 +1756,7 @@
       "prezzo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "What is the price of this book?"
   },
   {
@@ -1590,6 +1766,7 @@
       "qua"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "Come here, please."
   },
   {
@@ -1599,6 +1776,7 @@
       "cambiare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to change my look."
   },
   {
@@ -1608,6 +1786,7 @@
       "camera"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My bedroom is big."
   },
   {
@@ -1617,6 +1796,7 @@
       "destra"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Turn right at the next intersection."
   },
   {
@@ -1626,6 +1806,7 @@
       "portare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Can you bring this book?"
   },
   {
@@ -1635,6 +1816,7 @@
       "chiaro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The sky is clear today."
   },
   {
@@ -1644,6 +1826,7 @@
       "chiedere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I need to ask for some information."
   },
   {
@@ -1653,6 +1836,7 @@
       "dieci"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I have ten euros."
   },
   {
@@ -1662,6 +1846,7 @@
       "diventare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to become a doctor."
   },
   {
@@ -1671,6 +1856,7 @@
       "fratello"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My brother is older than me."
   },
   {
@@ -1680,6 +1866,7 @@
       "partire"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "We leave tomorrow morning."
   },
   {
@@ -1689,6 +1876,7 @@
       "arrivare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "When do you arrive?"
   },
   {
@@ -1698,6 +1886,7 @@
       "carta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I need a sheet of paper."
   },
   {
@@ -1707,6 +1896,7 @@
       "festa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We're going to the party tonight."
   },
   {
@@ -1716,6 +1906,7 @@
       "francese"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I speak a little French."
   },
   {
@@ -1725,6 +1916,7 @@
       "libero"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am free this weekend."
   },
   {
@@ -1734,6 +1926,7 @@
       "tornare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "When are you coming back home?"
   },
   {
@@ -1743,6 +1936,7 @@
       "usare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Can I use your phone?"
   },
   {
@@ -1752,6 +1946,7 @@
       "prossimo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "See you next week."
   },
   {
@@ -1761,6 +1956,7 @@
       "cibo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like Italian food."
   },
   {
@@ -1770,6 +1966,7 @@
       "figlia"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My daughter is six years old."
   },
   {
@@ -1779,6 +1976,7 @@
       "vecchio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "My car is very old."
   },
   {
@@ -1788,6 +1986,7 @@
       "basso"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The table is too low."
   },
   {
@@ -1797,6 +1996,7 @@
       "costare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "How much does this book cost?"
   },
   {
@@ -1806,6 +2006,7 @@
       "entrare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "You can enter, the door is open."
   },
   {
@@ -1815,6 +2016,7 @@
       "iniziare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Let's start the lesson now."
   },
   {
@@ -1824,6 +2026,7 @@
       "nero"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I like black coffee."
   },
   {
@@ -1833,6 +2036,7 @@
       "telefono"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a new telephone."
   },
   {
@@ -1842,6 +2046,7 @@
       "colore"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "What is your favorite color?"
   },
   {
@@ -1851,6 +2056,7 @@
       "là"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "Put the book there, please."
   },
   {
@@ -1860,6 +2066,7 @@
       "mattina"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you tomorrow morning."
   },
   {
@@ -1869,6 +2076,7 @@
       "uscire"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "We need to go out early."
   },
   {
@@ -1878,6 +2086,7 @@
       "chiamare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I'll call you later."
   },
   {
@@ -1887,6 +2096,7 @@
       "lettera"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I received an important letter."
   },
   {
@@ -1896,6 +2106,7 @@
       "mangiare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to eat pasta."
   },
   {
@@ -1905,6 +2116,7 @@
       "pieno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The glass is full of water."
   },
   {
@@ -1914,6 +2126,7 @@
       "restare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to stay home tonight."
   },
   {
@@ -1923,6 +2136,7 @@
       "signore"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The gentleman is waiting."
   },
   {
@@ -1932,6 +2146,7 @@
       "animale"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My favorite animal is the dog."
   },
   {
@@ -1941,6 +2156,7 @@
       "cielo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The sky is blue today."
   },
   {
@@ -1950,6 +2166,7 @@
       "conoscere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I don't know that person."
   },
   {
@@ -1959,6 +2176,7 @@
       "finire"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "We need to finish the work by tonight."
   },
   {
@@ -1968,6 +2186,7 @@
       "lasciare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I left the keys on the table."
   },
   {
@@ -1977,6 +2196,7 @@
       "bianco"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The snow is white."
   },
   {
@@ -1986,6 +2206,7 @@
       "canzone"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "This is my favorite song."
   },
   {
@@ -1995,6 +2216,7 @@
       "mille"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "There are a thousand people at the party."
   },
   {
@@ -2004,6 +2226,7 @@
       "radio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I listen to the radio every morning."
   },
   {
@@ -2013,6 +2236,7 @@
       "aperto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The door is open."
   },
   {
@@ -2022,6 +2246,7 @@
       "sette"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "There are seven days in a week."
   },
   {
@@ -2031,6 +2256,7 @@
       "studente"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I am a university student."
   },
   {
@@ -2040,6 +2266,7 @@
       "tardi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I arrived late for the appointment."
   },
   {
@@ -2049,6 +2276,7 @@
       "bocca"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Open your mouth."
   },
   {
@@ -2058,6 +2286,7 @@
       "giocare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to play soccer."
   },
   {
@@ -2067,6 +2296,7 @@
       "rosso"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The car is red."
   },
   {
@@ -2076,6 +2306,7 @@
       "domenica"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you next Sunday."
   },
   {
@@ -2085,6 +2316,7 @@
       "sport"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My favorite sport is soccer."
   },
   {
@@ -2094,6 +2326,7 @@
       "marito"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My husband is a good cook."
   },
   {
@@ -2103,6 +2336,7 @@
       "pagare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I need to pay the bill."
   },
   {
@@ -2112,6 +2346,7 @@
       "capello"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I found a hair in the dish."
   },
   {
@@ -2121,6 +2356,7 @@
       "metro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's take the subway to go downtown."
   },
   {
@@ -2130,6 +2366,7 @@
       "aiutare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Can I help you?"
   },
   {
@@ -2139,6 +2376,7 @@
       "cane"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My dog is very loyal."
   },
   {
@@ -2148,6 +2386,7 @@
       "natale"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "At Christmas, we gather with the whole family."
   },
   {
@@ -2157,6 +2396,7 @@
       "cinema"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Shall we go to the cinema tonight?"
   },
   {
@@ -2166,6 +2406,7 @@
       "quest'anno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "This year we will go on vacation to Italy."
   },
   {
@@ -2175,6 +2416,7 @@
       "stasera"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "What are we doing tonight?"
   },
   {
@@ -2184,6 +2426,7 @@
       "amare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I love classical music."
   },
   {
@@ -2193,6 +2436,7 @@
       "benissimo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I'm very well, thank you."
   },
   {
@@ -2202,6 +2446,7 @@
       "parco"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's go to the park to play."
   },
   {
@@ -2211,6 +2456,7 @@
       "pronto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am ready to leave."
   },
   {
@@ -2220,6 +2466,7 @@
       "cucina"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The kitchen is the heart of the home."
   },
   {
@@ -2229,6 +2476,7 @@
       "otto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I have eight books."
   },
   {
@@ -2238,6 +2486,7 @@
       "rispondere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Please, answer my question."
   },
   {
@@ -2247,6 +2496,7 @@
       "banca"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I need to go to the bank."
   },
   {
@@ -2256,6 +2506,7 @@
       "sale"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Can you pass me the salt, please?"
   },
   {
@@ -2265,6 +2516,7 @@
       "stazione"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The train station is nearby."
   },
   {
@@ -2274,6 +2526,7 @@
       "bagno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Where is the bathroom, please?"
   },
   {
@@ -2283,6 +2536,7 @@
       "computer"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a new computer."
   },
   {
@@ -2292,6 +2546,7 @@
       "sabato"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you next Saturday."
   },
   {
@@ -2301,6 +2556,7 @@
       "fame"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I am very hungry."
   },
   {
@@ -2310,6 +2566,7 @@
       "sorella"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My sister lives in Rome."
   },
   {
@@ -2319,6 +2576,7 @@
       "verde"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The lawn is very green."
   },
   {
@@ -2328,6 +2586,7 @@
       "amica"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "She is my best friend."
   },
   {
@@ -2337,6 +2596,7 @@
       "bar"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's go to the bar for a coffee."
   },
   {
@@ -2346,6 +2606,7 @@
       "estate"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Summer is my favorite season."
   },
   {
@@ -2355,6 +2616,7 @@
       "caffè"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a coffee, please."
   },
   {
@@ -2364,6 +2626,7 @@
       "dolce"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "This dessert is delicious."
   },
   {
@@ -2373,6 +2636,7 @@
       "cento"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "There are a hundred people at the party."
   },
   {
@@ -2382,6 +2646,7 @@
       "giornale"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I read the newspaper every morning."
   },
   {
@@ -2391,6 +2656,7 @@
       "rosa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I like the color pink."
   },
   {
@@ -2400,6 +2666,7 @@
       "bravo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "You were very good at solving the problem."
   },
   {
@@ -2409,6 +2676,7 @@
       "comprare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to buy a new book."
   },
   {
@@ -2418,6 +2686,7 @@
       "museo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's go visit the museum tomorrow."
   },
   {
@@ -2427,6 +2696,7 @@
       "signora"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Mrs. Rossi is very kind."
   },
   {
@@ -2436,6 +2706,7 @@
       "vino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a glass of red wine."
   },
   {
@@ -2445,6 +2716,7 @@
       "zero"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The temperature dropped to zero degrees."
   },
   {
@@ -2454,6 +2726,7 @@
       "aspettare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I have to wait for the bus."
   },
   {
@@ -2463,6 +2736,7 @@
       "caldo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "It's very hot today."
   },
   {
@@ -2472,6 +2746,7 @@
       "caro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "This dress is too expensive."
   },
   {
@@ -2481,6 +2756,7 @@
       "cellulare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I forgot my mobile phone at home."
   },
   {
@@ -2490,6 +2766,7 @@
       "cena"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "What are we eating for dinner?"
   },
   {
@@ -2499,6 +2776,7 @@
       "giù"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "Go down the stairs."
   },
   {
@@ -2508,6 +2786,7 @@
       "americano"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "It's an American movie."
   },
   {
@@ -2517,6 +2796,7 @@
       "blu"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The sky is blue."
   },
   {
@@ -2526,6 +2806,7 @@
       "stanza"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My room is on the second floor."
   },
   {
@@ -2535,6 +2816,7 @@
       "studiare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I have to study for the exam."
   },
   {
@@ -2544,6 +2826,7 @@
       "venerdì"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you next Friday."
   },
   {
@@ -2553,6 +2836,7 @@
       "imparare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to learn Italian."
   },
   {
@@ -2562,6 +2846,7 @@
       "pomeriggio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you this afternoon."
   },
   {
@@ -2571,6 +2856,7 @@
       "signor"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Mr. Rossi has arrived."
   },
   {
@@ -2580,6 +2866,7 @@
       "contare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Can you count to ten?"
   },
   {
@@ -2589,6 +2876,7 @@
       "dormire"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I need to sleep eight hours a night."
   },
   {
@@ -2598,6 +2886,7 @@
       "pranzo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Shall we meet for lunch?"
   },
   {
@@ -2607,6 +2896,7 @@
       "aprire"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Can you open the window, please?"
   },
   {
@@ -2616,6 +2906,7 @@
       "freddo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "It's very cold today."
   },
   {
@@ -2625,6 +2916,7 @@
       "treno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I will take the train to Rome."
   },
   {
@@ -2634,6 +2926,7 @@
       "triste"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "He was very sad after the news."
   },
   {
@@ -2643,6 +2936,7 @@
       "arrivato"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The train arrived on time."
   },
   {
@@ -2652,6 +2946,7 @@
       "grosso"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The dog is very big."
   },
   {
@@ -2661,6 +2956,7 @@
       "luna"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The full moon is beautiful tonight."
   },
   {
@@ -2670,6 +2966,7 @@
       "povero"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "We help poor people."
   },
   {
@@ -2679,6 +2976,7 @@
       "ridere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "He always makes me laugh."
   },
   {
@@ -2688,6 +2986,7 @@
       "aereo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We will take the airplane to Rome."
   },
   {
@@ -2697,6 +2996,7 @@
       "fiore"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like red flowers."
   },
   {
@@ -2706,6 +3006,7 @@
       "negozio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I'm going to the shop to buy bread."
   },
   {
@@ -2715,6 +3016,7 @@
       "quarto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "It's the fourth day of the week."
   },
   {
@@ -2724,6 +3026,7 @@
       "lezione"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We have an Italian lesson every Tuesday."
   },
   {
@@ -2733,6 +3036,7 @@
       "primavera"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Spring is my favorite season."
   },
   {
@@ -2742,6 +3046,7 @@
       "latte"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a coffee with milk."
   },
   {
@@ -2751,6 +3056,7 @@
       "nato"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I was born in Rome."
   },
   {
@@ -2760,6 +3066,7 @@
       "brutto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "What bad weather today!"
   },
   {
@@ -2769,6 +3076,7 @@
       "nonna"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My grandmother always makes fresh pasta."
   },
   {
@@ -2778,6 +3086,7 @@
       "accettare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I decided to accept the job offer."
   },
   {
@@ -2787,6 +3096,7 @@
       "appuntamento"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I have an appointment with the doctor tomorrow."
   },
   {
@@ -2796,6 +3106,7 @@
       "biblioteca"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I go to the library to study."
   },
   {
@@ -2805,6 +3116,7 @@
       "chiudere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Please, can you close the door?"
   },
   {
@@ -2814,6 +3126,7 @@
       "nove"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I have nine books on the desk."
   },
   {
@@ -2823,6 +3136,7 @@
       "olio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Put some oil in the salad."
   },
   {
@@ -2832,6 +3146,7 @@
       "pane"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a piece of bread."
   },
   {
@@ -2841,6 +3156,7 @@
       "scarpa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a new pair of shoes."
   },
   {
@@ -2850,6 +3166,7 @@
       "ascoltare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to listen to music."
   },
   {
@@ -2859,6 +3176,7 @@
       "cominciare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "We need to start the work early."
   },
   {
@@ -2868,6 +3186,7 @@
       "lunedì"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you next Monday."
   },
   {
@@ -2877,6 +3196,7 @@
       "spiaggia"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's go to the beach this summer."
   },
   {
@@ -2886,6 +3206,7 @@
       "vacanza"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We're going on holiday in August."
   },
   {
@@ -2895,6 +3216,7 @@
       "esserci"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "There is a book on the table."
   },
   {
@@ -2904,6 +3226,7 @@
       "papà"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My dad taught me how to swim."
   },
   {
@@ -2913,6 +3236,7 @@
       "ristorante"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's go to dinner at an Italian restaurant."
   },
   {
@@ -2922,6 +3246,7 @@
       "tavolo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The book is on the table."
   },
   {
@@ -2931,6 +3256,7 @@
       "braccio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My arm hurts."
   },
   {
@@ -2940,6 +3266,7 @@
       "hotel"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We booked a hotel in the center."
   },
   {
@@ -2949,6 +3276,7 @@
       "montagna"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to go to the mountains."
   },
   {
@@ -2958,6 +3286,7 @@
       "preferire"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I prefer coffee to tea."
   },
   {
@@ -2967,6 +3296,7 @@
       "bere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to drink a glass of water."
   },
   {
@@ -2976,6 +3306,7 @@
       "biglietto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a ticket for the concert."
   },
   {
@@ -2985,6 +3316,7 @@
       "gamba"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My leg hurts."
   },
   {
@@ -2994,6 +3326,7 @@
       "gentile"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "He is a very kind person."
   },
   {
@@ -3003,6 +3336,7 @@
       "giardino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We have a beautiful garden behind the house."
   },
   {
@@ -3012,6 +3346,7 @@
       "lago"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's go on a trip to the lake."
   },
   {
@@ -3021,6 +3356,7 @@
       "regalo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a gift for his birthday."
   },
   {
@@ -3030,6 +3366,7 @@
       "vestito"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "She bought a new dress for the party."
   },
   {
@@ -3039,6 +3376,7 @@
       "borsa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I left my bag on the table."
   },
   {
@@ -3048,6 +3386,7 @@
       "pizza"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a Margherita pizza."
   },
   {
@@ -3057,6 +3396,7 @@
       "pesce"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to eat fish."
   },
   {
@@ -3066,6 +3406,7 @@
       "scusare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Excuse me, may I ask you a question?"
   },
   {
@@ -3075,6 +3416,7 @@
       "colazione"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I have breakfast at eight."
   },
   {
@@ -3084,6 +3426,7 @@
       "pianta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a new plant for my living room."
   },
   {
@@ -3093,6 +3436,7 @@
       "appartamento"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I live in a small apartment."
   },
   {
@@ -3102,6 +3446,7 @@
       "compleanno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Today is my birthday."
   },
   {
@@ -3111,6 +3456,7 @@
       "mattino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We'll see each other tomorrow morning."
   },
   {
@@ -3120,6 +3466,7 @@
       "pasta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to eat pasta."
   },
   {
@@ -3129,6 +3476,7 @@
       "tavola"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Put the plates on the table."
   },
   {
@@ -3138,6 +3486,7 @@
       "finestra"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Open the window, please."
   },
   {
@@ -3147,6 +3496,7 @@
       "frutto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Fruit is important for a healthy diet."
   },
   {
@@ -3156,6 +3506,7 @@
       "vendere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to sell my car."
   },
   {
@@ -3165,6 +3516,7 @@
       "zio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My uncle lives in Rome."
   },
   {
@@ -3174,6 +3526,7 @@
       "albero"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "There is a big tree in the garden."
   },
   {
@@ -3183,6 +3536,7 @@
       "birra"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a cold beer."
   },
   {
@@ -3192,6 +3546,7 @@
       "incontrare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to meet your friends."
   },
   {
@@ -3201,6 +3556,7 @@
       "correre"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to run in the morning."
   },
   {
@@ -3210,6 +3566,7 @@
       "riso"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like rice with vegetables."
   },
   {
@@ -3219,6 +3576,7 @@
       "contento"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am very happy to see you."
   },
   {
@@ -3228,6 +3586,7 @@
       "dente"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "A tooth hurts me."
   },
   {
@@ -3237,6 +3596,7 @@
       "naso"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "He has a small nose."
   },
   {
@@ -3246,6 +3606,7 @@
       "piatto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "This is my favorite dish."
   },
   {
@@ -3255,6 +3616,7 @@
       "inverno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Winter is my favorite season."
   },
   {
@@ -3264,6 +3626,7 @@
       "gatto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The cat is sleeping on the sofa."
   },
   {
@@ -3273,6 +3636,7 @@
       "giallo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The sun is yellow."
   },
   {
@@ -3282,6 +3646,7 @@
       "giovedì"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you next Thursday."
   },
   {
@@ -3291,6 +3656,7 @@
       "kg"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought two kilograms of apples."
   },
   {
@@ -3300,6 +3666,7 @@
       "largo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The street is very wide."
   },
   {
@@ -3309,6 +3676,7 @@
       "mar"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's go to the sea this weekend."
   },
   {
@@ -3318,6 +3686,7 @@
       "uovo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a fried egg for breakfast."
   },
   {
@@ -3327,6 +3696,7 @@
       "cattivo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "Don't be bad to your little brother."
   },
   {
@@ -3336,6 +3706,7 @@
       "girare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Turn right at the next intersection."
   },
   {
@@ -3345,6 +3716,7 @@
       "insegnante"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My Italian teacher is very good."
   },
   {
@@ -3354,6 +3726,7 @@
       "nonno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My grandfather told me a story."
   },
   {
@@ -3363,6 +3736,7 @@
       "ringraziare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to thank you for your help."
   },
   {
@@ -3372,6 +3746,7 @@
       "piú"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I want more time to finish."
   },
   {
@@ -3381,6 +3756,7 @@
       "benvenuto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "You are welcome in my home."
   },
   {
@@ -3390,6 +3766,7 @@
       "guidare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to drive the car."
   },
   {
@@ -3399,6 +3776,7 @@
       "mostrare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Can you show me the way?"
   },
   {
@@ -3408,6 +3786,7 @@
       "pò"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "I would like a little sugar."
   },
   {
@@ -3417,6 +3796,7 @@
       "autobus"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I take the bus to go to school."
   },
   {
@@ -3426,6 +3806,7 @@
       "dito"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I cut my finger."
   },
   {
@@ -3435,6 +3816,7 @@
       "doccia"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I take a shower every morning."
   },
   {
@@ -3444,6 +3826,7 @@
       "neve"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Snow covers the mountains in winter."
   },
   {
@@ -3453,6 +3836,7 @@
       "visitare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I would like to visit Rome next summer."
   },
   {
@@ -3462,6 +3846,7 @@
       "zucchero"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I always put a little sugar in my coffee."
   },
   {
@@ -3471,6 +3856,7 @@
       "dodici"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "There are twelve months in a year."
   },
   {
@@ -3480,6 +3866,7 @@
       "dottore"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I have an appointment with the doctor."
   },
   {
@@ -3489,6 +3876,7 @@
       "martedì"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you next Tuesday."
   },
   {
@@ -3498,6 +3886,7 @@
       "preparare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I need to prepare dinner."
   },
   {
@@ -3507,6 +3896,7 @@
       "suonare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to play the guitar."
   },
   {
@@ -3516,6 +3906,7 @@
       "mercoledì"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you next Wednesday."
   },
   {
@@ -3525,6 +3916,7 @@
       "bacio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "He gave her a kiss on the cheek."
   },
   {
@@ -3534,6 +3926,7 @@
       "ballo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's go to a dance tonight."
   },
   {
@@ -3543,6 +3936,7 @@
       "quinto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "It's the fifth day of the week."
   },
   {
@@ -3552,6 +3946,7 @@
       "torta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I ate a slice of cake."
   },
   {
@@ -3561,6 +3956,7 @@
       "viaggiare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to travel by train."
   },
   {
@@ -3570,6 +3966,7 @@
       "frutta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to eat fresh fruit every day."
   },
   {
@@ -3579,6 +3976,7 @@
       "insegnare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "She teaches Italian to children."
   },
   {
@@ -3588,6 +3986,7 @@
       "barca"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's go by boat on the lake."
   },
   {
@@ -3597,6 +3996,7 @@
       "bus"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I take the bus to go to work."
   },
   {
@@ -3606,6 +4006,7 @@
       "destro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "My right hand is stronger."
   },
   {
@@ -3615,6 +4016,7 @@
       "viola"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "My favorite color is purple."
   },
   {
@@ -3624,6 +4026,7 @@
       "trenta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I have thirty euros."
   },
   {
@@ -3633,6 +4036,7 @@
       "camminare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to walk in the park in the morning."
   },
   {
@@ -3642,6 +4046,7 @@
       "erba"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The lawn is covered with green grass."
   },
   {
@@ -3651,6 +4056,7 @@
       "ritornare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to return home."
   },
   {
@@ -3660,6 +4066,7 @@
       "cantare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "She likes to sing in the shower."
   },
   {
@@ -3669,6 +4076,7 @@
       "cioccolato"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a piece of chocolate."
   },
   {
@@ -3678,6 +4086,7 @@
       "quindici"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am fifteen years old."
   },
   {
@@ -3687,6 +4096,7 @@
       "zia"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My aunt lives in Rome."
   },
   {
@@ -3696,6 +4106,7 @@
       "divano"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I sat on the sofa to read."
   },
   {
@@ -3705,6 +4116,7 @@
       "foglio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Write your name on a sheet of paper."
   },
   {
@@ -3714,6 +4126,7 @@
       "libreria"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I'm going to the bookstore to buy a book."
   },
   {
@@ -3723,6 +4136,7 @@
       "orecchio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My ear hurts."
   },
   {
@@ -3732,6 +4146,7 @@
       "bottiglia"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a bottle of water."
   },
   {
@@ -3741,6 +4156,7 @@
       "scatola"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Put the toys in the box."
   },
   {
@@ -3750,6 +4166,7 @@
       "aeroporto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We are going to the airport to catch the flight."
   },
   {
@@ -3759,6 +4176,7 @@
       "bici"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I go to work by bike every day."
   },
   {
@@ -3768,6 +4186,7 @@
       "malato"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I feel sick today."
   },
   {
@@ -3777,6 +4196,7 @@
       "stanco"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am very tired after work."
   },
   {
@@ -3786,6 +4206,7 @@
       "taxi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's take a taxi to the station."
   },
   {
@@ -3795,6 +4216,7 @@
       "cugino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My cousin lives in Rome."
   },
   {
@@ -3804,6 +4226,7 @@
       "fresco"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The air is cool this morning."
   },
   {
@@ -3813,6 +4236,7 @@
       "cinquanta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I have fifty euros in my pocket."
   },
   {
@@ -3822,6 +4246,7 @@
       "corto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "She has short hair."
   },
   {
@@ -3831,6 +4256,7 @@
       "formaggio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like cheese."
   },
   {
@@ -3840,6 +4266,7 @@
       "mezz'ora"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We'll see each other in half an hour."
   },
   {
@@ -3849,6 +4276,7 @@
       "tè"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a cup of tea, please."
   },
   {
@@ -3858,6 +4286,7 @@
       "albergo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We booked a room in a hotel."
   },
   {
@@ -3867,6 +4296,7 @@
       "autunno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Autumn is my favorite season."
   },
   {
@@ -3876,6 +4306,7 @@
       "bicchiere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a glass of water, please."
   },
   {
@@ -3885,6 +4316,7 @@
       "grigio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The sky is grey today."
   },
   {
@@ -3894,6 +4326,7 @@
       "pantalone"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My favorite trousers are blue."
   },
   {
@@ -3903,6 +4336,7 @@
       "pulire"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I need to clean the house today."
   },
   {
@@ -3912,6 +4346,7 @@
       "sedia"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Sit on this chair."
   },
   {
@@ -3921,6 +4356,7 @@
       "azzurro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The sky today is a brilliant light blue."
   },
   {
@@ -3930,6 +4366,7 @@
       "mezzanotte"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We'll see each other at midnight."
   },
   {
@@ -3939,6 +4376,7 @@
       "mezzogiorno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I always have lunch at noon."
   },
   {
@@ -3948,6 +4386,7 @@
       "simpatico"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "Your friend is very nice."
   },
   {
@@ -3957,6 +4396,7 @@
       "cappello"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I always wear a hat in winter."
   },
   {
@@ -3966,6 +4406,7 @@
       "penna"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I need a pen to write."
   },
   {
@@ -3975,6 +4416,7 @@
       "cucinare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to cook pasta."
   },
   {
@@ -3984,6 +4426,7 @@
       "orologio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a new watch."
   },
   {
@@ -3993,6 +4436,7 @@
       "pollo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Tonight we are eating roast chicken."
   },
   {
@@ -4002,6 +4446,7 @@
       "sedere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Please, sit down."
   },
   {
@@ -4011,6 +4456,7 @@
       "gelato"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I really like chocolate ice cream."
   },
   {
@@ -4020,6 +4466,7 @@
       "lento"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The snail is very slow."
   },
   {
@@ -4029,6 +4476,7 @@
       "pasto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "It's time to have the meal."
   },
   {
@@ -4038,6 +4486,7 @@
       "pulito"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The house is very clean."
   },
   {
@@ -4047,6 +4496,7 @@
       "undici"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I am eleven years old."
   },
   {
@@ -4056,6 +4506,7 @@
       "ballare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to dance salsa."
   },
   {
@@ -4065,6 +4516,7 @@
       "camicia"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a new blue shirt."
   },
   {
@@ -4074,6 +4526,7 @@
       "giacca"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I forgot my jacket at home."
   },
   {
@@ -4083,6 +4536,7 @@
       "patata"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like french fries."
   },
   {
@@ -4092,6 +4546,7 @@
       "alzare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Please, can you raise your hand?"
   },
   {
@@ -4101,6 +4556,7 @@
       "bicicletta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I go to work by bicycle."
   },
   {
@@ -4110,6 +4566,7 @@
       "burro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like some butter on the bread."
   },
   {
@@ -4119,6 +4576,7 @@
       "dizionario"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I looked up the word in the dictionary."
   },
   {
@@ -4128,6 +4586,7 @@
       "bimbo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The baby is sleeping in the crib."
   },
   {
@@ -4137,6 +4596,7 @@
       "coltello"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I need a knife to cut the bread."
   },
   {
@@ -4146,6 +4606,7 @@
       "maglietta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a new t-shirt."
   },
   {
@@ -4155,6 +4616,7 @@
       "bambina"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The little girl plays in the park."
   },
   {
@@ -4164,6 +4626,7 @@
       "biscotto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I ate a cookie with my coffee."
   },
   {
@@ -4173,6 +4636,7 @@
       "salutare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to greet my friends."
   },
   {
@@ -4182,6 +4646,7 @@
       "scuro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The sky is dark tonight."
   },
   {
@@ -4191,6 +4656,7 @@
       "week"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you next week."
   },
   {
@@ -4200,6 +4666,7 @@
       "letto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I'm going to bed early tonight."
   },
   {
@@ -4209,6 +4676,7 @@
       "ragazzina"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The little girl was playing in the park."
   },
   {
@@ -4218,6 +4686,7 @@
       "babbo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My dad taught me how to swim."
   },
   {
@@ -4227,6 +4696,7 @@
       "succo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a glass of orange juice."
   },
   {
@@ -4236,6 +4706,7 @@
       "supermercato"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I'm going to the supermarket to buy bread."
   },
   {
@@ -4245,6 +4716,7 @@
       "andavano"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "They used to go to the sea every summer."
   },
   {
@@ -4254,6 +4726,7 @@
       "sci"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We're going skiing in the mountains this winter."
   },
   {
@@ -4263,6 +4736,7 @@
       "wifi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Is there free Wi-Fi in this cafe?"
   },
   {
@@ -4272,6 +4746,7 @@
       "capodanno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We will celebrate New Year's Day with friends."
   },
   {
@@ -4281,6 +4756,7 @@
       "chilo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a kilo of apples, please."
   },
   {
@@ -4290,6 +4766,7 @@
       "litro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a liter of milk, please."
   },
   {
@@ -4299,6 +4776,7 @@
       "sete"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I'm very thirsty after the run."
   },
   {
@@ -4308,6 +4786,7 @@
       "quaranta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am forty years old."
   },
   {
@@ -4317,6 +4796,7 @@
       "sporco"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "His clothes are dirty."
   },
   {
@@ -4326,6 +4806,7 @@
       "mela"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to eat an apple every day."
   },
   {
@@ -4335,6 +4816,7 @@
       "sessanta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "He is sixty years old."
   },
   {
@@ -4344,6 +4826,7 @@
       "marrone"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I bought a brown bag."
   },
   {
@@ -4353,6 +4836,7 @@
       "sedici"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am sixteen years old."
   },
   {
@@ -4362,6 +4846,7 @@
       "svegliare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I need to wake up the children."
   },
   {
@@ -4371,6 +4856,7 @@
       "sognare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to daydream."
   },
   {
@@ -4380,6 +4866,7 @@
       "abitare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I have lived in Rome for five years."
   },
   {
@@ -4389,6 +4876,7 @@
       "cola"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a cola, please."
   },
   {
@@ -4398,6 +4886,7 @@
       "limone"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a slice of lemon in my tea."
   },
   {
@@ -4407,6 +4896,7 @@
       "scrivania"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My desk is full of books."
   },
   {
@@ -4416,6 +4906,7 @@
       "zaino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I put the books in the backpack."
   },
   {
@@ -4425,6 +4916,7 @@
       "accendere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Can you turn on the light, please?"
   },
   {
@@ -4434,6 +4926,7 @@
       "biondo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "She has blonde hair."
   },
   {
@@ -4443,6 +4936,7 @@
       "coniglio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The rabbit eats carrots."
   },
   {
@@ -4452,6 +4946,7 @@
       "disegnare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to draw landscapes."
   },
   {
@@ -4461,6 +4956,7 @@
       "tredici"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "There are thirteen students in the class."
   },
   {
@@ -4470,6 +4966,7 @@
       "gridare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Don't shout, please."
   },
   {
@@ -4479,6 +4976,7 @@
       "panino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a ham sandwich."
   },
   {
@@ -4488,6 +4986,7 @@
       "piovere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "It's about to rain."
   },
   {
@@ -4497,6 +4996,7 @@
       "pomodoro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like tomato sauce."
   },
   {
@@ -4506,6 +5006,7 @@
       "farmacia"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I need to go to the pharmacy to buy medicine."
   },
   {
@@ -4515,6 +5016,7 @@
       "tazza"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a cup of coffee."
   },
   {
@@ -4524,6 +5026,7 @@
       "automobile"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a new car."
   },
   {
@@ -4533,6 +5036,7 @@
       "divertirsi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "We had a lot of fun at the party."
   },
   {
@@ -4542,6 +5046,7 @@
       "domandare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I would like to ask something."
   },
   {
@@ -4551,6 +5056,7 @@
       "duecento"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "There are two hundred people."
   },
   {
@@ -4560,6 +5066,7 @@
       "novanta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I have ninety euros in my pocket."
   },
   {
@@ -4569,6 +5076,7 @@
       "ottanta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "He is eighty years old."
   },
   {
@@ -4578,6 +5086,7 @@
       "arancione"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I like the color orange."
   },
   {
@@ -4587,6 +5096,7 @@
       "diciotto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am eighteen years old."
   },
   {
@@ -4596,6 +5106,7 @@
       "lavare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I need to wash the dishes."
   },
   {
@@ -4605,6 +5116,7 @@
       "sapone"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I need soap to wash my hands."
   },
   {
@@ -4614,6 +5126,7 @@
       "quattordici"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am fourteen years old."
   },
   {
@@ -4623,6 +5136,7 @@
       "riposare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I need to rest after the long journey."
   },
   {
@@ -4632,6 +5146,7 @@
       "settanta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "He is seventy years old."
   },
   {
@@ -4641,6 +5156,7 @@
       "regalare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I want to give a book to my sister."
   },
   {
@@ -4650,6 +5166,7 @@
       "verdura"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to eat a lot of vegetables."
   },
   {
@@ -4659,6 +5176,7 @@
       "gonna"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "She is wearing a long skirt."
   },
   {
@@ -4668,6 +5186,7 @@
       "menu"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Can we have the menu, please?"
   },
   {
@@ -4677,6 +5196,7 @@
       "professoressa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The professor explained the lesson."
   },
   {
@@ -4686,6 +5206,7 @@
       "venerdi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "See you next Friday."
   },
   {
@@ -4695,6 +5216,7 @@
       "bimba"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The little girl is sleeping in her crib."
   },
   {
@@ -4704,6 +5226,7 @@
       "insalata"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a mixed salad."
   },
   {
@@ -4713,6 +5236,7 @@
       "lampada"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Turn on the lamp, please."
   },
   {
@@ -4722,6 +5246,7 @@
       "panna"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a coffee with a little cream."
   },
   {
@@ -4731,6 +5256,7 @@
       "prosciutto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a sandwich with ham and cheese."
   },
   {
@@ -4740,6 +5266,7 @@
       "spaghetto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "A strand of spaghetti fell from my fork."
   },
   {
@@ -4749,6 +5276,7 @@
       "banana"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to eat a banana for breakfast."
   },
   {
@@ -4758,6 +5286,7 @@
       "menù"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Can I have the menu, please?"
   },
   {
@@ -4767,6 +5296,7 @@
       "cacca"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The dog pooped in the garden."
   },
   {
@@ -4776,6 +5306,7 @@
       "tondo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The table is round."
   },
   {
@@ -4785,6 +5316,7 @@
       "cioccolata"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a cup of hot chocolate."
   },
   {
@@ -4794,6 +5326,7 @@
       "matita"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I need a pencil to write."
   },
   {
@@ -4803,6 +5336,7 @@
       "pizzeria"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's go eat a pizza at the pizzeria tonight."
   },
   {
@@ -4812,6 +5346,7 @@
       "allegro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "He is always a cheerful person."
   },
   {
@@ -4821,6 +5356,7 @@
       "cappotto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I wear a heavy coat in winter."
   },
   {
@@ -4830,6 +5366,7 @@
       "hamburger"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a hamburger with french fries."
   },
   {
@@ -4839,6 +5376,7 @@
       "mucca"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The cow grazes in the field."
   },
   {
@@ -4848,6 +5386,7 @@
       "pentola"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I put the water to boil in the pot."
   },
   {
@@ -4857,6 +5396,7 @@
       "quaderno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I wrote my notes in the notebook."
   },
   {
@@ -4866,6 +5406,7 @@
       "diciassette"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am seventeen years old."
   },
   {
@@ -4875,6 +5416,7 @@
       "nuotare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to swim in the sea."
   },
   {
@@ -4884,6 +5426,7 @@
       "zuppa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to eat hot soup in winter."
   },
   {
@@ -4893,6 +5436,7 @@
       "calzino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I lost a sock in the washing machine."
   },
   {
@@ -4902,6 +5446,7 @@
       "cucchiaio"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I need a spoon for the coffee."
   },
   {
@@ -4911,6 +5456,7 @@
       "venticinque"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am twenty-five years old."
   },
   {
@@ -4920,6 +5466,7 @@
       "cartolina"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I sent you a postcard from Rome."
   },
   {
@@ -4929,6 +5476,7 @@
       "cinquant'anni"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "He is fifty years old and still looks young."
   },
   {
@@ -4938,6 +5486,7 @@
       "ventiquattro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "It's twenty-four hours a day."
   },
   {
@@ -4947,6 +5496,7 @@
       "gatta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The cat is sleeping on the sofa."
   },
   {
@@ -4956,6 +5506,7 @@
       "arancia"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to squeeze a fresh orange in the morning."
   },
   {
@@ -4965,6 +5516,7 @@
       "mozzarella"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a pizza with mozzarella."
   },
   {
@@ -4974,6 +5526,7 @@
       "ombrello"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I forgot my umbrella at home."
   },
   {
@@ -4983,6 +5536,7 @@
       "parmigiano"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like some Parmesan cheese on my pasta."
   },
   {
@@ -4992,6 +5546,7 @@
       "salutato"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I greeted him as he passed by."
   },
   {
@@ -5001,6 +5556,7 @@
       "toccato"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I didn't touch anything."
   },
   {
@@ -5010,6 +5566,7 @@
       "alfabeto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I am learning the Italian alphabet."
   },
   {
@@ -5019,6 +5576,7 @@
       "televisore"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "We bought a new television set."
   },
   {
@@ -5028,6 +5586,7 @@
       "cappuccino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a cappuccino, please."
   },
   {
@@ -5037,6 +5596,7 @@
       "incontrarsi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Shall we meet at the bar at seven?"
   },
   {
@@ -5046,6 +5606,7 @@
       "diciannove"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am nineteen years old."
   },
   {
@@ -5055,6 +5616,7 @@
       "maglione"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought a new wool sweater."
   },
   {
@@ -5064,6 +5626,7 @@
       "semaforo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The traffic light is red, we must stop."
   },
   {
@@ -5073,6 +5636,7 @@
       "telefonino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I forgot my mobile phone at home."
   },
   {
@@ -5082,6 +5646,7 @@
       "cenare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Tonight we're dining out."
   },
   {
@@ -5091,6 +5656,7 @@
       "pera"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to eat a pear for breakfast."
   },
   {
@@ -5100,6 +5666,7 @@
       "telefonare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I need to call my mother."
   },
   {
@@ -5109,6 +5676,7 @@
       "fragola"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I really like fresh strawberries."
   },
   {
@@ -5118,6 +5686,7 @@
       "gattino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The kitten was playing with a ball of yarn."
   },
   {
@@ -5127,6 +5696,7 @@
       "chiamarsi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "My name is Marco."
   },
   {
@@ -5136,6 +5706,7 @@
       "pipì"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The child peed in the potty."
   },
   {
@@ -5145,6 +5716,7 @@
       "scusarsi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "You should apologize for your behavior."
   },
   {
@@ -5154,6 +5726,7 @@
       "cuocere"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I need to cook the pasta for dinner."
   },
   {
@@ -5163,6 +5736,7 @@
       "carota"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like raw carrots."
   },
   {
@@ -5172,6 +5746,7 @@
       "lavarsi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I wash my hands before eating."
   },
   {
@@ -5181,6 +5756,7 @@
       "zucchina"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I bought some fresh zucchini."
   },
   {
@@ -5190,6 +5766,7 @@
       "fratellino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My little brother is playing in the garden."
   },
   {
@@ -5199,6 +5776,7 @@
       "passeggiare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to walk in the park on Sundays."
   },
   {
@@ -5208,6 +5786,7 @@
       "studentessa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The female student gave an excellent presentation."
   },
   {
@@ -5217,6 +5796,7 @@
       "ananas"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to eat fresh pineapple."
   },
   {
@@ -5226,6 +5806,7 @@
       "maestra"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The teacher explained the lesson."
   },
   {
@@ -5235,6 +5816,7 @@
       "forchetta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Please pass me the fork."
   },
   {
@@ -5244,6 +5826,7 @@
       "pappa"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The baby ate all his baby food."
   },
   {
@@ -5253,6 +5836,7 @@
       "incominciare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "We must begin the work early."
   },
   {
@@ -5262,6 +5846,7 @@
       "ventidue"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am twenty-two years old."
   },
   {
@@ -5271,6 +5856,7 @@
       "minestra"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to eat hot soup in winter."
   },
   {
@@ -5280,6 +5866,7 @@
       "lasagna"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Grandma's lasagna is the best."
   },
   {
@@ -5289,6 +5876,7 @@
       "asciugamano"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I need a clean towel."
   },
   {
@@ -5298,6 +5886,7 @@
       "bibita"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a cold drink."
   },
   {
@@ -5307,6 +5896,7 @@
       "ventuno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I am twenty-one years old."
   },
   {
@@ -5316,6 +5906,7 @@
       "pranzare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I usually have lunch at half past twelve."
   },
   {
@@ -5325,6 +5916,7 @@
       "cioccolatino"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I ate a chocolate candy after lunch."
   },
   {
@@ -5334,6 +5926,7 @@
       "danzare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I like to dance to the rhythm of Latin music."
   },
   {
@@ -5343,6 +5936,7 @@
       "chilogrammo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like one kilogram of apples, please."
   },
   {
@@ -5352,6 +5946,7 @@
       "colorare"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "Children like to color drawings."
   },
   {
@@ -5361,6 +5956,7 @@
       "gelateria"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Let's go to the ice cream shop to get a cone."
   },
   {
@@ -5370,6 +5966,7 @@
       "ventotto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I am twenty-eight years old."
   },
   {
@@ -5379,6 +5976,7 @@
       "sandwich"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I would like a ham and cheese sandwich."
   },
   {
@@ -5388,6 +5986,7 @@
       "trentacinque"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am thirty-five years old."
   },
   {
@@ -5397,6 +5996,7 @@
       "ventisette"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I am twenty-seven years old."
   },
   {
@@ -5406,6 +6006,7 @@
       "wc"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Where is the nearest toilet?"
   },
   {
@@ -5415,6 +6016,7 @@
       "ventisei"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am twenty-six years old."
   },
   {
@@ -5424,6 +6026,7 @@
       "ciliegia"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I really like fresh cherries in summer."
   },
   {
@@ -5433,6 +6036,7 @@
       "sù"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
     "exampleSentenceEnglish": "Go up and get the book."
   },
   {
@@ -5442,6 +6046,7 @@
       "trentadue"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am thirty-two years old."
   },
   {
@@ -5451,6 +6056,7 @@
       "quarantacinque"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am forty-five years old."
   },
   {
@@ -5460,6 +6066,7 @@
       "zeta"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Z is the last letter of the Italian alphabet."
   },
   {
@@ -5469,6 +6076,7 @@
       "tiramisù"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Tiramisu is my favorite Italian dessert."
   },
   {
@@ -5478,6 +6086,7 @@
       "trentasei"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The number thirty-six is double eighteen."
   },
   {
@@ -5487,6 +6096,7 @@
       "croissant"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like to have breakfast with a coffee and a croissant."
   },
   {
@@ -5496,6 +6106,7 @@
       "lattuga"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I like salad with fresh lettuce."
   },
   {
@@ -5505,6 +6116,7 @@
       "svegliarsi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "I always wake up early in the morning."
   },
   {
@@ -5514,6 +6126,7 @@
       "trentuno"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am thirty-one years old."
   },
   {
@@ -5523,6 +6136,7 @@
       "ventinove"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I am twenty-nine years old."
   },
   {
@@ -5532,6 +6146,7 @@
       "ventitré"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The lucky number is twenty-three."
   },
   {
@@ -5541,6 +6156,7 @@
       "quarantadue"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am forty-two years old."
   },
   {
@@ -5550,6 +6166,7 @@
       "miao"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "interjection",
     "exampleSentenceEnglish": "The cat said 'meow'."
   },
   {
@@ -5559,6 +6176,7 @@
       "supermarket"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "I'm going to the supermarket to buy bread."
   },
   {
@@ -5568,6 +6186,7 @@
       "trentaquattro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "I am thirty-four years old."
   },
   {
@@ -5577,6 +6196,7 @@
       "amarsi"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "verb",
     "exampleSentenceEnglish": "It's important to love oneself first of all."
   },
   {
@@ -5586,6 +6206,7 @@
       "claro"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
     "exampleSentenceEnglish": "The sky is clear today."
   },
   {
@@ -5595,6 +6216,7 @@
       "cugina"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "My cousin is coming to visit us this weekend."
   },
   {
@@ -5604,6 +6226,7 @@
       "effe"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "The word \"fiore\" starts with the letter F."
   },
   {
@@ -5613,6 +6236,7 @@
       "trentotto"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "His lucky number is thirty-eight."
   },
   {
@@ -5622,6 +6246,7 @@
       "tovagliolo"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "Can you pass me the napkin, please?"
   },
   {
@@ -5631,6 +6256,7 @@
       "trentanove"
     ],
     "cefrLevel": "A1",
+    "partOfSpeech": "noun",
     "exampleSentenceEnglish": "His lucky number is thirty-nine."
   }
 ]

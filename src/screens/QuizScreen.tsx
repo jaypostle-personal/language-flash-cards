@@ -56,9 +56,16 @@ export function QuizScreen() {
       <div className="mx-auto max-w-xl">
         <Card className="border-0 bg-white shadow-[0_20px_60px_rgba(68,35,10,0.12)]">
           <CardHeader className="gap-3">
-            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8a5a2a]">
-              Session progress
-            </p>
+            <div className="flex justify-between">
+              <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#8a5a2a]">
+                Session progress
+              </p>
+              <CardDescription>
+                <span className="font-bold"> {session.correctCount}</span> /
+                {session.total}
+              </CardDescription>
+            </div>
+
             <div
               className="h-2 w-full overflow-hidden rounded-full bg-[#f0e6d8]"
               role="progressbar"
@@ -77,30 +84,39 @@ export function QuizScreen() {
 
           <CardContent className="space-y-2 bg-[#fcf8f2] py-5">
             <div className="flex items-start justify-between gap-4">
-              <CardTitle
-                as="h1"
-                tabIndex={-1}
-                className="text-3xl font-semibold"
-              >
-                <FormattedPrompt prompt={session.currentCard.prompt} />
-              </CardTitle>
-              {session.currentCard.cefrLevel ? (
-                <span
-                  aria-label={`CEFR level ${session.currentCard.cefrLevel}`}
-                  className="shrink-0 rounded-full border border-[#e9e1d8] bg-white px-3 py-1 text-xs font-semibold tracking-wide text-[#6f665e]"
+              <div className="flex items-baseline gap-2">
+                <CardTitle
+                  as="h1"
+                  tabIndex={-1}
+                  className="text-3xl font-semibold"
                 >
-                  {session.currentCard.cefrLevel}
-                </span>
-              ) : null}
+                  <FormattedPrompt prompt={session.currentCard.prompt} />
+                </CardTitle>
+                {session.currentCard.partOfSpeech ? (
+                  <span
+                    aria-label={`Part of speech: ${session.currentCard.partOfSpeech}`}
+                    className="h-fit rounded-full border border-[#e9e1d8] bg-white px-3 py-1 text-xs capitalize text-[#6f665e]"
+                  >
+                    {session.currentCard.partOfSpeech}
+                  </span>
+                ) : null}
+              </div>
+              <div className="flex shrink-0 flex-wrap justify-end gap-2">
+                {session.currentCard.cefrLevel ? (
+                  <span
+                    aria-label={`CEFR level ${session.currentCard.cefrLevel}`}
+                    className="rounded-full border border-[#e9e1d8] bg-white px-3 py-1 text-xs font-semibold tracking-wide text-[#6f665e]"
+                  >
+                    {session.currentCard.cefrLevel}
+                  </span>
+                ) : null}
+              </div>
             </div>
             {session.currentCard.exampleSentenceEnglish ? (
               <CardDescription className="text-base italic text-[#6f665e]">
                 “{session.currentCard.exampleSentenceEnglish}”
               </CardDescription>
             ) : null}
-            <CardDescription>
-              {session.remainingCount} left in this round.
-            </CardDescription>
           </CardContent>
 
           <CardContent className="pt-0 ">
